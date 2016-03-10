@@ -33,14 +33,14 @@ MyDataFolder = '/users/evelina9/more_evelina_files/MEGADATA'; % path to the data
 
 participant_sessions = {{'152_KAN_RHnonlit_01','138_KAN_RHnonlit_02','136_KAN_RHnonlit_03','194_KAN_RHnonlit_04','097_KAN_RHnonlit_05','135_KAN_RHnonlit_06','197_KAN_RHnonlit_07','198_KAN_RHnonlit_08','018_KAN_RHnonlit_09','049_KAN_RHnonlit_10','201_KAN_RHnonlit_11','175_KAN_RHnonlit_12'}}; %The subject IDs of individual subjects you'll analyze
 
-MyOutputFolder = '/mindhive/evlab/u/mekline/Desktop/Jokes/New_Analyses/NewToMfROIsrespNonlitJokesCustom_20160203_results'; %Where should the results wind up? For testing this script, this is all u need to change and it should just work! Note: usually the scripts are good about this but this one actually does break if you put a slash at the end of your dir name.
+MyOutputFolder = '/mindhive/evlab/u/mekline/Desktop/Jokes/Jokes_Repo/New_ToolboxAnalyses/NewToMfROIsrespNonlitJokes_20160310_results'; %Where should the results wind up? For testing this script, this is all u need to change and it should just work! Note: usually the scripts are good about this but this one actually does break if you put a slash at the end of your dir name.
 
 firstlevel_loc = 'firstlevel_ToMshort'; % path to the first-level analysis directory for the lang localizer or whatever
 firstlevel_crit = 'firstlevel_nonlit_joke'; %path to 1st-level analysis directory for the critical task
 
 
 loc_cons = {{'bel-pho'}}; %Which contrast used to localize issROIs?
-crit_cons = {{'low','med','high','other'}}; %Same as normal jokes, recoded by partic's ratings
+crit_cons = {{'joke','lit','joke-lit'}}; %Effect of interest contrasts: cons of the crit. experiment do we want to measure there? It could be the same as the loc! In that case SPM will make ur data independent for you :)
 
 what_parcels = '/users/evelina9/fMRI_PROJECTS/ROIS/ToMparcels_Mar2015.img'; %specify the full path to the *img or *nii file that will constrain the search for top voxels
 
