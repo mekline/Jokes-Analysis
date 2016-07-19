@@ -1,0 +1,140 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,155,2,nonjoke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the clowns.,<VisionEgg.WrappedText.WrappedText object at 0x10da3daf0>
+8.0000,2.000,fix
+10.0000,8.000,1,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",<VisionEgg.WrappedText.WrappedText object at 0x10da3dc80>
+18.0000,8.000,1,64,2,joke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its credit.,<VisionEgg.WrappedText.WrappedText object at 0x10da3dcd0>
+26.0000,2.000,fix
+28.0000,8.000,1,109,2,nonjoke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a member.,<VisionEgg.WrappedText.WrappedText object at 0x10da3dbe0>
+36.0000,2.000,fix
+38.0000,8.000,1,98,2,joke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and primaries.",<VisionEgg.WrappedText.WrappedText object at 0x10da3daa0>
+46.0000,2.000,fix
+48.0000,8.000,1,65,2,nonjoke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke heroin.,<VisionEgg.WrappedText.WrappedText object at 0x10da3dd20>
+56.0000,2.000,fix
+58.0000,8.000,1,77,2,nonjoke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to friends.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d9b0>
+66.0000,8.000,1,148,2,joke,The best bargain I ever got was when I went to a family garage sale and bought a ,grandma,toaster,The best bargain I ever got was when I went to a family garage sale and bought a grandma.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d820>
+74.0000,14.000,fix
+88.0000,8.000,1,32,2,joke,"Though most people think it's Rome, the world's most beloved capital is actually",dollars,Vienna,"Though most people think it's Rome, the world's most beloved capital is actually dollars.",<VisionEgg.WrappedText.WrappedText object at 0x10da3da00>
+96.0000,2.000,fix
+98.0000,8.000,1,25,2,nonjoke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is generosity.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d870>
+106.0000,2.000,fix
+108.0000,8.000,1,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",<VisionEgg.WrappedText.WrappedText object at 0x10da3da50>
+116.0000,8.000,1,113,2,nonjoke,Some people's only culture is,bacteria,radio,Some people's only culture is radio.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d7d0>
+124.0000,12.000,fix
+136.0000,8.000,1,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d6e0>
+144.0000,6.000,fix
+150.0000,8.000,1,94,2,joke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are dead.",<VisionEgg.WrappedText.WrappedText object at 0x10da3d780>
+158.0000,4.000,fix
+162.0000,8.000,1,114,2,joke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing bridge.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d8c0>
+170.0000,4.000,fix
+174.0000,8.000,1,120,2,joke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and money.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d960>
+182.0000,2.000,fix
+184.0000,8.000,1,104,2,joke,Politicians who are as American as apple pie still want their,slice,rewards,Politicians who are as American as apple pie still want their slice.,<VisionEgg.WrappedText.WrappedText object at 0x10da3d910>
+192.0000,8.000,1,47,2,nonjoke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a teenager.",<VisionEgg.WrappedText.WrappedText object at 0x10da3ddc0>
+200.0000,8.000,1,40,2,joke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the cashier.,<VisionEgg.WrappedText.WrappedText object at 0x10da3de60>
+208.0000,4.000,fix
+212.0000,8.000,1,21,2,nonjoke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every syllable.",<VisionEgg.WrappedText.WrappedText object at 0x10da3de10>
+220.0000,6.000,fix
+226.0000,8.000,1,27,2,nonjoke,"Once a week they hold a bingo game, and all the proceeds go to fight",gambling,disease,"Once a week they hold a bingo game, and all the proceeds go to fight disease.",<VisionEgg.WrappedText.WrappedText object at 0x10da3deb0>
+234.0000,8.000,1,131,2,nonjoke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly blackjack.",<VisionEgg.WrappedText.WrappedText object at 0x10da3df50>
+242.0000,8.000,1,136,2,joke,The only fishing through the ice that some men ever do is for the ,olive,trout,The only fishing through the ice that some men ever do is for the olive.,<VisionEgg.WrappedText.WrappedText object at 0x10da3df00>
+250.0000,8.000,1,12,2,joke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the press.,<VisionEgg.WrappedText.WrappedText object at 0x10da3dfa0>
+258.0000,12.000,fix
+270.0000,8.000,1,29,2,nonjoke,My doctor has never violated his oath: the oath he took years ago to become a,millionaire,practitioner,My doctor has never violated his oath: the oath he took years ago to become a practitioner.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7050>
+278.0000,8.000,1,82,2,joke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal brunette.",<VisionEgg.WrappedText.WrappedText object at 0x10dad70a0>
+286.0000,2.000,fix
+288.0000,8.000,1,72,2,joke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a library.,<VisionEgg.WrappedText.WrappedText object at 0x10dad70f0>
+296.0000,14.000,fix
+310.0000,8.000,1,83,2,nonjoke,Nothing ages a woman faster than,identification,hardship,Nothing ages a woman faster than hardship.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7190>
+318.0000,4.000,fix
+322.0000,8.000,1,38,2,joke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and investors.,<VisionEgg.WrappedText.WrappedText object at 0x10dad71e0>
+330.0000,2.000,fix
+332.0000,8.000,1,61,2,nonjoke,"For great vacation, put the kids in the back seat, and take a ",cruise,freeway,"For great vacation, put the kids in the back seat, and take a freeway.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7140>
+340.0000,2.000,fix
+342.0000,8.000,1,18,2,joke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my glasses.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7230>
+350.0000,4.000,fix
+354.0000,8.000,1,147,2,nonjoke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the kitchen.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7280>
+362.0000,2.000,fix
+364.0000,8.000,1,144,2,joke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five beers.,<VisionEgg.WrappedText.WrappedText object at 0x10dad72d0>
+372.0000,2.000,fix
+374.0000,8.000,1,50,2,joke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in self- defense.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7320>
+382.0000,4.000,fix
+386.0000,8.000,1,132,2,joke,The last time a guy in a mask took all my money I was in,surgery,shock,The last time a guy in a mask took all my money I was in surgery.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7370>
+394.0000,8.000,1,130,2,joke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly termites.",<VisionEgg.WrappedText.WrappedText object at 0x10dad73c0>
+402.0000,8.000,1,85,2,nonjoke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while relaxed.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7410>
+410.0000,8.000,fix
+418.0000,8.000,1,117,2,nonjoke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to somewhere.",<VisionEgg.WrappedText.WrappedText object at 0x10dad74b0>
+426.0000,6.000,fix
+432.0000,8.000,1,105,2,nonjoke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a guidebook.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7460>
+440.0000,4.000,fix
+444.0000,8.000,1,96,2,joke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the register.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7500>
+452.0000,8.000,1,129,2,nonjoke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a salad.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7550>
+460.0000,8.000,1,108,2,joke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little water.,<VisionEgg.WrappedText.WrappedText object at 0x10dad75a0>
+468.0000,8.000,1,49,2,nonjoke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my aunt.,<VisionEgg.WrappedText.WrappedText object at 0x10dad75f0>
+476.0000,2.000,fix
+478.0000,8.000,1,115,2,nonjoke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your drives.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7640>
+486.0000,8.000,1,122,2,joke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful cleaner.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7690>
+494.0000,4.000,fix
+498.0000,8.000,1,92,2,joke,"When I asked the bartender for something cold and full of rum, he recommended his",wife,daiquiri,"When I asked the bartender for something cold and full of rum, he recommended his wife.",<VisionEgg.WrappedText.WrappedText object at 0x10dad76e0>
+506.0000,8.000,1,11,2,nonjoke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a statement.",<VisionEgg.WrappedText.WrappedText object at 0x10dad7730>
+514.0000,2.000,fix
+516.0000,8.000,1,125,2,nonjoke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the daughter.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7780>
+524.0000,2.000,fix
+526.0000,8.000,1,143,2,nonjoke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're candidates.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7820>
+534.0000,8.000,1,91,2,nonjoke,"If there's one thing that counts in business, its",bookkeepers,resources,"If there's one thing that counts in business, its resources.",<VisionEgg.WrappedText.WrappedText object at 0x10dad77d0>
+542.0000,2.000,fix
+544.0000,8.000,1,6,2,joke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and putt.,<VisionEgg.WrappedText.WrappedText object at 0x10dad7870>
+552.0000,2.000,fix
+554.0000,8.000,1,76,2,joke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of punishment.",<VisionEgg.WrappedText.WrappedText object at 0x10dad78c0>
+562.0000,8.000,fix
+KAN_RHnonlit_07,1,155,2,nonjoke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the clowns.,,,6.000694990158081
+KAN_RHnonlit_07,1,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",1,1.2556350231170654,16.011444807052612
+KAN_RHnonlit_07,1,64,2,joke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its credit.,1,0.7365429401397705,24.013428926467896
+KAN_RHnonlit_07,1,109,2,nonjoke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a member.,1,0.8035459518432617,34.007412910461426
+KAN_RHnonlit_07,1,98,2,joke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and primaries.",,,44.00154781341553
+KAN_RHnonlit_07,1,65,2,nonjoke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke heroin.,1,0.7532699108123779,54.012274980545044
+KAN_RHnonlit_07,1,77,2,nonjoke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to friends.,1,0.8202509880065918,64.00631880760193
+KAN_RHnonlit_07,1,148,2,joke,The best bargain I ever got was when I went to a family garage sale and bought a ,grandma,toaster,The best bargain I ever got was when I went to a family garage sale and bought a grandma.,2,1.2556099891662598,72.00822591781616
+KAN_RHnonlit_07,1,32,2,joke,"Though most people think it's Rome, the world's most beloved capital is actually",dollars,Vienna,"Though most people think it's Rome, the world's most beloved capital is actually dollars.",2,1.288949966430664,94.00525093078613
+KAN_RHnonlit_07,1,25,2,nonjoke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is generosity.,1,0.7868659496307373,104.01591801643372
+KAN_RHnonlit_07,1,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",1,1.6572909355163574,114.01007199287415
+KAN_RHnonlit_07,1,113,2,nonjoke,Some people's only culture is,bacteria,radio,Some people's only culture is radio.,1,0.8705081939697266,122.01192378997803
+KAN_RHnonlit_07,1,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,2,1.4398059844970703,142.0167179107666
+KAN_RHnonlit_07,1,94,2,joke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are dead.",1,0.7366561889648438,156.0117428302765
+KAN_RHnonlit_07,1,114,2,joke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing bridge.,1,1.1886301040649414,168.0146768093109
+KAN_RHnonlit_07,1,120,2,joke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and money.,1,0.6695630550384521,180.00083184242249
+KAN_RHnonlit_07,1,104,2,joke,Politicians who are as American as apple pie still want their,slice,rewards,Politicians who are as American as apple pie still want their slice.,1,1.7243199348449707,190.01160287857056
+KAN_RHnonlit_07,1,47,2,nonjoke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a teenager.",1,0.920720100402832,198.01354789733887
+KAN_RHnonlit_07,1,40,2,joke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the cashier.,2,1.0212428569793701,206.01546096801758
+KAN_RHnonlit_07,1,21,2,nonjoke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every syllable.",1,0.9374668598175049,218.00161600112915
+KAN_RHnonlit_07,1,27,2,nonjoke,"Once a week they hold a bingo game, and all the proceeds go to fight",gambling,disease,"Once a week they hold a bingo game, and all the proceeds go to fight disease.",1,1.0211901664733887,232.01339483261108
+KAN_RHnonlit_07,1,131,2,nonjoke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly blackjack.",1,1.2723190784454346,240.01528787612915
+KAN_RHnonlit_07,1,136,2,joke,The only fishing through the ice that some men ever do is for the ,olive,trout,The only fishing through the ice that some men ever do is for the olive.,2,1.104888916015625,248.0005259513855
+KAN_RHnonlit_07,1,12,2,joke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the press.,1,1.2220280170440674,256.00248289108276
+KAN_RHnonlit_07,1,29,2,nonjoke,My doctor has never violated his oath: the oath he took years ago to become a,millionaire,practitioner,My doctor has never violated his oath: the oath he took years ago to become a practitioner.,1,0.8034920692443848,276.0072638988495
+KAN_RHnonlit_07,1,82,2,joke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal brunette.",1,0.9039859771728516,284.0091829299927
+KAN_RHnonlit_07,1,72,2,joke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a library.,,,294.0032868385315
+KAN_RHnonlit_07,1,83,2,nonjoke,Nothing ages a woman faster than,identification,hardship,Nothing ages a woman faster than hardship.,1,0.8704991340637207,316.0001947879791
+KAN_RHnonlit_07,1,38,2,joke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and investors.,1,1.071324110031128,328.0031728744507
+KAN_RHnonlit_07,1,61,2,nonjoke,"For great vacation, put the kids in the back seat, and take a ",cruise,freeway,"For great vacation, put the kids in the back seat, and take a freeway.",2,1.6740260124206543,338.01391196250916
+KAN_RHnonlit_07,1,18,2,joke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my glasses.",,,348.0079348087311
+KAN_RHnonlit_07,1,147,2,nonjoke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the kitchen.",1,0.6026930809020996,360.0107858181
+KAN_RHnonlit_07,1,144,2,joke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five beers.,2,1.891646146774292,370.00491285324097
+KAN_RHnonlit_07,1,50,2,joke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in self- defense.,1,0.5022790431976318,380.01564478874207
+KAN_RHnonlit_07,1,132,2,joke,The last time a guy in a mask took all my money I was in,surgery,shock,The last time a guy in a mask took all my money I was in surgery.,2,1.1718790531158447,392.00178384780884
+KAN_RHnonlit_07,1,130,2,joke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly termites.",2,1.004518985748291,400.0036950111389
+KAN_RHnonlit_07,1,85,2,nonjoke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while relaxed.",1,0.46886587142944336,408.00565695762634
+KAN_RHnonlit_07,1,117,2,nonjoke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to somewhere.",1,0.4518930912017822,424.00959491729736
+KAN_RHnonlit_07,1,105,2,nonjoke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a guidebook.,1,1.3224899768829346,438.0045750141144
+KAN_RHnonlit_07,1,96,2,joke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the register.",2,1.3057239055633545,450.00744795799255
+KAN_RHnonlit_07,1,129,2,nonjoke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a salad.,1,0.6863129138946533,458.00941801071167
+KAN_RHnonlit_07,1,108,2,joke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little water.,1,1.2889719009399414,466.01132798194885
+KAN_RHnonlit_07,1,49,2,nonjoke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my aunt.,1,0.8705379962921143,474.013249874115
+KAN_RHnonlit_07,1,115,2,nonjoke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your drives.",2,0.8536660671234131,484.00736784935
+KAN_RHnonlit_07,1,122,2,joke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful cleaner.",1,0.8705770969390869,492.0091989040375
+KAN_RHnonlit_07,1,92,2,joke,"When I asked the bartender for something cold and full of rum, he recommended his",wife,daiquiri,"When I asked the bartender for something cold and full of rum, he recommended his wife.",2,0.9207718372344971,504.0121259689331
+KAN_RHnonlit_07,1,11,2,nonjoke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a statement.",1,0.4855079650878906,512.0140218734741
+KAN_RHnonlit_07,1,125,2,nonjoke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the daughter.,1,0.8034539222717285,522.0081520080566
+KAN_RHnonlit_07,1,143,2,nonjoke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're candidates.,1,0.8872079849243164,532.0022068023682
+KAN_RHnonlit_07,1,91,2,nonjoke,"If there's one thing that counts in business, its",bookkeepers,resources,"If there's one thing that counts in business, its resources.",1,0.73655104637146,540.0041229724884
+KAN_RHnonlit_07,1,6,2,joke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and putt.,1,1.5569658279418945,550.0148119926453
+KAN_RHnonlit_07,1,76,2,joke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of punishment.",1,0.7868130207061768,560.0089449882507

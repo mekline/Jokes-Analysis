@@ -1,0 +1,140 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,97,2,nonjoke,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the",dressmaker,mistress,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the mistress.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcd70>
+8.0000,2.000,fix
+10.0000,8.000,1,147,2,nonjoke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the kitchen.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcd20>
+18.0000,8.000,1,90,2,joke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two paychecks.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fcbe0>
+26.0000,2.000,fix
+28.0000,8.000,1,103,2,nonjoke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my ego.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcaf0>
+36.0000,2.000,fix
+38.0000,8.000,1,120,2,joke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and money.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fcc30>
+46.0000,2.000,fix
+48.0000,8.000,1,101,2,nonjoke,"I got a car for my wife, and I thought it was a good",trade,choice,"I got a car for my wife, and I thought it was a good choice.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcb90>
+56.0000,2.000,fix
+58.0000,8.000,1,29,2,nonjoke,My doctor has never violated his oath: the oath he took years ago to become a,millionaire,practitioner,My doctor has never violated his oath: the oath he took years ago to become a practitioner.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fc6e0>
+66.0000,8.000,1,68,2,joke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date bachelors.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fca00>
+74.0000,14.000,fix
+88.0000,8.000,1,100,2,joke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a crash.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fca50>
+96.0000,2.000,fix
+98.0000,8.000,1,43,2,nonjoke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a journalist.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fc820>
+106.0000,2.000,fix
+108.0000,8.000,1,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fc870>
+116.0000,8.000,1,51,2,nonjoke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the nighttime.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fc9b0>
+124.0000,12.000,fix
+136.0000,8.000,1,116,2,joke,Autobiography is an unrivaled vehicle for telling the truth about,others,somebody,Autobiography is an unrivaled vehicle for telling the truth about others.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fc7d0>
+144.0000,6.000,fix
+150.0000,8.000,1,126,2,joke,My husband took the money we were saving to buy a new car and blew it all at the,laundry,tables,My husband took the money we were saving to buy a new car and blew it all at the laundry.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fc960>
+158.0000,4.000,fix
+162.0000,8.000,1,148,2,joke,The best bargain I ever got was when I went to a family garage sale and bought a ,grandma,toaster,The best bargain I ever got was when I went to a family garage sale and bought a grandma.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fc780>
+170.0000,4.000,fix
+174.0000,8.000,1,8,2,joke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the kids.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fc910>
+182.0000,2.000,fix
+184.0000,8.000,1,18,2,joke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my glasses.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fc8c0>
+192.0000,8.000,1,131,2,nonjoke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly blackjack.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcdc0>
+200.0000,8.000,1,146,2,joke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called alimony.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fce10>
+208.0000,4.000,fix
+212.0000,8.000,1,15,2,nonjoke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his fingers.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fce60>
+220.0000,6.000,fix
+226.0000,8.000,1,23,2,nonjoke,The curse of heavy drinking is that afterwards you get a huge,bar tab,headache,The curse of heavy drinking is that afterwards you get a huge headache.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fceb0>
+234.0000,8.000,1,11,2,nonjoke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a statement.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcf00>
+242.0000,8.000,1,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,<VisionEgg.WrappedText.WrappedText object at 0x10f0fcf50>
+250.0000,8.000,1,84,2,joke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and lawyers.",<VisionEgg.WrappedText.WrappedText object at 0x10f0fcfa0>
+258.0000,12.000,fix
+270.0000,8.000,1,93,2,nonjoke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the competition.",<VisionEgg.WrappedText.WrappedText object at 0x10f197050>
+278.0000,8.000,1,52,2,joke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no makeup.,<VisionEgg.WrappedText.WrappedText object at 0x10f1970a0>
+286.0000,2.000,fix
+288.0000,8.000,1,74,2,joke,He's planning an extended vacation; he hopes to spend three weeks on his,couch,sailboat,He's planning an extended vacation; he hopes to spend three weeks on his couch.,<VisionEgg.WrappedText.WrappedText object at 0x10f197140>
+296.0000,14.000,fix
+310.0000,8.000,1,111,2,nonjoke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count salary.",<VisionEgg.WrappedText.WrappedText object at 0x10f197190>
+318.0000,4.000,fix
+322.0000,8.000,1,72,2,joke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a library.,<VisionEgg.WrappedText.WrappedText object at 0x10f1970f0>
+330.0000,2.000,fix
+332.0000,8.000,1,71,2,nonjoke,Save the whales; start a,collection,coalition,Save the whales; start a coalition.,<VisionEgg.WrappedText.WrappedText object at 0x10f197230>
+340.0000,2.000,fix
+342.0000,8.000,1,20,2,joke,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a",balloon,truck,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a balloon.",<VisionEgg.WrappedText.WrappedText object at 0x10f1971e0>
+350.0000,4.000,fix
+354.0000,8.000,1,129,2,nonjoke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a salad.,<VisionEgg.WrappedText.WrappedText object at 0x10f1972d0>
+362.0000,2.000,fix
+364.0000,8.000,1,12,2,joke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the press.,<VisionEgg.WrappedText.WrappedText object at 0x10f197280>
+372.0000,2.000,fix
+374.0000,8.000,1,24,2,joke,"Where I'm from, the two most common elements are hydrogen and ",stupidity,nitrogen,"Where I'm from, the two most common elements are hydrogen and stupidity.",<VisionEgg.WrappedText.WrappedText object at 0x10f197320>
+382.0000,4.000,fix
+386.0000,8.000,1,26,2,joke,"To clothe one soldier, it takes the wool from two sheep and the hides from three",taxpayers,animals,"To clothe one soldier, it takes the wool from two sheep and the hides from three taxpayers.",<VisionEgg.WrappedText.WrappedText object at 0x10f197370>
+394.0000,8.000,1,10,2,joke,Nothing in the known universe travels faster than,gossip,radiation,Nothing in the known universe travels faster than gossip.,<VisionEgg.WrappedText.WrappedText object at 0x10f1973c0>
+402.0000,8.000,1,151,2,nonjoke,One good turn gets most of the,blanket,profit,One good turn gets most of the profit.,<VisionEgg.WrappedText.WrappedText object at 0x10f197410>
+410.0000,8.000,fix
+418.0000,8.000,1,45,2,nonjoke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her jacket.",<VisionEgg.WrappedText.WrappedText object at 0x10f1974b0>
+426.0000,6.000,fix
+432.0000,8.000,1,95,2,nonjoke,He was teaching his girlfriend how to swim when the lifeguard made them move to the ,lake,shallows,He was teaching his girlfriend how to swim when the lifeguard made them move to the shallows.,<VisionEgg.WrappedText.WrappedText object at 0x10f197460>
+440.0000,4.000,fix
+444.0000,8.000,1,36,2,joke,A problem drinker is one who never,buys,quits,A problem drinker is one who never buys.,<VisionEgg.WrappedText.WrappedText object at 0x10f197500>
+452.0000,8.000,1,63,2,nonjoke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the country.",<VisionEgg.WrappedText.WrappedText object at 0x10f1975a0>
+460.0000,8.000,1,46,2,joke,Arguments between couples are healthy; sometimes they even prevent,marriage,breakups,Arguments between couples are healthy; sometimes they even prevent marriage.,<VisionEgg.WrappedText.WrappedText object at 0x10f197550>
+468.0000,8.000,1,135,2,nonjoke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my clutch.",<VisionEgg.WrappedText.WrappedText object at 0x10f197640>
+476.0000,2.000,fix
+478.0000,8.000,1,1,2,nonjoke,"When I asked how long he should cook the noodles, I said at least ten",inches,seconds,"When I asked how long he should cook the noodles, I said at least ten seconds.",<VisionEgg.WrappedText.WrappedText object at 0x10f1975f0>
+486.0000,8.000,1,112,2,joke,The art museum just acquired an early Rembrandt; it's done in ,Crayola,charcoal,The art museum just acquired an early Rembrandt; it's done in Crayola.,<VisionEgg.WrappedText.WrappedText object at 0x10f197690>
+494.0000,4.000,fix
+498.0000,8.000,1,2,2,joke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two weeks.",<VisionEgg.WrappedText.WrappedText object at 0x10f1976e0>
+506.0000,8.000,1,137,2,nonjoke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a zombie.,<VisionEgg.WrappedText.WrappedText object at 0x10f197730>
+514.0000,2.000,fix
+516.0000,8.000,1,133,2,nonjoke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the shelves.,<VisionEgg.WrappedText.WrappedText object at 0x10f197780>
+524.0000,2.000,fix
+526.0000,8.000,1,109,2,nonjoke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a member.,<VisionEgg.WrappedText.WrappedText object at 0x10f1977d0>
+534.0000,8.000,1,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",<VisionEgg.WrappedText.WrappedText object at 0x10f197820>
+542.0000,2.000,fix
+544.0000,8.000,1,50,2,joke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in self- defense.,<VisionEgg.WrappedText.WrappedText object at 0x10f197870>
+552.0000,2.000,fix
+554.0000,8.000,1,140,2,joke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with dishes.,<VisionEgg.WrappedText.WrappedText object at 0x10f1978c0>
+562.0000,8.000,fix
+KAN_RHnonlit_09,1,97,2,nonjoke,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the",dressmaker,mistress,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the mistress.",1,0.4352598190307617,6.001285076141357
+KAN_RHnonlit_09,1,147,2,nonjoke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the kitchen.",2,1.2220981121063232,16.012064933776855
+KAN_RHnonlit_09,1,90,2,joke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two paychecks.,1,1.439716100692749,24.013994932174683
+KAN_RHnonlit_09,1,103,2,nonjoke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my ego.",1,0.9039618968963623,34.0080840587616
+KAN_RHnonlit_09,1,120,2,joke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and money.,1,1.473052978515625,44.00218486785889
+KAN_RHnonlit_09,1,101,2,nonjoke,"I got a car for my wife, and I thought it was a good",trade,choice,"I got a car for my wife, and I thought it was a good choice.",1,1.9251708984375,54.01286196708679
+KAN_RHnonlit_09,1,29,2,nonjoke,My doctor has never violated his oath: the oath he took years ago to become a,millionaire,practitioner,My doctor has never violated his oath: the oath he took years ago to become a practitioner.,1,1.4731338024139404,64.00696206092834
+KAN_RHnonlit_09,1,68,2,joke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date bachelors.,3,1.3559849262237549,72.0089020729065
+KAN_RHnonlit_09,1,100,2,joke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a crash.",1,0.5527808666229248,94.00577306747437
+KAN_RHnonlit_09,1,43,2,nonjoke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a journalist.",1,1.0882480144500732,104.01656293869019
+KAN_RHnonlit_09,1,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",3,1.8080530166625977,114.01062297821045
+KAN_RHnonlit_09,1,51,2,nonjoke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the nighttime.,2,1.9921059608459473,122.0125470161438
+KAN_RHnonlit_09,1,116,2,joke,Autobiography is an unrivaled vehicle for telling the truth about,others,somebody,Autobiography is an unrivaled vehicle for telling the truth about others.,1,1.1216871738433838,142.00061988830566
+KAN_RHnonlit_09,1,126,2,joke,My husband took the money we were saving to buy a new car and blew it all at the,laundry,tables,My husband took the money we were saving to buy a new car and blew it all at the laundry.,4,0.7031669616699219,156.0123929977417
+KAN_RHnonlit_09,1,148,2,joke,The best bargain I ever got was when I went to a family garage sale and bought a ,grandma,toaster,The best bargain I ever got was when I went to a family garage sale and bought a grandma.,4,1.0211379528045654,168.0153830051422
+KAN_RHnonlit_09,1,8,2,joke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the kids.,4,0.7365498542785645,180.00149703025818
+KAN_RHnonlit_09,1,18,2,joke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my glasses.",3,0.7702181339263916,190.01226091384888
+KAN_RHnonlit_09,1,131,2,nonjoke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly blackjack.",2,1.4062080383300781,198.0141589641571
+KAN_RHnonlit_09,1,146,2,joke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called alimony.",4,0.8369169235229492,206.0162069797516
+KAN_RHnonlit_09,1,15,2,nonjoke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his fingers.",1,1.1048641204833984,218.00235795974731
+KAN_RHnonlit_09,1,23,2,nonjoke,The curse of heavy drinking is that afterwards you get a huge,bar tab,headache,The curse of heavy drinking is that afterwards you get a huge headache.,1,0.4686868190765381,232.01405906677246
+KAN_RHnonlit_09,1,11,2,nonjoke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a statement.",1,1.607038974761963,240.01604199409485
+KAN_RHnonlit_09,1,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,4,1.3894989490509033,248.00113105773926
+KAN_RHnonlit_09,1,84,2,joke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and lawyers.",2,1.3728690147399902,256.0031099319458
+KAN_RHnonlit_09,1,93,2,nonjoke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the competition.",2,0.9709620475769043,276.00789999961853
+KAN_RHnonlit_09,1,52,2,joke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no makeup.,4,0.38498806953430176,284.0098578929901
+KAN_RHnonlit_09,1,74,2,joke,He's planning an extended vacation; he hopes to spend three weeks on his,couch,sailboat,He's planning an extended vacation; he hopes to spend three weeks on his couch.,3,1.3560190200805664,294.00389885902405
+KAN_RHnonlit_09,1,111,2,nonjoke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count salary.",4,0.4526548385620117,316.000874042511
+KAN_RHnonlit_09,1,72,2,joke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a library.,4,0.7867889404296875,328.00378704071045
+KAN_RHnonlit_09,1,71,2,nonjoke,Save the whales; start a,collection,coalition,Save the whales; start a coalition.,2,1.288999080657959,338.0145959854126
+KAN_RHnonlit_09,1,20,2,joke,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a",balloon,truck,"He told me he just bought a set of balloon tires, and I told him I didn't even know he owned a balloon.",,,348.00858998298645
+KAN_RHnonlit_09,1,129,2,nonjoke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a salad.,2,0.970958948135376,360.01153802871704
+KAN_RHnonlit_09,1,12,2,joke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the press.,1,0.7364687919616699,370.00560307502747
+KAN_RHnonlit_09,1,24,2,joke,"Where I'm from, the two most common elements are hydrogen and ",stupidity,nitrogen,"Where I'm from, the two most common elements are hydrogen and stupidity.",3,1.389394998550415,380.0163459777832
+KAN_RHnonlit_09,1,26,2,joke,"To clothe one soldier, it takes the wool from two sheep and the hides from three",taxpayers,animals,"To clothe one soldier, it takes the wool from two sheep and the hides from three taxpayers.",3,1.7576591968536377,392.00254487991333
+KAN_RHnonlit_09,1,10,2,joke,Nothing in the known universe travels faster than,gossip,radiation,Nothing in the known universe travels faster than gossip.,4,0.3347890377044678,400.0043978691101
+KAN_RHnonlit_09,1,151,2,nonjoke,One good turn gets most of the,blanket,profit,One good turn gets most of the profit.,1,0.3515040874481201,408.006413936615
+KAN_RHnonlit_09,1,45,2,nonjoke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her jacket.",3,1.5065851211547852,424.01024889945984
+KAN_RHnonlit_09,1,95,2,nonjoke,He was teaching his girlfriend how to swim when the lifeguard made them move to the ,lake,shallows,He was teaching his girlfriend how to swim when the lifeguard made them move to the shallows.,1,1.3392069339752197,438.00525307655334
+KAN_RHnonlit_09,1,36,2,joke,A problem drinker is one who never,buys,quits,A problem drinker is one who never buys.,4,0.8369929790496826,450.00814604759216
+KAN_RHnonlit_09,1,63,2,nonjoke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the country.",1,0.8538181781768799,458.01003885269165
+KAN_RHnonlit_09,1,46,2,joke,Arguments between couples are healthy; sometimes they even prevent,marriage,breakups,Arguments between couples are healthy; sometimes they even prevent marriage.,4,0.5692141056060791,466.0119528770447
+KAN_RHnonlit_09,1,135,2,nonjoke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my clutch.",1,0.6696391105651855,474.0139169692993
+KAN_RHnonlit_09,1,1,2,nonjoke,"When I asked how long he should cook the noodles, I said at least ten",inches,seconds,"When I asked how long he should cook the noodles, I said at least ten seconds.",1,1.3225300312042236,484.00791692733765
+KAN_RHnonlit_09,1,112,2,joke,The art museum just acquired an early Rembrandt; it's done in ,Crayola,charcoal,The art museum just acquired an early Rembrandt; it's done in Crayola.,2,1.071403980255127,492.0098490715027
+KAN_RHnonlit_09,1,2,2,joke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two weeks.",4,0.6863739490509033,504.0128049850464
+KAN_RHnonlit_09,1,137,2,nonjoke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a zombie.,4,0.7031619548797607,512.0146980285645
+KAN_RHnonlit_09,1,133,2,nonjoke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the shelves.,1,1.1383249759674072,522.0088269710541
+KAN_RHnonlit_09,1,109,2,nonjoke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a member.,2,1.138267993927002,532.0028948783875
+KAN_RHnonlit_09,1,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",1,1.3559961318969727,540.004725933075
+KAN_RHnonlit_09,1,50,2,joke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in self- defense.,2,1.489778995513916,550.0156199932098
+KAN_RHnonlit_09,1,140,2,joke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with dishes.,1,1.272313117980957,560.009584903717

@@ -1,0 +1,41 @@
+** This is relatively high-priority; would be great to do this sometime next week - then I can incorporate these results into the poster, which I plan to put together by ~ Fri.  But if you're swamped with classes, no worries - we don't *need* it for the poster, but we'll need it eventually for the paper. **
+
+Hi Zuzanna,
+
+I've done all the basic analyses (and things look great!), but I'd now like to do an across-systems analysis comparing the results across the language, ToM and MD fROIs.
+
+So, I am attaching four data files:
+langfROIsLH
+langfROIsRH
+MDfROIs
+ToMfROIs
+
+Contrast [1] = joke, and contrast [2] = control.
+
+I'd like you to organize these data in the following way: each row would be a subject, and each column would be a value for:
+a. langfROIsLH joke
+b. langfROIsLH control
+c. langfROIsRH joke
+d. langfROIsRH control
+e. MDfROIsLH joke
+f. MDfROIsLH control
+g. MDfROIsLH joke
+h. MDfROIsLH control
+i. ToMfROIs joke
+j. ToMfROIs control
+
+To get each value, you would be averaging the responses - within each subject separately - across the fROIs.  For example, for the lang fROIs you'll be averaging across the 8 fROIs, for the ToM fROIs you'll be averaging across the 5 fROIs.  Note that for the MD system, I'd like to divide things up into the LH and RH MD fROIs.  In the attached data file you will see 18 MD fROIs.  All the odd-numbered fROIs are LH fROIs, and all the even-numbered fROIs are RH fROIs.
+
+Does this all make sense?
+
+Once we have things organized this way, I'd like to do the following region by condition ANOVAs:
+
+ToM vs. langfROIs LH
+ToM vs. langfROIs RH
+ToM vs. MDfROIs LH
+ToM vs. MDfROIs RH
+
+Can you try to figure out how to do that?
+
+Thanks!
+Ev

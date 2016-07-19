@@ -1,0 +1,135 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,2,129,1,joke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a steak.,<VisionEgg.WrappedText.WrappedText object at 0x113f19aa0>
+8.0000,8.000,2,116,1,nonjoke,Autobiography is an unrivaled vehicle for telling the truth about,others,somebody,Autobiography is an unrivaled vehicle for telling the truth about somebody.,<VisionEgg.WrappedText.WrappedText object at 0x113f19af0>
+16.0000,4.000,fix
+20.0000,8.000,2,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,<VisionEgg.WrappedText.WrappedText object at 0x113f19b40>
+28.0000,4.000,fix
+32.0000,8.000,2,7,1,joke,A replacement player hit a home run with my,girl,ball,A replacement player hit a home run with my girl.,<VisionEgg.WrappedText.WrappedText object at 0x113f19b90>
+40.0000,8.000,2,2,1,nonjoke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two ounces.",<VisionEgg.WrappedText.WrappedText object at 0x113f19be0>
+48.0000,2.000,fix
+50.0000,8.000,2,21,1,joke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every century.",<VisionEgg.WrappedText.WrappedText object at 0x113f19c30>
+58.0000,4.000,fix
+62.0000,8.000,2,77,1,joke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to doctors.,<VisionEgg.WrappedText.WrappedText object at 0x113f19c80>
+70.0000,8.000,2,15,1,joke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his leg.",<VisionEgg.WrappedText.WrappedText object at 0x113f19d20>
+78.0000,8.000,2,112,1,nonjoke,The art museum just acquired an early Rembrandt; it's done in ,Crayola,charcoal,The art museum just acquired an early Rembrandt; it's done in charcoal.,<VisionEgg.WrappedText.WrappedText object at 0x113f19cd0>
+86.0000,2.000,fix
+88.0000,8.000,2,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,<VisionEgg.WrappedText.WrappedText object at 0x113f19d70>
+96.0000,8.000,2,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,<VisionEgg.WrappedText.WrappedText object at 0x113f19dc0>
+104.0000,2.000,fix
+106.0000,8.000,2,64,1,nonjoke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its toes.,<VisionEgg.WrappedText.WrappedText object at 0x113f19e60>
+114.0000,8.000,2,144,1,nonjoke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five degrees.,<VisionEgg.WrappedText.WrappedText object at 0x113f19e10>
+122.0000,8.000,2,87,1,joke,"It's always nicer to give than to receive, especially when its your",opinion,parents,"It's always nicer to give than to receive, especially when its your opinion.",<VisionEgg.WrappedText.WrappedText object at 0x113f19eb0>
+130.0000,8.000,2,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,<VisionEgg.WrappedText.WrappedText object at 0x113f19f00>
+138.0000,8.000,2,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",<VisionEgg.WrappedText.WrappedText object at 0x113f19fa0>
+146.0000,2.000,fix
+148.0000,8.000,2,17,1,joke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes hours.,<VisionEgg.WrappedText.WrappedText object at 0x113f19f50>
+156.0000,6.000,fix
+162.0000,8.000,2,73,1,joke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is detours.,<VisionEgg.WrappedText.WrappedText object at 0x113faf0a0>
+170.0000,8.000,2,61,1,joke,"For great vacation, put the kids in the back seat, and take a ",cruise,freeway,"For great vacation, put the kids in the back seat, and take a cruise.",<VisionEgg.WrappedText.WrappedText object at 0x113faf050>
+178.0000,8.000,2,140,1,nonjoke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with rules.,<VisionEgg.WrappedText.WrappedText object at 0x113faf0f0>
+186.0000,8.000,2,28,1,nonjoke,Her press agent was operated on for an ingrown,beeper,eyelash,Her press agent was operated on for an ingrown eyelash.,<VisionEgg.WrappedText.WrappedText object at 0x113faf140>
+194.0000,8.000,2,81,1,joke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern dance.,<VisionEgg.WrappedText.WrappedText object at 0x113faf190>
+202.0000,8.000,fix
+210.0000,8.000,2,136,1,nonjoke,The only fishing through the ice that some men ever do is for the ,olive,trout,The only fishing through the ice that some men ever do is for the trout.,<VisionEgg.WrappedText.WrappedText object at 0x113faf1e0>
+218.0000,8.000,2,37,1,joke,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the",bathtub,admission,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the bathtub.",<VisionEgg.WrappedText.WrappedText object at 0x113faf230>
+226.0000,2.000,fix
+228.0000,8.000,2,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,<VisionEgg.WrappedText.WrappedText object at 0x113faf280>
+236.0000,12.000,fix
+248.0000,8.000,2,48,1,nonjoke,"The new tax forms are more realistic: where your wife signs, it says","""accomplice""","""partner""","The new tax forms are more realistic: where your wife signs, it says ""partner"".",<VisionEgg.WrappedText.WrappedText object at 0x113faf320>
+256.0000,2.000,fix
+258.0000,8.000,2,65,1,joke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke gunpowder.,<VisionEgg.WrappedText.WrappedText object at 0x113faf370>
+266.0000,8.000,fix
+274.0000,8.000,2,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,<VisionEgg.WrappedText.WrappedText object at 0x113faf3c0>
+282.0000,20.000,fix
+302.0000,8.000,2,105,1,joke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a checkbook.,<VisionEgg.WrappedText.WrappedText object at 0x113faf410>
+310.0000,2.000,fix
+312.0000,8.000,2,149,1,joke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the nude.",<VisionEgg.WrappedText.WrappedText object at 0x113faf460>
+320.0000,8.000,2,45,1,joke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her mind.",<VisionEgg.WrappedText.WrappedText object at 0x113faf4b0>
+328.0000,4.000,fix
+332.0000,8.000,2,10,1,nonjoke,Nothing in the known universe travels faster than,gossip,radiation,Nothing in the known universe travels faster than radiation.,<VisionEgg.WrappedText.WrappedText object at 0x113faf500>
+340.0000,2.000,fix
+342.0000,8.000,2,5,1,joke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the reading.,<VisionEgg.WrappedText.WrappedText object at 0x113faf550>
+350.0000,8.000,2,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",<VisionEgg.WrappedText.WrappedText object at 0x113faf5a0>
+358.0000,2.000,fix
+360.0000,8.000,2,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,<VisionEgg.WrappedText.WrappedText object at 0x113faf5f0>
+368.0000,8.000,fix
+376.0000,8.000,2,145,1,joke,The only person who sticks closer to you in adversity than a friend is a,creditor,spouse,The only person who sticks closer to you in adversity than a friend is a creditor.,<VisionEgg.WrappedText.WrappedText object at 0x113faf640>
+384.0000,12.000,fix
+396.0000,8.000,2,98,1,nonjoke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and hunting.",<VisionEgg.WrappedText.WrappedText object at 0x113faf6e0>
+404.0000,20.000,fix
+424.0000,8.000,2,44,1,nonjoke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the bank.,<VisionEgg.WrappedText.WrappedText object at 0x113faf690>
+432.0000,8.000,2,126,1,nonjoke,My husband took the money we were saving to buy a new car and blew it all at the,laundry,tables,My husband took the money we were saving to buy a new car and blew it all at the tables.,<VisionEgg.WrappedText.WrappedText object at 0x113faf730>
+440.0000,8.000,2,147,1,joke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the inside.",<VisionEgg.WrappedText.WrappedText object at 0x113faf780>
+448.0000,2.000,fix
+450.0000,8.000,2,99,1,joke,"He's never given a girl a present, but he did give a few a pretty good",reputation,surprise,"He's never given a girl a present, but he did give a few a pretty good reputation.",<VisionEgg.WrappedText.WrappedText object at 0x113faf7d0>
+458.0000,4.000,fix
+462.0000,8.000,2,95,1,joke,He was teaching his girlfriend how to swim when the lifeguard made them move to the ,lake,shallows,He was teaching his girlfriend how to swim when the lifeguard made them move to the lake.,<VisionEgg.WrappedText.WrappedText object at 0x113faf870>
+470.0000,2.000,fix
+472.0000,8.000,2,86,1,nonjoke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his tulips.",<VisionEgg.WrappedText.WrappedText object at 0x113faf820>
+480.0000,6.000,fix
+486.0000,8.000,2,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,<VisionEgg.WrappedText.WrappedText object at 0x113faf910>
+494.0000,8.000,2,156,1,nonjoke,The only ones who want me for my body are,mosquitos,losers,The only ones who want me for my body are losers.,<VisionEgg.WrappedText.WrappedText object at 0x113faf8c0>
+502.0000,2.000,fix
+504.0000,8.000,2,36,1,nonjoke,A problem drinker is one who never,buys,quits,A problem drinker is one who never quits.,<VisionEgg.WrappedText.WrappedText object at 0x113faf960>
+512.0000,8.000,2,16,1,nonjoke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a palm.,<VisionEgg.WrappedText.WrappedText object at 0x113fafa00>
+520.0000,8.000,2,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",<VisionEgg.WrappedText.WrappedText object at 0x113fafa50>
+528.0000,2.000,fix
+530.0000,8.000,2,19,1,joke,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my",umbrella,pay,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my umbrella.",<VisionEgg.WrappedText.WrappedText object at 0x113faf9b0>
+538.0000,4.000,fix
+542.0000,8.000,2,62,1,nonjoke,"I can walk on water, but I stagger on ",alcohol,concrete,"I can walk on water, but I stagger on concrete.",<VisionEgg.WrappedText.WrappedText object at 0x113fafaa0>
+550.0000,8.000,2,138,1,nonjoke,Modern science is amazing: garbage is now being made into,movies,gasoline,Modern science is amazing: garbage is now being made into gasoline.,<VisionEgg.WrappedText.WrappedText object at 0x113fafaf0>
+558.0000,2.000,fix
+560.0000,8.000,2,101,1,joke,"I got a car for my wife, and I thought it was a good",trade,choice,"I got a car for my wife, and I thought it was a good trade.",<VisionEgg.WrappedText.WrappedText object at 0x113fafb40>
+568.0000,2.000,fix
+KAN_RHnonlit_11,2,129,1,joke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a steak.,3,0.7366659641265869,6.0010600090026855
+KAN_RHnonlit_11,2,116,1,nonjoke,Autobiography is an unrivaled vehicle for telling the truth about,others,somebody,Autobiography is an unrivaled vehicle for telling the truth about somebody.,4,0.9541501998901367,14.003026962280273
+KAN_RHnonlit_11,2,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,4,0.8705580234527588,26.005897998809814
+KAN_RHnonlit_11,2,7,1,joke,A replacement player hit a home run with my,girl,ball,A replacement player hit a home run with my girl.,2,0.7700290679931641,38.008882999420166
+KAN_RHnonlit_11,2,2,1,nonjoke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two ounces.",1,0.8031129837036133,46.011216163635254
+KAN_RHnonlit_11,2,21,1,joke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every century.",4,0.9206960201263428,56.00484895706177
+KAN_RHnonlit_11,2,77,1,joke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to doctors.,3,0.786761999130249,68.00770616531372
+KAN_RHnonlit_11,2,15,1,joke,"When John bought a bulldog, it was no time at all before he had that dog eating out of his",leg,fingers,"When John bought a bulldog, it was no time at all before he had that dog eating out of his leg.",4,1.1049001216888428,76.00961494445801
+KAN_RHnonlit_11,2,112,1,nonjoke,The art museum just acquired an early Rembrandt; it's done in ,Crayola,charcoal,The art museum just acquired an early Rembrandt; it's done in charcoal.,1,1.724208116531372,84.01156997680664
+KAN_RHnonlit_11,2,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,1,1.0203299522399902,94.00645804405212
+KAN_RHnonlit_11,2,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,2,1.3894379138946533,102.00749802589417
+KAN_RHnonlit_11,2,64,1,nonjoke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its toes.,1,1.4564459323883057,112.00157403945923
+KAN_RHnonlit_11,2,144,1,nonjoke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five degrees.,1,1.1379461288452148,120.00385093688965
+KAN_RHnonlit_11,2,87,1,joke,"It's always nicer to give than to receive, especially when its your",opinion,parents,"It's always nicer to give than to receive, especially when its your opinion.",3,0.8370151519775391,128.00539994239807
+KAN_RHnonlit_11,2,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,1,0.870549201965332,136.00736093521118
+KAN_RHnonlit_11,2,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",2,1.0881860256195068,144.0092749595642
+KAN_RHnonlit_11,2,17,1,joke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes hours.,3,0.8203020095825195,154.00334095954895
+KAN_RHnonlit_11,2,73,1,joke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is detours.,4,1.0706508159637451,168.01587915420532
+KAN_RHnonlit_11,2,61,1,joke,"For great vacation, put the kids in the back seat, and take a ",cruise,freeway,"For great vacation, put the kids in the back seat, and take a cruise.",3,0.8370239734649658,176.00027203559875
+KAN_RHnonlit_11,2,140,1,nonjoke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with rules.,1,0.7868609428405762,184.00215816497803
+KAN_RHnonlit_11,2,28,1,nonjoke,Her press agent was operated on for an ingrown,beeper,eyelash,Her press agent was operated on for an ingrown eyelash.,1,0.7198519706726074,192.00414299964905
+KAN_RHnonlit_11,2,81,1,joke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern dance.,2,1.2220377922058105,200.0060751438141
+KAN_RHnonlit_11,2,136,1,nonjoke,The only fishing through the ice that some men ever do is for the ,olive,trout,The only fishing through the ice that some men ever do is for the trout.,1,1.3894879817962646,216.00997710227966
+KAN_RHnonlit_11,2,37,1,joke,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the",bathtub,admission,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the bathtub.",2,1.2555208206176758,224.01182413101196
+KAN_RHnonlit_11,2,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,1,0.7367980480194092,234.00589108467102
+KAN_RHnonlit_11,2,48,1,nonjoke,"The new tax forms are more realistic: where your wife signs, it says","""accomplice""","""partner""","The new tax forms are more realistic: where your wife signs, it says ""partner"".",1,1.372689962387085,254.0107560157776
+KAN_RHnonlit_11,2,65,1,joke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke gunpowder.,3,1.2220549583435059,264.0047199726105
+KAN_RHnonlit_11,2,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,1,1.7243101596832275,280.008651971817
+KAN_RHnonlit_11,2,105,1,joke,The book that tells you where you can go on vacation is called a,checkbook,guidebook,The book that tells you where you can go on vacation is called a checkbook.,,,308.01538014411926
+KAN_RHnonlit_11,2,149,1,joke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the nude.",4,0.8872120380401611,318.0094530582428
+KAN_RHnonlit_11,2,45,1,joke,"She is so modest, she pulls down the shade to change her", mind,jacket,"She is so modest, she pulls down the shade to change her mind.",3,1.6907119750976562,326.0113730430603
+KAN_RHnonlit_11,2,10,1,nonjoke,Nothing in the known universe travels faster than,gossip,radiation,Nothing in the known universe travels faster than radiation.,1,0.9039838314056396,338.0142271518707
+KAN_RHnonlit_11,2,5,1,joke,She read so much about the bad effects of cigarettes she decided to give up the,reading,habit,She read so much about the bad effects of cigarettes she decided to give up the reading.,2,0.8872859477996826,348.0082449913025
+KAN_RHnonlit_11,2,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",2,0.9542379379272461,356.0101840496063
+KAN_RHnonlit_11,2,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,1,1.4061639308929443,366.0042550563812
+KAN_RHnonlit_11,2,145,1,joke,The only person who sticks closer to you in adversity than a friend is a,creditor,spouse,The only person who sticks closer to you in adversity than a friend is a creditor.,2,1.0212140083312988,382.0080609321594
+KAN_RHnonlit_11,2,98,1,nonjoke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and hunting.",1,0.7869429588317871,402.01288199424744
+KAN_RHnonlit_11,2,44,1,nonjoke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the bank.,1,1.9418950080871582,430.0029101371765
+KAN_RHnonlit_11,2,126,1,nonjoke,My husband took the money we were saving to buy a new car and blew it all at the,laundry,tables,My husband took the money we were saving to buy a new car and blew it all at the tables.,1,0.837000846862793,438.00489616394043
+KAN_RHnonlit_11,2,147,1,joke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the inside.",2,1.222088098526001,446.00674200057983
+KAN_RHnonlit_11,2,99,1,joke,"He's never given a girl a present, but he did give a few a pretty good",reputation,surprise,"He's never given a girl a present, but he did give a few a pretty good reputation.",2,1.506639003753662,456.000874042511
+KAN_RHnonlit_11,2,95,1,joke,He was teaching his girlfriend how to swim when the lifeguard made them move to the ,lake,shallows,He was teaching his girlfriend how to swim when the lifeguard made them move to the lake.,1,1.6908180713653564,468.00368905067444
+KAN_RHnonlit_11,2,86,1,nonjoke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his tulips.",1,0.787477970123291,478.01448702812195
+KAN_RHnonlit_11,2,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,1,1.0880889892578125,492.00952410697937
+KAN_RHnonlit_11,2,156,1,nonjoke,The only ones who want me for my body are,mosquitos,losers,The only ones who want me for my body are losers.,1,0.703071117401123,500.01147294044495
+KAN_RHnonlit_11,2,36,1,nonjoke,A problem drinker is one who never,buys,quits,A problem drinker is one who never quits.,1,0.6026849746704102,510.00550603866577
+KAN_RHnonlit_11,2,16,1,nonjoke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a palm.,1,0.5022399425506592,518.007383108139
+KAN_RHnonlit_11,2,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",1,1.0546741485595703,526.0093629360199
+KAN_RHnonlit_11,2,19,1,joke,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my",umbrella,pay,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my umbrella.",3,0.8371191024780273,536.0033600330353
+KAN_RHnonlit_11,2,62,1,nonjoke,"I can walk on water, but I stagger on ",alcohol,concrete,"I can walk on water, but I stagger on concrete.",2,0.7197952270507812,548.0063059329987
+KAN_RHnonlit_11,2,138,1,nonjoke,Modern science is amazing: garbage is now being made into,movies,gasoline,Modern science is amazing: garbage is now being made into gasoline.,1,0.552711009979248,556.0082809925079
+KAN_RHnonlit_11,2,101,1,joke,"I got a car for my wife, and I thought it was a good",trade,choice,"I got a car for my wife, and I thought it was a good trade.",2,0.7199230194091797,566.0022270679474

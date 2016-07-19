@@ -1,0 +1,140 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,<VisionEgg.WrappedText.WrappedText object at 0x116980af0>
+8.0000,2.000,fix
+10.0000,8.000,1,130,1,nonjoke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly upgrades.",<VisionEgg.WrappedText.WrappedText object at 0x1169808c0>
+18.0000,8.000,1,135,1,joke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my horn.",<VisionEgg.WrappedText.WrappedText object at 0x116980870>
+26.0000,2.000,fix
+28.0000,8.000,1,22,1,nonjoke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his tardiness.,<VisionEgg.WrappedText.WrappedText object at 0x116980a00>
+36.0000,2.000,fix
+38.0000,8.000,1,131,1,joke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly weddings.",<VisionEgg.WrappedText.WrappedText object at 0x116980960>
+46.0000,2.000,fix
+48.0000,8.000,1,110,1,nonjoke,It's not hard to meet expenses; they're ,everywhere,affordable,It's not hard to meet expenses; they're affordable.,<VisionEgg.WrappedText.WrappedText object at 0x1169809b0>
+56.0000,2.000,fix
+58.0000,8.000,1,48,1,nonjoke,"The new tax forms are more realistic: where your wife signs, it says","""accomplice""","""partner""","The new tax forms are more realistic: where your wife signs, it says ""partner"".",<VisionEgg.WrappedText.WrappedText object at 0x1169807d0>
+66.0000,8.000,1,99,1,joke,"He's never given a girl a present, but he did give a few a pretty good",reputation,surprise,"He's never given a girl a present, but he did give a few a pretty good reputation.",<VisionEgg.WrappedText.WrappedText object at 0x1169806e0>
+74.0000,14.000,fix
+88.0000,8.000,1,155,1,joke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the singer.,<VisionEgg.WrappedText.WrappedText object at 0x116980820>
+96.0000,2.000,fix
+98.0000,8.000,1,28,1,nonjoke,Her press agent was operated on for an ingrown,beeper,eyelash,Her press agent was operated on for an ingrown eyelash.,<VisionEgg.WrappedText.WrappedText object at 0x116980780>
+106.0000,2.000,fix
+108.0000,8.000,1,10,1,nonjoke,Nothing in the known universe travels faster than,gossip,radiation,Nothing in the known universe travels faster than radiation.,<VisionEgg.WrappedText.WrappedText object at 0x116980910>
+116.0000,8.000,1,6,1,nonjoke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and rest.,<VisionEgg.WrappedText.WrappedText object at 0x116980dc0>
+124.0000,12.000,fix
+136.0000,8.000,1,89,1,joke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are male.",<VisionEgg.WrappedText.WrappedText object at 0x116980e10>
+144.0000,6.000,fix
+150.0000,8.000,1,141,1,joke,The only crop that is grown in America and harvested abroad is the American,tourist,tobacco,The only crop that is grown in America and harvested abroad is the American tourist.,<VisionEgg.WrappedText.WrappedText object at 0x116980e60>
+158.0000,4.000,fix
+162.0000,8.000,1,95,1,joke,He was teaching his girlfriend how to swim when the lifeguard made them move to the ,lake,shallows,He was teaching his girlfriend how to swim when the lifeguard made them move to the lake.,<VisionEgg.WrappedText.WrappedText object at 0x116980f00>
+170.0000,4.000,fix
+174.0000,8.000,1,31,1,joke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the improvement.",<VisionEgg.WrappedText.WrappedText object at 0x116980eb0>
+182.0000,2.000,fix
+184.0000,8.000,1,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,<VisionEgg.WrappedText.WrappedText object at 0x116980f50>
+192.0000,8.000,1,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,<VisionEgg.WrappedText.WrappedText object at 0x116980fa0>
+200.0000,8.000,1,39,1,joke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with scissors.,<VisionEgg.WrappedText.WrappedText object at 0x11a143050>
+208.0000,4.000,fix
+212.0000,8.000,1,82,1,nonjoke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal parka.",<VisionEgg.WrappedText.WrappedText object at 0x11a1430f0>
+220.0000,6.000,fix
+226.0000,8.000,1,152,1,nonjoke,"Many things run in families, especially",noses,strength,"Many things run in families, especially strength.",<VisionEgg.WrappedText.WrappedText object at 0x11a1430a0>
+234.0000,8.000,1,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",<VisionEgg.WrappedText.WrappedText object at 0x11a143140>
+242.0000,8.000,1,35,1,joke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their nuptials.",<VisionEgg.WrappedText.WrappedText object at 0x11a143190>
+250.0000,8.000,1,41,1,joke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a steamroller.,<VisionEgg.WrappedText.WrappedText object at 0x11a1431e0>
+258.0000,12.000,fix
+270.0000,8.000,1,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,<VisionEgg.WrappedText.WrappedText object at 0x11a143280>
+278.0000,8.000,1,49,1,joke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my editor.,<VisionEgg.WrappedText.WrappedText object at 0x11a1432d0>
+286.0000,2.000,fix
+288.0000,8.000,1,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",<VisionEgg.WrappedText.WrappedText object at 0x11a143230>
+296.0000,14.000,fix
+310.0000,8.000,1,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,<VisionEgg.WrappedText.WrappedText object at 0x11a143320>
+318.0000,4.000,fix
+322.0000,8.000,1,75,1,joke,"When reviewing your notes for a test, the most important ones will be",illegible,capitalized,"When reviewing your notes for a test, the most important ones will be illegible.",<VisionEgg.WrappedText.WrappedText object at 0x11a1433c0>
+330.0000,2.000,fix
+332.0000,8.000,1,100,1,nonjoke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a delay.",<VisionEgg.WrappedText.WrappedText object at 0x11a143370>
+340.0000,2.000,fix
+342.0000,8.000,1,53,1,joke,"By the time Mary had her fourteenth child, she'd run out of names to call her ",husband,offspring,"By the time Mary had her fourteenth child, she'd run out of names to call her husband.",<VisionEgg.WrappedText.WrappedText object at 0x11a143410>
+350.0000,4.000,fix
+354.0000,8.000,1,86,1,nonjoke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his tulips.",<VisionEgg.WrappedText.WrappedText object at 0x11a1434b0>
+362.0000,2.000,fix
+364.0000,8.000,1,71,1,joke,Save the whales; start a,collection,coalition,Save the whales; start a collection.,<VisionEgg.WrappedText.WrappedText object at 0x11a143500>
+372.0000,2.000,fix
+374.0000,8.000,1,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,<VisionEgg.WrappedText.WrappedText object at 0x11a143550>
+382.0000,4.000,fix
+386.0000,8.000,1,65,1,joke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke gunpowder.,<VisionEgg.WrappedText.WrappedText object at 0x11a143460>
+394.0000,8.000,1,133,1,joke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the maid.,<VisionEgg.WrappedText.WrappedText object at 0x11a1435a0>
+402.0000,8.000,1,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",<VisionEgg.WrappedText.WrappedText object at 0x11a1435f0>
+410.0000,8.000,fix
+418.0000,8.000,1,134,1,nonjoke,My church welcomes all denominations but prefers,twenties,Mormons,My church welcomes all denominations but prefers Mormons.,<VisionEgg.WrappedText.WrappedText object at 0x11a143640>
+426.0000,6.000,fix
+432.0000,8.000,1,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,<VisionEgg.WrappedText.WrappedText object at 0x11a143690>
+440.0000,4.000,fix
+444.0000,8.000,1,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",<VisionEgg.WrappedText.WrappedText object at 0x11a1436e0>
+452.0000,8.000,1,68,1,nonjoke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date someone.,<VisionEgg.WrappedText.WrappedText object at 0x11a143730>
+460.0000,8.000,1,93,1,joke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the city.",<VisionEgg.WrappedText.WrappedText object at 0x11a143780>
+468.0000,8.000,1,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",<VisionEgg.WrappedText.WrappedText object at 0x11a1437d0>
+476.0000,2.000,fix
+478.0000,8.000,1,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,<VisionEgg.WrappedText.WrappedText object at 0x11a143820>
+486.0000,8.000,1,77,1,joke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to doctors.,<VisionEgg.WrappedText.WrappedText object at 0x11a143870>
+494.0000,4.000,fix
+498.0000,8.000,1,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",<VisionEgg.WrappedText.WrappedText object at 0x11a143910>
+506.0000,8.000,1,72,1,nonjoke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a hotel.,<VisionEgg.WrappedText.WrappedText object at 0x11a143960>
+514.0000,2.000,fix
+516.0000,8.000,1,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,<VisionEgg.WrappedText.WrappedText object at 0x11a1438c0>
+524.0000,2.000,fix
+526.0000,8.000,1,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",<VisionEgg.WrappedText.WrappedText object at 0x11a1439b0>
+534.0000,8.000,1,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",<VisionEgg.WrappedText.WrappedText object at 0x11a143a00>
+542.0000,2.000,fix
+544.0000,8.000,1,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",<VisionEgg.WrappedText.WrappedText object at 0x11a143a50>
+552.0000,2.000,fix
+554.0000,8.000,1,123,1,joke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large stone.,<VisionEgg.WrappedText.WrappedText object at 0x11a143aa0>
+562.0000,8.000,fix
+KAN_RHnonlit_06,1,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,1,1.5902810096740723,6.000043153762817
+KAN_RHnonlit_06,1,130,1,nonjoke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly upgrades.",1,1.7746059894561768,16.01072907447815
+KAN_RHnonlit_06,1,135,1,joke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my horn.",2,1.7745518684387207,24.01267910003662
+KAN_RHnonlit_06,1,22,1,nonjoke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his tardiness.,1,0.9374229907989502,34.006731033325195
+KAN_RHnonlit_06,1,131,1,joke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly weddings.",2,1.5401771068572998,44.00077199935913
+KAN_RHnonlit_06,1,110,1,nonjoke,It's not hard to meet expenses; they're ,everywhere,affordable,It's not hard to meet expenses; they're affordable.,2,1.3391668796539307,54.01165008544922
+KAN_RHnonlit_06,1,48,1,nonjoke,"The new tax forms are more realistic: where your wife signs, it says","""accomplice""","""partner""","The new tax forms are more realistic: where your wife signs, it says ""partner"".",1,1.3392441272735596,64.0055730342865
+KAN_RHnonlit_06,1,99,1,joke,"He's never given a girl a present, but he did give a few a pretty good",reputation,surprise,"He's never given a girl a present, but he did give a few a pretty good reputation.",,,72.00759196281433
+KAN_RHnonlit_06,1,155,1,joke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the singer.,2,0.7700760364532471,94.0045599937439
+KAN_RHnonlit_06,1,28,1,nonjoke,Her press agent was operated on for an ingrown,beeper,eyelash,Her press agent was operated on for an ingrown eyelash.,1,1.1048481464385986,104.01529097557068
+KAN_RHnonlit_06,1,10,1,nonjoke,Nothing in the known universe travels faster than,gossip,radiation,Nothing in the known universe travels faster than radiation.,1,1.4565300941467285,114.00929808616638
+KAN_RHnonlit_06,1,6,1,nonjoke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and rest.,1,0.9039499759674072,122.01131701469421
+KAN_RHnonlit_06,1,89,1,joke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are male.",2,0.9038658142089844,142.01616716384888
+KAN_RHnonlit_06,1,141,1,joke,The only crop that is grown in America and harvested abroad is the American,tourist,tobacco,The only crop that is grown in America and harvested abroad is the American tourist.,,,156.01106905937195
+KAN_RHnonlit_06,1,95,1,joke,He was teaching his girlfriend how to swim when the lifeguard made them move to the ,lake,shallows,He was teaching his girlfriend how to swim when the lifeguard made them move to the lake.,2,1.1383860111236572,168.01398301124573
+KAN_RHnonlit_06,1,31,1,joke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the improvement.",2,1.3225960731506348,180.00013303756714
+KAN_RHnonlit_06,1,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,1,0.45200109481811523,190.01094508171082
+KAN_RHnonlit_06,1,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,1,0.9374599456787109,198.0129451751709
+KAN_RHnonlit_06,1,39,1,joke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with scissors.,2,0.870513916015625,206.01484608650208
+KAN_RHnonlit_06,1,82,1,nonjoke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal parka.",1,0.9542951583862305,218.00092697143555
+KAN_RHnonlit_06,1,152,1,nonjoke,"Many things run in families, especially",noses,strength,"Many things run in families, especially strength.",1,0.7533199787139893,232.01271414756775
+KAN_RHnonlit_06,1,56,1,nonjoke,"When you own an ice cream business, your favorite flavor is",aspirin,everything,"When you own an ice cream business, your favorite flavor is everything.",1,1.9586889743804932,240.0146679878235
+KAN_RHnonlit_06,1,35,1,joke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their nuptials.",1,1.2053968906402588,248.0165650844574
+KAN_RHnonlit_06,1,41,1,joke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a steamroller.,2,0.5860209465026855,256.00175309181213
+KAN_RHnonlit_06,1,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,1,1.1048719882965088,276.006649017334
+KAN_RHnonlit_06,1,49,1,joke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my editor.,2,0.8873100280761719,284.0085029602051
+KAN_RHnonlit_06,1,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",1,0.6026351451873779,294.00261998176575
+KAN_RHnonlit_06,1,108,1,nonjoke,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little,water,platform,Everyone had so much fun diving from the tree into the swimming pool we decided to put in a little platform.,1,1.0881178379058838,316.0162491798401
+KAN_RHnonlit_06,1,75,1,joke,"When reviewing your notes for a test, the most important ones will be",illegible,capitalized,"When reviewing your notes for a test, the most important ones will be illegible.",2,0.8035221099853516,328.0024380683899
+KAN_RHnonlit_06,1,100,1,nonjoke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a delay.",1,1.2723369598388672,338.01325011253357
+KAN_RHnonlit_06,1,53,1,joke,"By the time Mary had her fourteenth child, she'd run out of names to call her ",husband,offspring,"By the time Mary had her fourteenth child, she'd run out of names to call her husband.",2,1.054624080657959,348.00731897354126
+KAN_RHnonlit_06,1,86,1,nonjoke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his tulips.",3,1.4396982192993164,360.0101959705353
+KAN_RHnonlit_06,1,71,1,joke,Save the whales; start a,collection,coalition,Save the whales; start a collection.,2,0.5023350715637207,370.0041799545288
+KAN_RHnonlit_06,1,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,2,1.3726351261138916,380.01505398750305
+KAN_RHnonlit_06,1,65,1,joke,A good way to blow your mind is to smoke ,gunpowder,heroin,A good way to blow your mind is to smoke gunpowder.,1,0.8035118579864502,392.00119709968567
+KAN_RHnonlit_06,1,133,1,joke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the maid.,2,0.8536820411682129,400.00315713882446
+KAN_RHnonlit_06,1,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",2,1.2221190929412842,408.0049819946289
+KAN_RHnonlit_06,1,134,1,nonjoke,My church welcomes all denominations but prefers,twenties,Mormons,My church welcomes all denominations but prefers Mormons.,2,0.5524458885192871,424.0088801383972
+KAN_RHnonlit_06,1,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,1,1.5904247760772705,438.0039231777191
+KAN_RHnonlit_06,1,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",1,0.870466947555542,450.0068190097809
+KAN_RHnonlit_06,1,68,1,nonjoke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date someone.,1,0.7867951393127441,458.008780002594
+KAN_RHnonlit_06,1,93,1,joke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the city.",2,1.2555639743804932,466.01064705848694
+KAN_RHnonlit_06,1,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",1,0.6194570064544678,474.0125541687012
+KAN_RHnonlit_06,1,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,2,1.2723431587219238,484.00666999816895
+KAN_RHnonlit_06,1,77,1,joke,He is at the age when all the numbers in his little black book belong to,doctors,friends,He is at the age when all the numbers in his little black book belong to doctors.,3,0.9039969444274902,492.008572101593
+KAN_RHnonlit_06,1,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",2,1.4563798904418945,504.01154708862305
+KAN_RHnonlit_06,1,72,1,nonjoke,The first two hundred story building opened in Chicago; it was a ,library,hotel,The first two hundred story building opened in Chicago; it was a hotel.,1,1.021183967590332,512.0134320259094
+KAN_RHnonlit_06,1,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,1,0.8202009201049805,522.0075311660767
+KAN_RHnonlit_06,1,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",2,1.707580804824829,532.0015091896057
+KAN_RHnonlit_06,1,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",1,0.8705258369445801,540.0035021305084
+KAN_RHnonlit_06,1,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",2,0.3347969055175781,550.0142171382904
+KAN_RHnonlit_06,1,123,1,joke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large stone.,1,1.540086030960083,560.0083060264587
