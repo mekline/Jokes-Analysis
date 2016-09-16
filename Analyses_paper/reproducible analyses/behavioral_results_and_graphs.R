@@ -1,4 +1,5 @@
 #Analyzing the behavioral results from the jokes paper!
+rm(list=ls(all=TRUE))
 
 library(tidyr)
 library(dplyr)
@@ -6,8 +7,9 @@ library(lme4)
 library(ggplot2)
 
 #(set your own wd first)
+setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
 mywd <- getwd()
-setwd("indsubjs")
+setwd("indsubjs_behavioral")
 myfi <- list.files(pattern='*data\\.csv')
 
 mydata <- data.frame(NULL)
@@ -33,7 +35,7 @@ avgRT <- mydata %>%
   group_by(subj, category) %>%
   summarise(meanRT = mean(RT))
 
-#T test bc that is how we're rolling in this paper
+#T test
 t.test(meanRT ~ category, data=avgRT)
 #Response times are not different by condition
 
@@ -51,10 +53,6 @@ avgResponse <- mydata %>%
 t.test(meanResponse ~ category, data=avgResponse)
 #Responses are different by condition! The jokes are funny!
 
-
-#MK editorializes with an ordinal logit model....
-foo <- glmer(response ~ category + (1|item) + (1|subj), data=mydata, family="multinomial")
-#....well actually she doesn't because multinomial isn't implemented?!?!?!
 
 ####
 # Graphs!
@@ -119,7 +117,7 @@ ggplot(data=toPlotRT, aes(y=mean, x=categoryLabel)) +
   theme(strip.background = element_blank()) +
   # Optional, remove for RHLang and ToMCustom since we want the legend there...
   theme(legend.position="none")  
-  ggsave(filename="rtrough.jpg", width=3, height=3)
+ggsave(filename="rtrough.jpg", width=3, height=3)
   
 ggplot(data=toPlotResp, aes(y=mean, x=categoryLabel)) + 
   geom_bar(position=position_dodge(), stat="identity") +
