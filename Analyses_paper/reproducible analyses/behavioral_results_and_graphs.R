@@ -9,7 +9,7 @@ library(ggplot2)
 #(set your own wd first)
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
 mywd <- getwd()
-setwd("indsubjs_behavioral")
+setwd("indsubjs_behavioral_data")
 myfi <- list.files(pattern='*data\\.csv')
 
 mydata <- data.frame(NULL)

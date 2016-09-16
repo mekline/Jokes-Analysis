@@ -1,0 +1,58 @@
+########
+contrast files/
+
+contains nicely formatted versions of the corresponding results csvs that are produced by spm_ss. They were created by load_spmss_results.R and can be reproduced by making sure all your directories are set correctly and then running that file (for each result collection, e.g. LHLangrespJokes) 
+
+The interpretation of ROI number and contrast number depend on the settings that were provided during the toolbox run.  You can see the scripts that actually produced the raw spm_ss results over in the Toolbox Results folders.  Meanwhile, important numbers recorded here for easy access:
+
+The contrasts are numbered and depend on what was specified in the toolbox script:
+- all …respNonlitJokes have three critical contrasts: {'joke','lit','joke-lit'}
+- the …respCustomJokes have four: {'low','med','high','other'}
+
+(remember that contrasts with only 1 category labeled are versus fixation)
+
+The ROIs are numbered and depend on the localizer parcels:
+
+***Language localizer (and RH analogues; numbered the same way)
+
+1	LPostTemp	RPostTemp
+2	LAntTemp	RAntTemp
+3	LAngG		RAngG
+4	LIFG		RIFG
+5	LMFG		RMFG
+6	LIFGorb		RIFGorb
+
+And they are traditionally displayed in the order [5 4 6 2 3 1]
+
+***ToM localizer
+1	DMPFC
+2	LTPJ
+3	MMPFC
+4	PC
+5	RTPJ
+6	VMPFC
+7	RSTS
+
+***MD Localizer
+1	LIFGop
+2	RIFGop
+3	LMFG
+4	RMFG
+5	LMFGorb
+6	RMFGorb
+7	LPrecG
+8	RPrecG
+9	L Insula
+10	R Insula
+11	LSMA
+12	RSMA
+13	L ParInf
+14	R ParInf
+15	L ParSup
+16	R ParSup
+17	L ACC
+18	R ACC
+
+To display the MD localizers by hemisphere, use [1 3 5 7 9 11 13 15 17] for 
+left and [2 4 6 8 10 12 14 16 18] for right
+

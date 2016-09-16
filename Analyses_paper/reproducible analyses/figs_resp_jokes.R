@@ -2,11 +2,12 @@
 # Those %-signal-change calculations are produced by the awesome toolbox analyses, and represent a single overall calculation
 #derived for the whole parcel region (not individual voxels, as mk sometimes forgets)
 
-
+rm(list = ls())
 library(dplyr)
 library(tidyr)
 library(ggplot2)
-rm(list = ls())
+
+setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/contrasts/")
 
 ########
 #READ IN DATA
@@ -14,9 +15,9 @@ rm(list = ls())
 #Here, we read in all those files, calculate a whole passle of mean and standard error bars, and then make graphs
 
 # Add in the contrast and ROI names so it's not just numbers!!!!!
-LangROI.Names = c('LPostTemp', 'LAntTemp', 'LAngG', 'LIFG',      'LMFG',     'LIFGorb');
 
 RHLangROI.Names = c('RPostTemp', 'RAntTemp', 'RAngG', 'RIFG',      'RMFG',     'RIFGorb');
+LangROI.Names = c('LPostTemp', 'LAntTemp', 'LAngG', 'LIFG',      'LMFG',     'LIFGorb');
 
 MDROI.Names = c('LIFGop',  'RIFGop', 'LMFG',    'RMFG',    'LMFGorb',
                       'RMFGorb', 'LPrecG', 'RPrecG',  'LInsula', 'RInsula',
@@ -25,48 +26,52 @@ MDROI.Names = c('LIFGop',  'RIFGop', 'LMFG',    'RMFG',    'LMFGorb',
 
 ToMROI.Names = c('DMPFC', 'LTPJ',  'MMPFC', 'PC',
                       'RTPJ',  'VMPFC', 'RSTS');
+
 normal.contrasts = c('joke', 'lit', 'joke-lit')
 custom.contrasts = c('low','med','high','other')
 
 
-myResults = read.csv('sig change files/LangfROIsrespNonlitJokes.csv') %>%
-  mutate(ROIName = LangROI.Names[ROI]) %>%
-  mutate(contrastName = normal.contrasts[Contrast])%>%
-  mutate(Group = 'LHLang')
-allSigChange = myResults
-
-myResults = read.csv('sig change files/RHLangfROIsrespNonlitJokes.csv')%>%
+myResults = read.csv('RHLangfROIsrespNonlitJokes.csv')%>%
   mutate(ROIName = RHLangROI.Names[ROI]) %>%
   mutate(contrastName = normal.contrasts[Contrast])%>%
   mutate(Group = 'RHLang')
+allSigChange = myResults
+
+myResults = read.csv('LangfROIsrespNonlitJokes.csv') %>%
+  mutate(ROIName = LangROI.Names[ROI]) %>%
+  mutate(contrastName = normal.contrasts[Contrast])%>%
+  mutate(Group = 'LHLang')
 allSigChange = rbind(allSigChange, myResults)
 
-myResults = read.csv('sig change files/MDfROIsrespNonlitJokes.csv') %>%
+myResults = read.csv('MDfROIsrespNonlitJokes.csv') %>%
   mutate(ROIName = MDROI.Names[ROI]) %>%
   mutate(contrastName = normal.contrasts[Contrast]) %>%
   mutate(Group = 'MDAll')
 allSigChange = rbind(allSigChange, myResults)
+
 #Little extra thing here, rename MD to split by L and R hemisphere!
 allSigChange[(allSigChange$Group == 'MDAll') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft'
 allSigChange[(allSigChange$Group == 'MDAll') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight'
 
-myResults = read.csv('sig change files/NewToMfROIsrespNonlitJokes.csv')%>%
+myResults = read.csv('NewToMfROIsrespNonlitJokes.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = normal.contrasts[Contrast]) %>%
   mutate(Group = 'ToM')
 allSigChange = rbind(allSigChange, myResults)
 
-myResults = read.csv('sig change files/NewToMfROIsresCustomJokes.csv')%>%
+myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = custom.contrasts[Contrast])%>%
   mutate(Group = 'ToMCustom')
 allSigChange = rbind(allSigChange, myResults)
 
+View(allSigChange)
+
 #########
 # TRANSFORMATIONS
 #########
 
-#First, in addition to the by-region signal changes, we are going to give each person an average signal change value for each localizer group
+#First, in addition to the by-region signal changes, we are going to give each person an average signal change value for each localizer 
 avgSigChange = aggregate(allSigChange$sigChange, by=list(allSigChange$Group,allSigChange$SubjectNumber,allSigChange$contrastName), mean)
 names(avgSigChange) = c('Group','SubjectNumber', 'contrastName','sigChange')
 avgSigChange$ROIName = 'LocalizerAverage'
@@ -103,7 +108,10 @@ mystats$se_down = mystats$themean - mystats$sterr
 # Graphs!
 #########
 
-#Now we can use the information stored in mystats to make pretty graphs! This could be done in excel too
+#Now we can use the information stored in mystats to make pretty graphs! This could be done in excel too by printing mystats
+#Change to figs output folder
+setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses/figs")
+
 
 #Select the rows we want for each graph, and order them how we want! For now, localizerAverage will just come first in all sets
 mystats$contNo <- 1
@@ -115,23 +123,23 @@ mystats[mystats$contrastName == 'low',]$contNo <- 3
 mystats = arrange(mystats, ROI)
 mystats = arrange(mystats, contNo)
 
-#Add a new col to separate out the localizer average
-mystats$ROIGroup <- "Individual fROIs"
-mystats[mystats$ROIName == "LocalizerAverage",]$ROIGroup <- "Localizer\n average"
+#Add a new col grouping to separate out the localizer average
+mystats$ROIGroup <- ""
+mystats[mystats$ROIName == "LocalizerAverage",]$ROIGroup <- "across fROIs"
 mystats = arrange(mystats, desc(ROIGroup))
 
 #Changes for prettiness
 #mystats[mystats$ROIName=="LocalizerAverage",]$ROIName <- mystats[mystats$ROIName=="LocalizerAverage",]$Group
-mystats[mystats$ROIName=="LocalizerAverage",]$ROIName <- ""
+mystats[mystats$ROIName=="LocalizerAverage",]$ROIName <- "average across fROIs"
 
 #Subsets!
-LHLang = filter(mystats, Group == 'LHLang')
-LHLang = LHLang[c(1,2,11,12,9,10,13,14,5,6,7,8,3,4),]
 RHLang = filter(mystats, Group == 'RHLang')
 RHLang = RHLang[c(1,2,11,12,9,10,13,14,5,6,7,8,3,4),]
-ToM = filter(mystats, Group == 'ToM')
+LHLang = filter(mystats, Group == 'LHLang')
+LHLang = LHLang[c(1,2,11,12,9,10,13,14,5,6,7,8,3,4),] #Reordering for standard LangLoc presentation!!!
 MDLeft = filter(mystats, Group == 'MDLeft')
 MDRight = filter(mystats, Group == 'MDRight')
+ToM = filter(mystats, Group == 'ToM')
 ToMCustom = filter(mystats, Group == 'ToMCustom')
 
 #Graphing function!
@@ -142,7 +150,7 @@ makeBar = function(plotData,ylow=-0.5,yhigh=2.5, mycolors = c(joke="gray35", lit
   plotData$ROIName <- factor(plotData$ROIName, levels = unique(plotData$ROIName))
   plotData$ROIGroup <- factor(plotData$ROIGroup, levels = unique(plotData$ROIGroup))
   plotData$contrastName <- factor(plotData$contrastName, levels = unique(plotData$contrastName))
-  myfi = paste('figs/', plotData$Group[1], '.jpg', sep="")#filename
+  myfi = paste(plotData$Group[1], '.jpg', sep="")#filename
   print(myfi)
 
 ggplot(data=plotData, aes(x=ROIName, y=themean, fill=contrastName)) + 
@@ -157,8 +165,9 @@ ggplot(data=plotData, aes(x=ROIName, y=themean, fill=contrastName)) +
   theme(legend.key = element_blank()) +
   facet_grid(~ROIGroup, scale='free_x', space='free_x') +
   theme(strip.background = element_blank()) +
+  theme(strip.text = element_blank()) +
   # Optional, remove for RHLang and ToMCustom since we want the legend there...
-  theme(legend.position="none")
+  #theme(legend.position="none")
  
 
   ggsave(filename=myfi, width=length(unique(plotData$ROIName)), height=3)
