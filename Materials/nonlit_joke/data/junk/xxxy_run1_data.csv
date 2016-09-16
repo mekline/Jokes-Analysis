@@ -1,0 +1,90 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,<VisionEgg.WrappedText.WrappedText object at 0x10b710d70>
+8.0000,2.000,fix
+10.0000,8.000,1,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",<VisionEgg.WrappedText.WrappedText object at 0x10b710be0>
+18.0000,8.000,1,121,1,joke,"Diamonds are produced by great pressure, usually provided by a ",girlfriend,piston,"Diamonds are produced by great pressure, usually provided by a girlfriend.",<VisionEgg.WrappedText.WrappedText object at 0x10b710c80>
+26.0000,2.000,fix
+28.0000,8.000,1,8,1,nonjoke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the bird.,<VisionEgg.WrappedText.WrappedText object at 0x10b710a50>
+36.0000,2.000,fix
+38.0000,8.000,1,109,1,joke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a dropout.,<VisionEgg.WrappedText.WrappedText object at 0x10b710820>
+46.0000,2.000,fix
+48.0000,8.000,1,94,1,nonjoke,"To get something done, a committee should consist of no more than three people, two of whom are",dead,workers,"To get something done, a committee should consist of no more than three people, two of whom are workers.",<VisionEgg.WrappedText.WrappedText object at 0x10b710780>
+56.0000,2.000,fix
+58.0000,8.000,1,46,1,nonjoke,Arguments between couples are healthy; sometimes they even prevent,marriage,breakups,Arguments between couples are healthy; sometimes they even prevent breakups.,<VisionEgg.WrappedText.WrappedText object at 0x10b7106e0>
+66.0000,8.000,1,17,1,joke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes hours.,<VisionEgg.WrappedText.WrappedText object at 0x10b710a00>
+74.0000,14.000,fix
+88.0000,8.000,1,129,1,joke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a steak.,<VisionEgg.WrappedText.WrappedText object at 0x10b710960>
+96.0000,2.000,fix
+98.0000,8.000,1,6,1,nonjoke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and rest.,<VisionEgg.WrappedText.WrappedText object at 0x10b710910>
+106.0000,2.000,fix
+108.0000,8.000,1,90,1,nonjoke,A vacation is the shortest distance between two,paychecks,locations,A vacation is the shortest distance between two locations.,<VisionEgg.WrappedText.WrappedText object at 0x10b7109b0>
+116.0000,8.000,1,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,<VisionEgg.WrappedText.WrappedText object at 0x10b710870>
+124.0000,12.000,fix
+136.0000,8.000,1,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",<VisionEgg.WrappedText.WrappedText object at 0x10b7107d0>
+144.0000,6.000,fix
+150.0000,8.000,1,13,1,joke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a shin.,<VisionEgg.WrappedText.WrappedText object at 0x10b710dc0>
+158.0000,4.000,fix
+162.0000,8.000,1,125,1,joke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the attorney.,<VisionEgg.WrappedText.WrappedText object at 0x10b7108c0>
+170.0000,4.000,fix
+174.0000,8.000,1,35,1,joke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their nuptials.",<VisionEgg.WrappedText.WrappedText object at 0x10b710e60>
+182.0000,2.000,fix
+184.0000,8.000,1,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",<VisionEgg.WrappedText.WrappedText object at 0x10b710e10>
+192.0000,8.000,1,74,1,nonjoke,He's planning an extended vacation; he hopes to spend three weeks on his,couch,sailboat,He's planning an extended vacation; he hopes to spend three weeks on his sailboat.,<VisionEgg.WrappedText.WrappedText object at 0x10b710f00>
+200.0000,8.000,1,147,1,joke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the inside.",<VisionEgg.WrappedText.WrappedText object at 0x10b710eb0>
+208.0000,4.000,fix
+212.0000,8.000,1,2,1,nonjoke,"She went on a fourteen day diet, but she only lost two",weeks,ounces,"She went on a fourteen day diet, but she only lost two ounces.",<VisionEgg.WrappedText.WrappedText object at 0x10b710f50>
+220.0000,6.000,fix
+226.0000,8.000,1,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,<VisionEgg.WrappedText.WrappedText object at 0x10b710fa0>
+234.0000,8.000,1,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5050>
+242.0000,8.000,1,117,1,joke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to profanity.",<VisionEgg.WrappedText.WrappedText object at 0x10eae50a0>
+250.0000,8.000,1,37,1,joke,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the",bathtub,admission,"The cops claimed that the prisoner just decided to come clean, but most people think he was forced into the bathtub.",<VisionEgg.WrappedText.WrappedText object at 0x10eae50f0>
+258.0000,12.000,fix
+270.0000,8.000,1,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5140>
+278.0000,8.000,1,103,1,joke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my aim.",<VisionEgg.WrappedText.WrappedText object at 0x10eae51e0>
+286.0000,2.000,fix
+288.0000,8.000,1,51,1,joke,I went to a place that serves breakfast any time and ordered French toast in the,Renaissance,nighttime,I went to a place that serves breakfast any time and ordered French toast in the Renaissance.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5190>
+296.0000,14.000,fix
+310.0000,8.000,1,132,1,nonjoke,The last time a guy in a mask took all my money I was in,surgery,shock,The last time a guy in a mask took all my money I was in shock.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5230>
+318.0000,4.000,fix
+322.0000,8.000,1,33,1,joke,Some people think courtship is the first in a series of steps leading to ,divorce,romance,Some people think courtship is the first in a series of steps leading to divorce.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5280>
+330.0000,2.000,fix
+332.0000,8.000,1,142,1,nonjoke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her father.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5320>
+340.0000,2.000,fix
+342.0000,8.000,1,79,1,joke,She puts something behind her ears to attract men; lately she's been using her,ankles,vanilla,She puts something behind her ears to attract men; lately she's been using her ankles.,<VisionEgg.WrappedText.WrappedText object at 0x10eae52d0>
+350.0000,4.000,fix
+354.0000,8.000,1,40,1,nonjoke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the outside.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5370>
+362.0000,2.000,fix
+364.0000,8.000,1,67,1,joke,The most prevalent form of legalized gambling is,elections,betting,The most prevalent form of legalized gambling is elections.,<VisionEgg.WrappedText.WrappedText object at 0x10eae53c0>
+372.0000,2.000,fix
+374.0000,8.000,1,119,1,joke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly bent.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5410>
+382.0000,4.000,fix
+386.0000,8.000,1,151,1,joke,One good turn gets most of the,blanket,profit,One good turn gets most of the blanket.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5460>
+394.0000,8.000,1,75,1,joke,"When reviewing your notes for a test, the most important ones will be",illegible,capitalized,"When reviewing your notes for a test, the most important ones will be illegible.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5500>
+402.0000,8.000,1,44,1,nonjoke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the bank.,<VisionEgg.WrappedText.WrappedText object at 0x10eae54b0>
+410.0000,8.000,fix
+418.0000,8.000,1,150,1,nonjoke,One way to keep pornography away from teenagers is to put it in a,textbook,cabinet,One way to keep pornography away from teenagers is to put it in a cabinet.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5550>
+426.0000,6.000,fix
+432.0000,8.000,1,98,1,nonjoke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and hunting.",<VisionEgg.WrappedText.WrappedText object at 0x10eae55f0>
+440.0000,4.000,fix
+444.0000,8.000,1,49,1,joke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my editor.,<VisionEgg.WrappedText.WrappedText object at 0x10eae55a0>
+452.0000,8.000,1,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5640>
+460.0000,8.000,1,99,1,joke,"He's never given a girl a present, but he did give a few a pretty good",reputation,surprise,"He's never given a girl a present, but he did give a few a pretty good reputation.",<VisionEgg.WrappedText.WrappedText object at 0x10eae56e0>
+468.0000,8.000,1,68,1,nonjoke,She always told girls not to look for a husband but just to date,bachelors,someone,She always told girls not to look for a husband but just to date someone.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5730>
+476.0000,2.000,fix
+478.0000,8.000,1,104,1,nonjoke,Politicians who are as American as apple pie still want their,slice,rewards,Politicians who are as American as apple pie still want their rewards.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5690>
+486.0000,8.000,1,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5780>
+494.0000,4.000,fix
+498.0000,8.000,1,73,1,joke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is detours.,<VisionEgg.WrappedText.WrappedText object at 0x10eae57d0>
+506.0000,8.000,1,12,1,nonjoke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the family .,<VisionEgg.WrappedText.WrappedText object at 0x10eae5820>
+514.0000,2.000,fix
+516.0000,8.000,1,58,1,nonjoke,The woman who has her husband eating out of her hand must save a lot of,dishwashing,heartbreak,The woman who has her husband eating out of her hand must save a lot of heartbreak.,<VisionEgg.WrappedText.WrappedText object at 0x10eae5870>
+524.0000,2.000,fix
+526.0000,8.000,1,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5910>
+534.0000,8.000,1,16,1,nonjoke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a palm.,<VisionEgg.WrappedText.WrappedText object at 0x10eae58c0>
+542.0000,2.000,fix
+544.0000,8.000,1,21,1,joke,"She told him he looked like a million, and she meant every",century,syllable,"She told him he looked like a million, and she meant every century.",<VisionEgg.WrappedText.WrappedText object at 0x10eae59b0>
+552.0000,2.000,fix
+554.0000,8.000,1,61,1,joke,"For great vacation, put the kids in the back seat, and take a ",cruise,freeway,"For great vacation, put the kids in the back seat, and take a cruise.",<VisionEgg.WrappedText.WrappedText object at 0x10eae5960>
+562.0000,8.000,fix
+xxxy,1,114,1,nonjoke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing stud.,,,6.011388063430786
+xxxy,1,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",3,9.155225038528442,16.005454063415527

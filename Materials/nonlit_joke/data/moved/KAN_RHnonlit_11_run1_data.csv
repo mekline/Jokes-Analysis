@@ -1,0 +1,84 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,74,2,joke,He's planning an extended vacation; he hopes to spend three weeks on his,couch,sailboat,He's planning an extended vacation; he hopes to spend three weeks on his couch.,<VisionEgg.WrappedText.WrappedText object at 0x116345c30>
+8.0000,8.000,1,13,2,nonjoke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a candle.,<VisionEgg.WrappedText.WrappedText object at 0x116345a50>
+16.0000,4.000,fix
+20.0000,8.000,1,100,2,joke,"I hope this train stops at Grand Central because if it doesn't, there will be a ",crash,delay,"I hope this train stops at Grand Central because if it doesn't, there will be a crash.",<VisionEgg.WrappedText.WrappedText object at 0x1163457d0>
+28.0000,4.000,fix
+32.0000,8.000,1,42,2,joke,The best way to keep the milk from turning sour is to keep it in the,cow,cold,The best way to keep the milk from turning sour is to keep it in the cow.,<VisionEgg.WrappedText.WrappedText object at 0x116345870>
+40.0000,8.000,1,67,2,nonjoke,The most prevalent form of legalized gambling is,elections,betting,The most prevalent form of legalized gambling is betting.,<VisionEgg.WrappedText.WrappedText object at 0x1163459b0>
+48.0000,2.000,fix
+50.0000,8.000,1,30,2,joke,Nothing you put in a banana split is as potentially fattening as the,spoon,syrup,Nothing you put in a banana split is as potentially fattening as the spoon.,<VisionEgg.WrappedText.WrappedText object at 0x1163456e0>
+58.0000,4.000,fix
+62.0000,8.000,1,64,2,joke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its credit.,<VisionEgg.WrappedText.WrappedText object at 0x116345820>
+70.0000,8.000,1,156,2,joke,The only ones who want me for my body are,mosquitos,losers,The only ones who want me for my body are mosquitos.,<VisionEgg.WrappedText.WrappedText object at 0x116345910>
+78.0000,8.000,1,137,2,nonjoke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a zombie.,<VisionEgg.WrappedText.WrappedText object at 0x116345a00>
+86.0000,2.000,fix
+88.0000,8.000,1,153,2,nonjoke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the snoop.,<VisionEgg.WrappedText.WrappedText object at 0x116345960>
+96.0000,8.000,1,52,2,joke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no makeup.,<VisionEgg.WrappedText.WrappedText object at 0x1163458c0>
+104.0000,2.000,fix
+106.0000,8.000,1,93,2,nonjoke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the competition.",<VisionEgg.WrappedText.WrappedText object at 0x116345dc0>
+114.0000,8.000,1,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",<VisionEgg.WrappedText.WrappedText object at 0x116345780>
+122.0000,8.000,1,84,2,joke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and lawyers.",<VisionEgg.WrappedText.WrappedText object at 0x116345e10>
+130.0000,8.000,1,155,2,nonjoke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the clowns.,<VisionEgg.WrappedText.WrappedText object at 0x116345e60>
+138.0000,8.000,1,86,2,joke,"I asked the florist what I should give to my girlfriend, and he suggested his",address,tulips,"I asked the florist what I should give to my girlfriend, and he suggested his address.",<VisionEgg.WrappedText.WrappedText object at 0x116345eb0>
+146.0000,2.000,fix
+148.0000,8.000,1,126,2,joke,My husband took the money we were saving to buy a new car and blew it all at the,laundry,tables,My husband took the money we were saving to buy a new car and blew it all at the laundry.,<VisionEgg.WrappedText.WrappedText object at 0x116345f00>
+156.0000,6.000,fix
+162.0000,8.000,1,152,2,joke,"Many things run in families, especially",noses,strength,"Many things run in families, especially noses.",<VisionEgg.WrappedText.WrappedText object at 0x116345f50>
+170.0000,8.000,1,46,2,joke,Arguments between couples are healthy; sometimes they even prevent,marriage,breakups,Arguments between couples are healthy; sometimes they even prevent marriage.,<VisionEgg.WrappedText.WrappedText object at 0x116345fa0>
+178.0000,8.000,1,49,2,nonjoke,One person who sure makes a long story short is my,editor,aunt,One person who sure makes a long story short is my aunt.,<VisionEgg.WrappedText.WrappedText object at 0x1163db050>
+186.0000,8.000,1,99,2,nonjoke,"He's never given a girl a present, but he did give a few a pretty good",reputation,surprise,"He's never given a girl a present, but he did give a few a pretty good surprise.",<VisionEgg.WrappedText.WrappedText object at 0x1163db0a0>
+194.0000,8.000,1,140,2,joke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with dishes.,<VisionEgg.WrappedText.WrappedText object at 0x1163db0f0>
+202.0000,8.000,fix
+210.0000,8.000,1,63,2,nonjoke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the country.",<VisionEgg.WrappedText.WrappedText object at 0x1163db140>
+218.0000,8.000,1,88,2,joke,The wind was so strong it blew out three,fuses,streetlights,The wind was so strong it blew out three fuses.,<VisionEgg.WrappedText.WrappedText object at 0x1163db190>
+226.0000,2.000,fix
+228.0000,8.000,1,43,2,nonjoke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a journalist.",<VisionEgg.WrappedText.WrappedText object at 0x1163db1e0>
+236.0000,12.000,fix
+248.0000,8.000,1,113,2,nonjoke,Some people's only culture is,bacteria,radio,Some people's only culture is radio.,<VisionEgg.WrappedText.WrappedText object at 0x1163db230>
+256.0000,2.000,fix
+258.0000,8.000,1,150,2,joke,One way to keep pornography away from teenagers is to put it in a,textbook,cabinet,One way to keep pornography away from teenagers is to put it in a textbook.,<VisionEgg.WrappedText.WrappedText object at 0x1163db2d0>
+266.0000,8.000,fix
+274.0000,8.000,1,71,2,nonjoke,Save the whales; start a,collection,coalition,Save the whales; start a coalition.,<VisionEgg.WrappedText.WrappedText object at 0x1163db320>
+282.0000,20.000,fix
+302.0000,8.000,1,22,2,joke,Our son brought home a note from school saying they need a written excuse for his,presence,tardiness,Our son brought home a note from school saying they need a written excuse for his presence.,<VisionEgg.WrappedText.WrappedText object at 0x1163db280>
+310.0000,2.000,fix
+312.0000,8.000,1,122,2,joke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful cleaner.",<VisionEgg.WrappedText.WrappedText object at 0x1163db370>
+320.0000,8.000,1,106,2,joke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the springs.",<VisionEgg.WrappedText.WrappedText object at 0x1163db3c0>
+328.0000,4.000,fix
+332.0000,8.000,1,119,2,nonjoke,"He told me he's not broke, just badly",bent,off,"He told me he's not broke, just badly off.",<VisionEgg.WrappedText.WrappedText object at 0x1163db410>
+340.0000,2.000,fix
+342.0000,8.000,1,40,2,joke,No patient should leave the hospital until he's strong enough to face the,cashier,outside,No patient should leave the hospital until he's strong enough to face the cashier.,<VisionEgg.WrappedText.WrappedText object at 0x1163db4b0>
+350.0000,8.000,1,129,2,nonjoke,The perfect companion to a vegetarian dinner is a ,steak,salad,The perfect companion to a vegetarian dinner is a salad.,<VisionEgg.WrappedText.WrappedText object at 0x1163db460>
+358.0000,2.000,fix
+360.0000,8.000,1,16,2,joke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a blonde.,<VisionEgg.WrappedText.WrappedText object at 0x1163db500>
+368.0000,8.000,fix
+376.0000,8.000,1,28,2,joke,Her press agent was operated on for an ingrown,beeper,eyelash,Her press agent was operated on for an ingrown beeper.,<VisionEgg.WrappedText.WrappedText object at 0x1163db5a0>
+384.0000,12.000,fix
+396.0000,8.000,1,81,2,nonjoke,Another thing that has developed by leaps and bounds is modern,dance,science,Another thing that has developed by leaps and bounds is modern science.,<VisionEgg.WrappedText.WrappedText object at 0x1163db550>
+404.0000,20.000,fix
+424.0000,8.000,1,109,2,nonjoke,Many a freshman helps the college of his choice by becoming a ,dropout,member,Many a freshman helps the college of his choice by becoming a member.,<VisionEgg.WrappedText.WrappedText object at 0x1163db5f0>
+432.0000,8.000,1,107,2,nonjoke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice diction.,<VisionEgg.WrappedText.WrappedText object at 0x1163db640>
+440.0000,8.000,1,134,2,joke,My church welcomes all denominations but prefers,twenties,Mormons,My church welcomes all denominations but prefers twenties.,<VisionEgg.WrappedText.WrappedText object at 0x1163db6e0>
+448.0000,2.000,fix
+450.0000,8.000,1,14,2,joke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a lifeguard.,<VisionEgg.WrappedText.WrappedText object at 0x1163db690>
+458.0000,4.000,fix
+462.0000,8.000,1,76,2,joke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of punishment.",<VisionEgg.WrappedText.WrappedText object at 0x1163db780>
+470.0000,2.000,fix
+472.0000,8.000,1,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",<VisionEgg.WrappedText.WrappedText object at 0x1163db730>
+480.0000,6.000,fix
+486.0000,8.000,1,139,2,nonjoke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new wood.,<VisionEgg.WrappedText.WrappedText object at 0x1163db7d0>
+494.0000,8.000,1,115,2,nonjoke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your drives.",<VisionEgg.WrappedText.WrappedText object at 0x1163db870>
+502.0000,2.000,fix
+504.0000,8.000,1,111,2,nonjoke,"Some husbands are good providers, but only if you count",children,salary,"Some husbands are good providers, but only if you count salary.",<VisionEgg.WrappedText.WrappedText object at 0x1163db820>
+512.0000,8.000,1,121,2,nonjoke,"Diamonds are produced by great pressure, usually provided by a ",girlfriend,piston,"Diamonds are produced by great pressure, usually provided by a piston.",<VisionEgg.WrappedText.WrappedText object at 0x1163db8c0>
+520.0000,8.000,1,75,2,nonjoke,"When reviewing your notes for a test, the most important ones will be",illegible,capitalized,"When reviewing your notes for a test, the most important ones will be capitalized.",<VisionEgg.WrappedText.WrappedText object at 0x1163db910>
+528.0000,2.000,fix
+530.0000,8.000,1,138,2,joke,Modern science is amazing: garbage is now being made into,movies,gasoline,Modern science is amazing: garbage is now being made into movies.,<VisionEgg.WrappedText.WrappedText object at 0x1163db9b0>
+538.0000,4.000,fix
+542.0000,8.000,1,85,2,nonjoke,"Frequent naps prevent old age, especially when taken while",driving,relaxed,"Frequent naps prevent old age, especially when taken while relaxed.",<VisionEgg.WrappedText.WrappedText object at 0x1163db960>
+550.0000,8.000,1,133,2,nonjoke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the shelves.,<VisionEgg.WrappedText.WrappedText object at 0x1163dba50>
+558.0000,2.000,fix
+560.0000,8.000,1,60,2,joke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his allowance.,<VisionEgg.WrappedText.WrappedText object at 0x1163dba00>
+568.0000,2.000,fix
+KAN_RHnonlit_11,1,74,2,joke,He's planning an extended vacation; he hopes to spend three weeks on his,couch,sailboat,He's planning an extended vacation; he hopes to spend three weeks on his couch.,2,0.38495397567749023,6.001146078109741

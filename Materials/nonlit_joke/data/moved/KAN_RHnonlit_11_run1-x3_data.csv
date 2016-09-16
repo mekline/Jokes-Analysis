@@ -1,0 +1,140 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,1,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",<VisionEgg.WrappedText.WrappedText object at 0x10e479dc0>
+8.0000,2.000,fix
+10.0000,8.000,1,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",<VisionEgg.WrappedText.WrappedText object at 0x10e479780>
+18.0000,8.000,1,39,1,joke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with scissors.,<VisionEgg.WrappedText.WrappedText object at 0x10e479be0>
+26.0000,2.000,fix
+28.0000,8.000,1,6,1,nonjoke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and rest.,<VisionEgg.WrappedText.WrappedText object at 0x10e479960>
+36.0000,2.000,fix
+38.0000,8.000,1,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",<VisionEgg.WrappedText.WrappedText object at 0x10e479820>
+46.0000,2.000,fix
+48.0000,8.000,1,82,1,nonjoke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal parka.",<VisionEgg.WrappedText.WrappedText object at 0x10e479a50>
+56.0000,2.000,fix
+58.0000,8.000,1,106,1,nonjoke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the fabric.",<VisionEgg.WrappedText.WrappedText object at 0x10e4798c0>
+66.0000,8.000,1,71,1,joke,Save the whales; start a,collection,coalition,Save the whales; start a collection.,<VisionEgg.WrappedText.WrappedText object at 0x10e479870>
+74.0000,14.000,fix
+88.0000,8.000,1,151,1,joke,One good turn gets most of the,blanket,profit,One good turn gets most of the blanket.,<VisionEgg.WrappedText.WrappedText object at 0x10e4799b0>
+96.0000,2.000,fix
+98.0000,8.000,1,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",<VisionEgg.WrappedText.WrappedText object at 0x10e479a00>
+106.0000,2.000,fix
+108.0000,8.000,1,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,<VisionEgg.WrappedText.WrappedText object at 0x10e4797d0>
+116.0000,8.000,1,118,1,nonjoke,Cocktails lounges are usually half lit to match the,patrons,setting,Cocktails lounges are usually half lit to match the setting.,<VisionEgg.WrappedText.WrappedText object at 0x10e479aa0>
+124.0000,12.000,fix
+136.0000,8.000,1,115,1,joke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your opponent.",<VisionEgg.WrappedText.WrappedText object at 0x10e479910>
+144.0000,6.000,fix
+150.0000,8.000,1,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",<VisionEgg.WrappedText.WrappedText object at 0x10e479e10>
+158.0000,4.000,fix
+162.0000,8.000,1,91,1,joke,"If there's one thing that counts in business, its",bookkeepers,resources,"If there's one thing that counts in business, its bookkeepers.",<VisionEgg.WrappedText.WrappedText object at 0x10e479e60>
+170.0000,4.000,fix
+174.0000,8.000,1,155,1,joke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the singer.,<VisionEgg.WrappedText.WrappedText object at 0x10e479eb0>
+182.0000,2.000,fix
+184.0000,8.000,1,9,1,joke,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a ",dress,name,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a dress.",<VisionEgg.WrappedText.WrappedText object at 0x10e479f00>
+192.0000,8.000,1,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,<VisionEgg.WrappedText.WrappedText object at 0x10e479f50>
+200.0000,8.000,1,117,1,joke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to profanity.",<VisionEgg.WrappedText.WrappedText object at 0x10e479fa0>
+208.0000,4.000,fix
+212.0000,8.000,1,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f050>
+220.0000,6.000,fix
+226.0000,8.000,1,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f0a0>
+234.0000,8.000,1,142,1,nonjoke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her father.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f0f0>
+242.0000,8.000,1,143,1,joke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're commuters.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f140>
+250.0000,8.000,1,135,1,joke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my horn.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f1e0>
+258.0000,12.000,fix
+270.0000,8.000,1,146,1,nonjoke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called memories.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f190>
+278.0000,8.000,1,3,1,joke,A thoughtful wife has pork chops ready when her husband comes home from,fishing,working,A thoughtful wife has pork chops ready when her husband comes home from fishing.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f230>
+286.0000,2.000,fix
+288.0000,8.000,1,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f280>
+296.0000,14.000,fix
+310.0000,8.000,1,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f320>
+318.0000,4.000,fix
+322.0000,8.000,1,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f2d0>
+330.0000,2.000,fix
+332.0000,8.000,1,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f3c0>
+340.0000,2.000,fix
+342.0000,8.000,1,93,1,joke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the city.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f370>
+350.0000,4.000,fix
+354.0000,8.000,1,26,1,nonjoke,"To clothe one soldier, it takes the wool from two sheep and the hides from three",taxpayers,animals,"To clothe one soldier, it takes the wool from two sheep and the hides from three animals.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f410>
+362.0000,2.000,fix
+364.0000,8.000,1,103,1,joke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my aim.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f460>
+372.0000,2.000,fix
+374.0000,8.000,1,139,1,joke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new drunks.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f4b0>
+382.0000,4.000,fix
+386.0000,8.000,1,97,1,joke,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the",dressmaker,mistress,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the dressmaker.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f550>
+394.0000,8.000,1,43,1,joke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a boy.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f500>
+402.0000,8.000,1,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f5a0>
+410.0000,8.000,fix
+418.0000,8.000,1,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f640>
+426.0000,6.000,fix
+432.0000,8.000,1,14,1,nonjoke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a shipwreck.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f5f0>
+440.0000,4.000,fix
+444.0000,8.000,1,123,1,joke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large stone.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f6e0>
+452.0000,8.000,1,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f690>
+460.0000,8.000,1,131,1,joke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly weddings.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f730>
+468.0000,8.000,1,110,1,nonjoke,It's not hard to meet expenses; they're ,everywhere,affordable,It's not hard to meet expenses; they're affordable.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f780>
+476.0000,2.000,fix
+478.0000,8.000,1,76,1,nonjoke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of diversion.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f7d0>
+486.0000,8.000,1,1,1,joke,"When I asked how long he should cook the noodles, I said at least ten",inches,seconds,"When I asked how long he should cook the noodles, I said at least ten inches.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f820>
+494.0000,4.000,fix
+498.0000,8.000,1,137,1,joke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a widower.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f870>
+506.0000,8.000,1,130,1,nonjoke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly upgrades.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f8c0>
+514.0000,2.000,fix
+516.0000,8.000,1,102,1,nonjoke,We live in a lovely suburb; it's just two miles beyond our,income,town,We live in a lovely suburb; it's just two miles beyond our town.,<VisionEgg.WrappedText.WrappedText object at 0x111b0f910>
+524.0000,2.000,fix
+526.0000,8.000,1,152,1,nonjoke,"Many things run in families, especially",noses,strength,"Many things run in families, especially strength.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f960>
+534.0000,8.000,1,92,1,nonjoke,"When I asked the bartender for something cold and full of rum, he recommended his",wife,daiquiri,"When I asked the bartender for something cold and full of rum, he recommended his daiquiri.",<VisionEgg.WrappedText.WrappedText object at 0x111b0f9b0>
+542.0000,2.000,fix
+544.0000,8.000,1,133,1,joke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the maid.,<VisionEgg.WrappedText.WrappedText object at 0x111b0fa00>
+552.0000,2.000,fix
+554.0000,8.000,1,13,1,joke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a shin.,<VisionEgg.WrappedText.WrappedText object at 0x111b0fa50>
+562.0000,8.000,fix
+KAN_RHnonlit_11,1,122,1,nonjoke,"If you're filthy rich, sending your kids to college is a wonderful", cleaner,luxury,"If you're filthy rich, sending your kids to college is a wonderful luxury.",,,6.00056004524231
+KAN_RHnonlit_11,1,34,1,nonjoke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough change.",1,0.25104594230651855,16.011346101760864
+KAN_RHnonlit_11,1,39,1,joke,The best way to remove coffee stains from a white blouse is with,scissors,detergent,The best way to remove coffee stains from a white blouse is with scissors.,4,1.0378761291503906,24.01328706741333
+KAN_RHnonlit_11,1,6,1,nonjoke,Sunday is the day we bow our heads and,putt,rest,Sunday is the day we bow our heads and rest.,1,0.9876859188079834,34.00734615325928
+KAN_RHnonlit_11,1,69,1,joke,"When an irresistible force meets an immovable object, you get two very angry",women,entities,"When an irresistible force meets an immovable object, you get two very angry women.",3,1.4228971004486084,44.0013689994812
+KAN_RHnonlit_11,1,82,1,nonjoke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal parka.",1,0.8538191318511963,54.012062072753906
+KAN_RHnonlit_11,1,106,1,nonjoke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the fabric.",1,0.7700238227844238,64.00619220733643
+KAN_RHnonlit_11,1,71,1,joke,Save the whales; start a,collection,coalition,Save the whales; start a collection.,2,1.2053229808807373,72.00811910629272
+KAN_RHnonlit_11,1,151,1,joke,One good turn gets most of the,blanket,profit,One good turn gets most of the blanket.,3,1.0880379676818848,94.00507807731628
+KAN_RHnonlit_11,1,84,1,nonjoke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and crack.",1,0.8537189960479736,104.01584315299988
+KAN_RHnonlit_11,1,52,1,nonjoke,My wife did natural childbirth: no,makeup,anesthetic,My wife did natural childbirth: no anesthetic.,1,0.8035078048706055,114.00984120368958
+KAN_RHnonlit_11,1,118,1,nonjoke,Cocktails lounges are usually half lit to match the,patrons,setting,Cocktails lounges are usually half lit to match the setting.,1,0.6528489589691162,122.01176404953003
+KAN_RHnonlit_11,1,115,1,joke,"In the game of golf, nothing counts as much as your",opponent,drives,"In the game of golf, nothing counts as much as your opponent.",2,1.1885831356048584,142.0166380405426
+KAN_RHnonlit_11,1,57,1,joke,"Congress taxes our income, our property, and our",patience,purchases,"Congress taxes our income, our property, and our patience.",3,1.1719119548797607,156.01157212257385
+KAN_RHnonlit_11,1,91,1,joke,"If there's one thing that counts in business, its",bookkeepers,resources,"If there's one thing that counts in business, its bookkeepers.",3,1.0881760120391846,168.01447415351868
+KAN_RHnonlit_11,1,155,1,joke,The show had one act that was really offbeat: the,singer,clowns,The show had one act that was really offbeat: the singer.,2,0.9207758903503418,180.00062012672424
+KAN_RHnonlit_11,1,9,1,joke,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a ",dress,name,"I asked the woman at the party if she remembered me from last year, and she said she never forgets a dress.",,,190.01149821281433
+KAN_RHnonlit_11,1,54,1,nonjoke,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little,finding,sightseeing,The tourist bureau told the visitors there was plenty of hunting in this part of the country but very little sightseeing.,1,0.7366669178009033,198.01333618164062
+KAN_RHnonlit_11,1,117,1,joke,"All roads lead to Rome, and all detours lead to",profanity,somewhere,"All roads lead to Rome, and all detours lead to profanity.",4,1.171787977218628,206.0153501033783
+KAN_RHnonlit_11,1,18,1,nonjoke,"When we watch a sexy movie, my wife leans over and breathes on my",glasses,collar,"When we watch a sexy movie, my wife leans over and breathes on my collar.",1,0.3515658378601074,218.0014111995697
+KAN_RHnonlit_11,1,96,1,nonjoke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the crate.",1,1.1885528564453125,232.01316618919373
+KAN_RHnonlit_11,1,142,1,nonjoke,She's happy because she finally has a boyfriend who gets along with her,fianc_,father,She's happy because she finally has a boyfriend who gets along with her father.,1,0.7700462341308594,240.01516699790955
+KAN_RHnonlit_11,1,143,1,joke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're commuters.,2,0.3850882053375244,248.00029301643372
+KAN_RHnonlit_11,1,135,1,joke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my horn.",4,0.8872239589691162,256.0022361278534
+KAN_RHnonlit_11,1,146,1,nonjoke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called memories.",1,0.8369960784912109,276.0071461200714
+KAN_RHnonlit_11,1,3,1,joke,A thoughtful wife has pork chops ready when her husband comes home from,fishing,working,A thoughtful wife has pork chops ready when her husband comes home from fishing.,3,0.3516387939453125,284.0089662075043
+KAN_RHnonlit_11,1,47,1,joke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a statue.",2,1.2890410423278809,294.0029990673065
+KAN_RHnonlit_11,1,120,1,nonjoke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and fame.,1,1.4228999614715576,316.00006222724915
+KAN_RHnonlit_11,1,25,1,joke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is poverty.,3,0.9541599750518799,328.00292205810547
+KAN_RHnonlit_11,1,38,1,nonjoke,This fall two things are turning yellow: trees and,investors,bushes,This fall two things are turning yellow: trees and bushes.,1,1.1048080921173096,338.01370906829834
+KAN_RHnonlit_11,1,93,1,joke,"He is probably the best boxer in the country, but he always loses in the ",city,competition,"He is probably the best boxer in the country, but he always loses in the city.",1,1.5568299293518066,348.0077202320099
+KAN_RHnonlit_11,1,26,1,nonjoke,"To clothe one soldier, it takes the wool from two sheep and the hides from three",taxpayers,animals,"To clothe one soldier, it takes the wool from two sheep and the hides from three animals.",1,0.9877669811248779,360.0106680393219
+KAN_RHnonlit_11,1,103,1,joke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my aim.",2,0.9708919525146484,370.00466322898865
+KAN_RHnonlit_11,1,139,1,joke,They redecorated the bar with new,drunks,wood,They redecorated the bar with new drunks.,4,1.0546469688415527,380.01543521881104
+KAN_RHnonlit_11,1,97,1,joke,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the",dressmaker,mistress,"When I found out how much my wife spent on dresses last year, I dumped her and proposed to the dressmaker.",,,392.0015470981598
+KAN_RHnonlit_11,1,43,1,joke,"I asked him if he started out as an editor, and he said that years ago he used to be a ",boy,journalist,"I asked him if he started out as an editor, and he said that years ago he used to be a boy.",3,0.8369321823120117,400.0035810470581
+KAN_RHnonlit_11,1,50,1,nonjoke,The only time my father ever raised a hand to his children was in ,self- defense,discipline,The only time my father ever raised a hand to his children was in discipline.,1,0.9382710456848145,408.00548911094666
+KAN_RHnonlit_11,1,124,1,nonjoke,"I've got Parkinson's disease, and he's got", mine,gout,"I've got Parkinson's disease, and he's got gout.",2,1.121617078781128,424.00928807258606
+KAN_RHnonlit_11,1,14,1,nonjoke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a shipwreck.,,,438.00428318977356
+KAN_RHnonlit_11,1,123,1,joke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large stone.,,,450.00717520713806
+KAN_RHnonlit_11,1,60,1,nonjoke,Another thing a small boy is constantly outgrowing is his,allowance,underwear,Another thing a small boy is constantly outgrowing is his underwear.,2,0.8873088359832764,458.0091211795807
+KAN_RHnonlit_11,1,131,1,joke,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly",weddings, blackjack,"Statistics indicate that Americans spend eighty million a year on games of chance, mostly weddings.",2,1.2220730781555176,466.01106214523315
+KAN_RHnonlit_11,1,110,1,nonjoke,It's not hard to meet expenses; they're ,everywhere,affordable,It's not hard to meet expenses; they're affordable.,1,0.8538691997528076,474.01297402381897
+KAN_RHnonlit_11,1,76,1,nonjoke,"Parents support clubs for teenagers, especially when they lack other forms of",punishment,diversion,"Parents support clubs for teenagers, especially when they lack other forms of diversion.",1,0.7030820846557617,484.0070300102234
+KAN_RHnonlit_11,1,1,1,joke,"When I asked how long he should cook the noodles, I said at least ten",inches,seconds,"When I asked how long he should cook the noodles, I said at least ten inches.",2,0.8704037666320801,492.00905323028564
+KAN_RHnonlit_11,1,137,1,joke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a widower.,2,0.8202769756317139,504.01191806793213
+KAN_RHnonlit_11,1,130,1,nonjoke,"This house comes with lots of extras, mostly",termites,upgrades,"This house comes with lots of extras, mostly upgrades.",1,0.8035399913787842,512.0138621330261
+KAN_RHnonlit_11,1,102,1,nonjoke,We live in a lovely suburb; it's just two miles beyond our,income,town,We live in a lovely suburb; it's just two miles beyond our town.,1,0.8538579940795898,522.0078210830688
+KAN_RHnonlit_11,1,152,1,nonjoke,"Many things run in families, especially",noses,strength,"Many things run in families, especially strength.",1,0.7533109188079834,532.0018792152405
+KAN_RHnonlit_11,1,92,1,nonjoke,"When I asked the bartender for something cold and full of rum, he recommended his",wife,daiquiri,"When I asked the bartender for something cold and full of rum, he recommended his daiquiri.",1,1.3056769371032715,540.0038561820984
+KAN_RHnonlit_11,1,133,1,joke,He likes to make things around the house; this week it's the,maid,shelves,He likes to make things around the house; this week it's the maid.,1,0.9541568756103516,550.0146372318268
+KAN_RHnonlit_11,1,13,1,joke,A device for finding furniture in the dark is a ,shin,candle,A device for finding furniture in the dark is a shin.,3,0.720268964767456,560.0086340904236

@@ -1,0 +1,50 @@
+optseq2
+$Id: optseq2.c,v 2.15 2009/05/26 18:13:45 greve Exp $
+NoSearch  = 0
+nSearch  = 1000
+nKeep    = 5
+PctUpdate  = 10.000000
+nCB1Opt  = 0
+seed     = 660084
+Ntp  = 285
+TR   = 2
+TPreScan   = 0
+PSD Window   = 0 8 2
+nEvTypes = 2
+EvNo    Label Duration nRepsNom
+ 1       joke  8.000   26
+ 2    nonjoke  8.000   26
+PctVarEvReps = 0
+VarEvRepsPerCond = 0
+PolyOrder = -1
+tNullMax = -1
+tNullMin = 0
+AR1 = 0
+No refractory penalty
+Cost = eff
+OutStem = ./optseq_files-8sec/times
+Summary File = ./optseq_files-8sec/times.sum
+
+Pct nSrch MinSrch Cost Eff Cb1Err VRFAvg VRFStd VRFMin VRFMax VRFRange nSince
+
+BeginUpdateLog
+ 0       1     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 0
+ 0      10     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 4
+ 0      10     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 0
+ 1      11     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 0
+ 1      11     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 0
+ 1      14     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 2
+ 1      14     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 0
+11     110     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 96
+22     220     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 206
+33     330     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 316
+44     440     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 426
+55     550     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 536
+66     660     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 646
+77     770     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 756
+88     880     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 866
+99     990     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 976
+100    1000     0.0   3.25  3.25  0.0577  26  0  26  26  0 0 986
+EndUpdateLog
+
+Done

@@ -1,0 +1,140 @@
+subj,run,item,list,category,sentence,joke ending,nonjoke ending,displayed,response,RT,question onset
+0.0000,8.000,2,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",<VisionEgg.WrappedText.WrappedText object at 0x113c98820>
+8.0000,2.000,fix
+10.0000,8.000,2,11,2,nonjoke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a statement.",<VisionEgg.WrappedText.WrappedText object at 0x113c98870>
+18.0000,8.000,2,144,2,joke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five beers.,<VisionEgg.WrappedText.WrappedText object at 0x113c988c0>
+26.0000,2.000,fix
+28.0000,8.000,2,145,2,nonjoke,The only person who sticks closer to you in adversity than a friend is a,creditor,spouse,The only person who sticks closer to you in adversity than a friend is a spouse.,<VisionEgg.WrappedText.WrappedText object at 0x113c98910>
+36.0000,2.000,fix
+38.0000,8.000,2,82,2,joke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal brunette.",<VisionEgg.WrappedText.WrappedText object at 0x113c989b0>
+46.0000,2.000,fix
+48.0000,8.000,2,25,2,nonjoke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is generosity.,<VisionEgg.WrappedText.WrappedText object at 0x113c98960>
+56.0000,2.000,fix
+58.0000,8.000,2,29,2,nonjoke,My doctor has never violated his oath: the oath he took years ago to become a,millionaire,practitioner,My doctor has never violated his oath: the oath he took years ago to become a practitioner.,<VisionEgg.WrappedText.WrappedText object at 0x113c98a00>
+66.0000,8.000,2,64,2,joke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its credit.,<VisionEgg.WrappedText.WrappedText object at 0x113c98a50>
+74.0000,14.000,fix
+88.0000,8.000,2,12,2,joke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the press.,<VisionEgg.WrappedText.WrappedText object at 0x113c98aa0>
+96.0000,2.000,fix
+98.0000,8.000,2,89,2,nonjoke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are weak.",<VisionEgg.WrappedText.WrappedText object at 0x113c98af0>
+106.0000,2.000,fix
+108.0000,8.000,2,135,2,nonjoke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my clutch.",<VisionEgg.WrappedText.WrappedText object at 0x113c98b40>
+116.0000,8.000,2,123,2,nonjoke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large fortune.,<VisionEgg.WrappedText.WrappedText object at 0x113c98b90>
+124.0000,12.000,fix
+136.0000,8.000,2,98,2,joke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and primaries.",<VisionEgg.WrappedText.WrappedText object at 0x113c98be0>
+144.0000,6.000,fix
+150.0000,8.000,2,32,2,joke,"Though most people think it's Rome, the world's most beloved capital is actually",dollars,Vienna,"Though most people think it's Rome, the world's most beloved capital is actually dollars.",<VisionEgg.WrappedText.WrappedText object at 0x113c98c30>
+158.0000,4.000,fix
+162.0000,8.000,2,140,2,joke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with dishes.,<VisionEgg.WrappedText.WrappedText object at 0x113c98c80>
+170.0000,4.000,fix
+174.0000,8.000,2,4,2,joke,I knew a streetwalker who was so exclusive she had an unlisted telephone,booth,line,I knew a streetwalker who was so exclusive she had an unlisted telephone booth.,<VisionEgg.WrappedText.WrappedText object at 0x113c98cd0>
+182.0000,2.000,fix
+184.0000,8.000,2,8,2,joke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the kids.,<VisionEgg.WrappedText.WrappedText object at 0x113c98d20>
+192.0000,8.000,2,125,2,nonjoke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the daughter.,<VisionEgg.WrappedText.WrappedText object at 0x113c98d70>
+200.0000,8.000,2,134,2,joke,My church welcomes all denominations but prefers,twenties,Mormons,My church welcomes all denominations but prefers twenties.,<VisionEgg.WrappedText.WrappedText object at 0x113c98e10>
+208.0000,4.000,fix
+212.0000,8.000,2,121,2,nonjoke,"Diamonds are produced by great pressure, usually provided by a ",girlfriend,piston,"Diamonds are produced by great pressure, usually provided by a piston.",<VisionEgg.WrappedText.WrappedText object at 0x113c98dc0>
+220.0000,6.000,fix
+226.0000,8.000,2,73,2,nonjoke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is greed.,<VisionEgg.WrappedText.WrappedText object at 0x113c98e60>
+234.0000,8.000,2,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",<VisionEgg.WrappedText.WrappedText object at 0x113c98eb0>
+242.0000,8.000,2,146,2,joke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called alimony.",<VisionEgg.WrappedText.WrappedText object at 0x113c98f00>
+250.0000,8.000,2,120,2,joke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and money.,<VisionEgg.WrappedText.WrappedText object at 0x113c98f50>
+258.0000,12.000,fix
+270.0000,8.000,2,137,2,nonjoke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a zombie.,<VisionEgg.WrappedText.WrappedText object at 0x113c98fa0>
+278.0000,8.000,2,154,2,joke,"This new computer works so quickly, it comes complete with",ulcers,games,"This new computer works so quickly, it comes complete with ulcers.",<VisionEgg.WrappedText.WrappedText object at 0x117267050>
+286.0000,2.000,fix
+288.0000,8.000,2,106,2,joke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the springs.",<VisionEgg.WrappedText.WrappedText object at 0x1172670a0>
+296.0000,14.000,fix
+310.0000,8.000,2,59,2,nonjoke,"Women don't dress to please men; if they did, they'd dress a lot",faster,scantier,"Women don't dress to please men; if they did, they'd dress a lot scantier.",<VisionEgg.WrappedText.WrappedText object at 0x1172670f0>
+318.0000,4.000,fix
+322.0000,8.000,2,30,2,joke,Nothing you put in a banana split is as potentially fattening as the,spoon,syrup,Nothing you put in a banana split is as potentially fattening as the spoon.,<VisionEgg.WrappedText.WrappedText object at 0x117267140>
+330.0000,2.000,fix
+332.0000,8.000,2,41,2,nonjoke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a motorist.,<VisionEgg.WrappedText.WrappedText object at 0x1172671e0>
+340.0000,2.000,fix
+342.0000,8.000,2,114,2,joke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing bridge.,<VisionEgg.WrappedText.WrappedText object at 0x117267230>
+350.0000,4.000,fix
+354.0000,8.000,2,19,2,nonjoke,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my",umbrella,pay,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my pay.",<VisionEgg.WrappedText.WrappedText object at 0x117267190>
+362.0000,2.000,fix
+364.0000,8.000,2,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,<VisionEgg.WrappedText.WrappedText object at 0x117267280>
+372.0000,2.000,fix
+374.0000,8.000,2,78,2,joke,My brother-in-law enjoys fixing things around the house so much he spent an hour last night just fixing our,drinks,stove,My brother-in-law enjoys fixing things around the house so much he spent an hour last night just fixing our drinks.,<VisionEgg.WrappedText.WrappedText object at 0x1172672d0>
+382.0000,4.000,fix
+386.0000,8.000,2,14,2,joke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a lifeguard.,<VisionEgg.WrappedText.WrappedText object at 0x117267320>
+394.0000,8.000,2,112,2,joke,The art museum just acquired an early Rembrandt; it's done in ,Crayola,charcoal,The art museum just acquired an early Rembrandt; it's done in Crayola.,<VisionEgg.WrappedText.WrappedText object at 0x1172673c0>
+402.0000,8.000,2,103,2,nonjoke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my ego.",<VisionEgg.WrappedText.WrappedText object at 0x117267370>
+410.0000,8.000,fix
+418.0000,8.000,2,17,2,nonjoke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes votes.,<VisionEgg.WrappedText.WrappedText object at 0x117267410>
+426.0000,6.000,fix
+432.0000,8.000,2,63,2,nonjoke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the country.",<VisionEgg.WrappedText.WrappedText object at 0x1172674b0>
+440.0000,4.000,fix
+444.0000,8.000,2,26,2,joke,"To clothe one soldier, it takes the wool from two sheep and the hides from three",taxpayers,animals,"To clothe one soldier, it takes the wool from two sheep and the hides from three taxpayers.",<VisionEgg.WrappedText.WrappedText object at 0x117267460>
+452.0000,8.000,2,47,2,nonjoke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a teenager.",<VisionEgg.WrappedText.WrappedText object at 0x117267500>
+460.0000,8.000,2,96,2,joke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the register.",<VisionEgg.WrappedText.WrappedText object at 0x1172675a0>
+468.0000,8.000,2,107,2,nonjoke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice diction.,<VisionEgg.WrappedText.WrappedText object at 0x117267550>
+476.0000,2.000,fix
+478.0000,8.000,2,67,2,nonjoke,The most prevalent form of legalized gambling is,elections,betting,The most prevalent form of legalized gambling is betting.,<VisionEgg.WrappedText.WrappedText object at 0x117267640>
+486.0000,8.000,2,34,2,joke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough room.",<VisionEgg.WrappedText.WrappedText object at 0x1172675f0>
+494.0000,4.000,fix
+498.0000,8.000,2,84,2,joke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and lawyers.",<VisionEgg.WrappedText.WrappedText object at 0x1172676e0>
+506.0000,8.000,2,35,2,nonjoke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their careers.",<VisionEgg.WrappedText.WrappedText object at 0x117267690>
+514.0000,2.000,fix
+516.0000,8.000,2,147,2,nonjoke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the kitchen.",<VisionEgg.WrappedText.WrappedText object at 0x117267730>
+524.0000,2.000,fix
+526.0000,8.000,2,153,2,nonjoke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the snoop.,<VisionEgg.WrappedText.WrappedText object at 0x1172677d0>
+534.0000,8.000,2,143,2,nonjoke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're candidates.,<VisionEgg.WrappedText.WrappedText object at 0x117267780>
+542.0000,2.000,fix
+544.0000,8.000,2,16,2,joke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a blonde.,<VisionEgg.WrappedText.WrappedText object at 0x117267820>
+552.0000,2.000,fix
+554.0000,8.000,2,138,2,joke,Modern science is amazing: garbage is now being made into,movies,gasoline,Modern science is amazing: garbage is now being made into movies.,<VisionEgg.WrappedText.WrappedText object at 0x1172678c0>
+562.0000,8.000,fix
+KAN_RHnonlit_11,2,31,2,nonjoke,"He told her he wasn't himself, and she said she'd noticed the",improvement,problem,"He told her he wasn't himself, and she said she'd noticed the problem.",3,0.4352841377258301,6.001469850540161
+KAN_RHnonlit_11,2,11,2,nonjoke,"He owns stock in a company that pays quarterly dividends, so every three months they send him a",quarter,statement,"He owns stock in a company that pays quarterly dividends, so every three months they send him a statement.",2,1.8079631328582764,16.01225185394287
+KAN_RHnonlit_11,2,144,2,joke,The difference between a dog and fox is about five,beers,degrees,The difference between a dog and fox is about five beers.,1,1.1383981704711914,24.01410484313965
+KAN_RHnonlit_11,2,145,2,nonjoke,The only person who sticks closer to you in adversity than a friend is a,creditor,spouse,The only person who sticks closer to you in adversity than a friend is a spouse.,1,1.5233371257781982,34.00820994377136
+KAN_RHnonlit_11,2,82,2,joke,"When it comes to keeping warm, nothing beats a thermal",brunette,parka,"When it comes to keeping warm, nothing beats a thermal brunette.",1,0.502126932144165,44.002269983291626
+KAN_RHnonlit_11,2,25,2,nonjoke,The only thing money can't buy is,poverty,generosity,The only thing money can't buy is generosity.,1,0.887347936630249,54.01296591758728
+KAN_RHnonlit_11,2,29,2,nonjoke,My doctor has never violated his oath: the oath he took years ago to become a,millionaire,practitioner,My doctor has never violated his oath: the oath he took years ago to become a practitioner.,2,1.6573381423950195,64.00700688362122
+KAN_RHnonlit_11,2,64,2,joke,The best way to stop an elephant from charging is to cut off its,credit,toes,The best way to stop an elephant from charging is to cut off its credit.,2,1.6070799827575684,72.00898289680481
+KAN_RHnonlit_11,2,12,2,joke,In some marriages the bride is given away by the ,press,family ,In some marriages the bride is given away by the press.,1,0.6862649917602539,94.00596404075623
+KAN_RHnonlit_11,2,89,2,nonjoke,"Some babies are born to rule, while others are",male,weak,"Some babies are born to rule, while others are weak.",1,1.021540880203247,104.01664996147156
+KAN_RHnonlit_11,2,135,2,nonjoke,"My mechanic couldn't fix my brakes, so he fixed my",horn,clutch,"My mechanic couldn't fix my brakes, so he fixed my clutch.",2,1.0378577709197998,114.01076006889343
+KAN_RHnonlit_11,2,123,2,nonjoke,Too many girls believe that the chief foundation for true love is a large,stone,fortune,Too many girls believe that the chief foundation for true love is a large fortune.,1,0.2677791118621826,122.01269388198853
+KAN_RHnonlit_11,2,98,2,joke,"Nature has three ways of thinning the herd: drought, famine, and ",primaries,hunting,"Nature has three ways of thinning the herd: drought, famine, and primaries.",3,0.7863650321960449,142.0011830329895
+KAN_RHnonlit_11,2,32,2,joke,"Though most people think it's Rome, the world's most beloved capital is actually",dollars,Vienna,"Though most people think it's Rome, the world's most beloved capital is actually dollars.",1,1.7242579460144043,156.0124650001526
+KAN_RHnonlit_11,2,140,2,joke,You can keep your kids in hot water with ,dishes,rules,You can keep your kids in hot water with dishes.,2,0.5859100818634033,168.0153889656067
+KAN_RHnonlit_11,2,4,2,joke,I knew a streetwalker who was so exclusive she had an unlisted telephone,booth,line,I knew a streetwalker who was so exclusive she had an unlisted telephone booth.,1,1.0379290580749512,180.0015368461609
+KAN_RHnonlit_11,2,8,2,joke,Last Thanksgiving my wife spent all morning in the kitchen stuffing the,kids,bird,Last Thanksgiving my wife spent all morning in the kitchen stuffing the kids.,3,0.9534249305725098,190.01311993598938
+KAN_RHnonlit_11,2,125,2,nonjoke,I know one couple who got divorced and had to leave the house to the,attorney,daughter,I know one couple who got divorced and had to leave the house to the daughter.,2,0.48554182052612305,198.01420402526855
+KAN_RHnonlit_11,2,134,2,joke,My church welcomes all denominations but prefers,twenties,Mormons,My church welcomes all denominations but prefers twenties.,3,1.3894548416137695,206.0162160396576
+KAN_RHnonlit_11,2,121,2,nonjoke,"Diamonds are produced by great pressure, usually provided by a ",girlfriend,piston,"Diamonds are produced by great pressure, usually provided by a piston.",2,1.2052359580993652,218.00235891342163
+KAN_RHnonlit_11,2,73,2,nonjoke,One thing that makes the world go round is,detours,greed,One thing that makes the world go round is greed.,1,1.2890291213989258,232.0140359401703
+KAN_RHnonlit_11,2,149,2,nonjoke,"She asked what state he was born in, and he said in the ",nude,East,"She asked what state he was born in, and he said in the East.",2,1.556762933731079,240.01601004600525
+KAN_RHnonlit_11,2,146,2,joke,"Love has its benefits, and they are usually called",alimony,memories,"Love has its benefits, and they are usually called alimony.",,,248.00114703178406
+KAN_RHnonlit_11,2,120,2,joke,Two things are essential for success: wealth and,money,fame,Two things are essential for success: wealth and money.,1,0.5189690589904785,256.0030429363251
+KAN_RHnonlit_11,2,137,2,nonjoke,A man who has lost ninety percent of his brain is called a,widower,zombie,A man who has lost ninety percent of his brain is called a zombie.,1,1.2890398502349854,276.00794100761414
+KAN_RHnonlit_11,2,154,2,joke,"This new computer works so quickly, it comes complete with",ulcers,games,"This new computer works so quickly, it comes complete with ulcers.",,,284.00992488861084
+KAN_RHnonlit_11,2,106,2,joke,"Every time I wear my spring coat in the rain, it damages the",springs,fabric,"Every time I wear my spring coat in the rain, it damages the springs.",1,1.8581879138946533,294.00394892692566
+KAN_RHnonlit_11,2,59,2,nonjoke,"Women don't dress to please men; if they did, they'd dress a lot",faster,scantier,"Women don't dress to please men; if they did, they'd dress a lot scantier.",1,1.155128002166748,316.0008318424225
+KAN_RHnonlit_11,2,30,2,joke,Nothing you put in a banana split is as potentially fattening as the,spoon,syrup,Nothing you put in a banana split is as potentially fattening as the spoon.,3,0.5022399425506592,328.0037519931793
+KAN_RHnonlit_11,2,41,2,nonjoke,His doctor recommended he stay flat on his back ever since he was hit by a ,steamroller,motorist,His doctor recommended he stay flat on his back ever since he was hit by a motorist.,1,1.8072190284729004,338.0152208805084
+KAN_RHnonlit_11,2,114,2,joke,It's extraordinary what fine poker hand you get when you're playing,bridge,stud,It's extraordinary what fine poker hand you get when you're playing bridge.,1,0.9040048122406006,348.00857305526733
+KAN_RHnonlit_11,2,19,2,nonjoke,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my",umbrella,pay,"I decided to start saving for a rainy day, so I went to a savings and loan and deposited my pay.",1,1.6238629817962646,360.0114920139313
+KAN_RHnonlit_11,2,44,2,joke,The only place where you can find people who spend all their time minding their own business is the ,cemetery,bank,The only place where you can find people who spend all their time minding their own business is the cemetery.,3,0.9542968273162842,370.00546002388
+KAN_RHnonlit_11,2,78,2,joke,My brother-in-law enjoys fixing things around the house so much he spent an hour last night just fixing our,drinks,stove,My brother-in-law enjoys fixing things around the house so much he spent an hour last night just fixing our drinks.,2,0.569195032119751,380.01629400253296
+KAN_RHnonlit_11,2,14,2,joke,He got a medal for bravery on the beach when he rescued a girl from a ,lifeguard,shipwreck,He got a medal for bravery on the beach when he rescued a girl from a lifeguard.,2,1.3558728694915771,392.0024960041046
+KAN_RHnonlit_11,2,112,2,joke,The art museum just acquired an early Rembrandt; it's done in ,Crayola,charcoal,The art museum just acquired an early Rembrandt; it's done in Crayola.,3,0.3851041793823242,400.004341840744
+KAN_RHnonlit_11,2,103,2,nonjoke,"I still miss my ex-wife, but I am improving my",aim,ego,"I still miss my ex-wife, but I am improving my ego.",2,1.004396915435791,408.006294965744
+KAN_RHnonlit_11,2,17,2,nonjoke,A committee keeps minutes and takes,hours,votes,A committee keeps minutes and takes votes.,1,0.9876358509063721,424.0101480484009
+KAN_RHnonlit_11,2,63,2,nonjoke,"It's hard to raise a family nowadays, especially in the ",morning,country,"It's hard to raise a family nowadays, especially in the country.",1,0.35118913650512695,438.0054829120636
+KAN_RHnonlit_11,2,26,2,joke,"To clothe one soldier, it takes the wool from two sheep and the hides from three",taxpayers,animals,"To clothe one soldier, it takes the wool from two sheep and the hides from three taxpayers.",2,1.054663896560669,450.00806498527527
+KAN_RHnonlit_11,2,47,2,nonjoke,"Charged with statutory rape, he told the judge he didn't know she was a ",statue,teenager,"Charged with statutory rape, he told the judge he didn't know she was a teenager.",1,0.3515629768371582,458.00994205474854
+KAN_RHnonlit_11,2,96,2,joke,"When the kid came into the store and asked for empty boxes, the owner gave him the",register,crate,"When the kid came into the store and asked for empty boxes, the owner gave him the register.",3,0.7197871208190918,466.0119688510895
+KAN_RHnonlit_11,2,107,2,nonjoke,The difference between a good speaker and a bad one is often a nice,nap,diction,The difference between a good speaker and a bad one is often a nice diction.,1,0.40175890922546387,474.0139000415802
+KAN_RHnonlit_11,2,67,2,nonjoke,The most prevalent form of legalized gambling is,elections,betting,The most prevalent form of legalized gambling is betting.,1,1.305798053741455,484.0078399181366
+KAN_RHnonlit_11,2,34,2,joke,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough",room,change,"He asked if I'd join him in a bowl of soup, but I told him we didn't have enough room.",2,1.8916449546813965,492.0098729133606
+KAN_RHnonlit_11,2,84,2,joke,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and ",lawyers,crack,"The convict told his cellmate how he'd blown all the money he stole on wine, women, and lawyers.",1,0.5527420043945312,504.0127558708191
+KAN_RHnonlit_11,2,35,2,nonjoke,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their",nuptials,careers,"Now that the Hollywood couple has ironed out the divorce settlement, they can finally go ahead with their careers.",1,0.4851999282836914,512.0148420333862
+KAN_RHnonlit_11,2,147,2,nonjoke,"When we got divorced, my wife and I split the house; she got the",inside,kitchen,"When we got divorced, my wife and I split the house; she got the kitchen.",1,0.703125,522.0086200237274
+KAN_RHnonlit_11,2,153,2,nonjoke,The husband who catches his wife in the act is probably on the,trapeze,snoop,The husband who catches his wife in the act is probably on the snoop.,1,0.518873929977417,532.0027530193329
+KAN_RHnonlit_11,2,143,2,nonjoke,Most of the people running for office are not politicians; they're,commuters,candidates,Most of the people running for office are not politicians; they're candidates.,1,1.0379679203033447,540.0046010017395
+KAN_RHnonlit_11,2,16,2,joke,Many a man's idea of a vacation is to rest quietly in the shade of a ,blonde,palm,Many a man's idea of a vacation is to rest quietly in the shade of a blonde.,1,0.4855079650878906,550.0153839588165
+KAN_RHnonlit_11,2,138,2,joke,Modern science is amazing: garbage is now being made into,movies,gasoline,Modern science is amazing: garbage is now being made into movies.,2,1.5059890747070312,560.0101449489594

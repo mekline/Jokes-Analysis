@@ -1,0 +1,1081 @@
+2013-10-16 14:47:45,444 (6821) INFO: Script nonlit_joke.py started Vision Egg 1.2.1 with process id 6821.
+2013-10-16 14:47:52,415 (6822) INFO: Script nonlit_joke.py started Vision Egg 1.2.1 with process id 6822.
+2013-10-16 14:47:53,202 (6822) INFO: Requesting window 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-16 14:47:53,766 (6822) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-16 14:47:53,767 (6822) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 08:25:10,225 (6983) INFO: Script nonlit_joke.py started Vision Egg 1.2.1 with process id 6983.
+2013-10-17 08:25:12,584 (6983) INFO: Requesting window 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 08:25:13,530 (6983) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 08:25:13,530 (6983) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 09:17:44,277 (7110) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7110.
+2013-10-17 09:17:53,880 (7111) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7111.
+2013-10-17 09:17:54,145 (7111) INFO: Requesting window 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 09:17:54,760 (7111) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 09:17:54,760 (7111) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 09:18:04,304 (7111) CRITICAL: Traceback (most recent call last):
+  File "nonlit_joke-8sec.py", line 210, in <module>
+    Main()
+  File "nonlit_joke-8sec.py", line 208, in Main
+    new_run.p.go()
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/visionegg-1.2.1-py2.7-macosx-10.8-x86_64.egg/VisionEgg/FlowControl.py", line 432, in go
+    event_callback(event)
+  File "nonlit_joke-8sec.py", line 160, in trigger
+    self.p.go() #start trial loop
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/visionegg-1.2.1-py2.7-macosx-10.8-x86_64.egg/VisionEgg/FlowControl.py", line 391, in go
+    doing_transition=0)
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/visionegg-1.2.1-py2.7-macosx-10.8-x86_64.egg/VisionEgg/FlowControl.py", line 275, in __call_controllers
+    result = controller.during_go_eval()
+  File "/opt/local/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/site-packages/visionegg-1.2.1-py2.7-macosx-10.8-x86_64.egg/VisionEgg/FlowControl.py", line 1247, in during_go_eval
+    return self.during_go_func(**call_args)
+  File "nonlit_joke-8sec.py", line 191, in switch
+    self.wr.writerow([self.subj]+self.current[2:-1]+[self.resp,self.RT,self.choice_onset])
+AttributeError: Experiment instance has no attribute 'choice_onset'
+
+2013-10-17 09:18:54,265 (7116) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7116.
+2013-10-17 09:18:54,541 (7116) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 09:18:55,199 (7116) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 09:18:55,200 (7116) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 09:19:26,500 (7120) INFO: Script nonlit_joke-6sec.py started Vision Egg 1.2.1 with process id 7120.
+2013-10-17 09:19:26,782 (7120) INFO: Requesting window 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 09:19:27,004 (7120) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 09:19:27,004 (7120) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 09:22:30,173 (7153) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7153.
+2013-10-17 09:22:30,443 (7153) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 09:22:31,118 (7153) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 09:22:31,118 (7153) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 09:53:08,650 (7213) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7213.
+2013-10-17 09:53:09,957 (7213) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 09:53:10,945 (7213) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 09:53:10,945 (7213) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 10:48:33,290 (7394) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7394.
+2013-10-17 10:48:34,501 (7394) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 10:48:35,604 (7394) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 10:48:35,604 (7394) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 10:59:07,508 (7394) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.92 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 10:59:07,508 (7394) WARNING: One or more frames took 41.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 10:59:07,509 (7394) INFO: 3577 frames were drawn.
+Mean IFI was 16.67 msec (59.97 fps), longest IFI was 41.15 msec.
+histogram:
+  3216                                              *                     
+  2858                                              *                     
+  2501                                              *                     
+  2144                                              *                     
+  1787                                              *                     
+  1429                                              *                     
+  1072                                              *                     
+   715                                              *                     
+   357                                              *                     
+     0                                    *         *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    1    0   +++   0    0    0    2  
+
+2013-10-17 11:19:31,506 (7432) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7432.
+2013-10-17 11:19:31,782 (7432) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 11:19:32,677 (7432) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 11:19:32,677 (7432) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 11:29:41,110 (7432) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.90 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 11:29:41,111 (7432) WARNING: One or more frames took 41.3 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 11:29:41,111 (7432) INFO: 2165 frames were drawn.
+Mean IFI was 16.68 msec (59.95 fps), longest IFI was 41.27 msec.
+histogram:
+  1945                                              *                     
+  1729                                              *                     
+  1513                                              *                     
+  1297                                              *                     
+  1081                                              *                     
+   864                                              *                     
+   648                                              *                     
+   432                                              *                     
+   216                                              *                     
+     0                                    *         *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    1    0   +++   0    0    0    2  
+
+2013-10-17 11:42:12,057 (7460) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7460.
+2013-10-17 11:42:12,343 (7460) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 11:42:13,267 (7460) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 11:42:13,268 (7460) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 11:52:20,238 (7460) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.91 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 11:52:20,239 (7460) WARNING: One or more frames took 44.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 11:52:20,239 (7460) INFO: 2079 frames were drawn.
+Mean IFI was 16.68 msec (59.95 fps), longest IFI was 44.45 msec.
+histogram:
+  1868                                              *                     
+  1660                                              *                     
+  1453                                              *                     
+  1245                                              *                     
+  1038                                              *                     
+   830                                              *                     
+   623                                              *                     
+   415                                              *                     
+   208                                              *                     
+     0                                    *         *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    1    0   +++   0    0    0    2  
+
+2013-10-17 12:56:06,362 (7627) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7627.
+2013-10-17 12:56:07,562 (7627) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 12:56:08,748 (7627) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 12:56:08,748 (7627) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 13:06:14,458 (7627) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.87 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 13:06:14,458 (7627) WARNING: One or more frames took 44.5 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 13:06:14,458 (7627) INFO: 2003 frames were drawn.
+Mean IFI was 16.68 msec (59.94 fps), longest IFI was 44.51 msec.
+histogram:
+  1799                                              *                     
+  1599                                              *                     
+  1399                                              *                     
+  1199                                              *                     
+  1000                                              *                     
+   800                                              *                     
+   600                                              *                     
+   400                                              *                     
+   200                                              *                     
+     0                                    *         *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    1    0   +++   0    0    0    2  
+
+2013-10-17 13:16:22,407 (7652) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7652.
+2013-10-17 13:16:22,684 (7652) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 13:16:23,594 (7652) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 13:16:23,594 (7652) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 13:26:31,178 (7652) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.92 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 13:26:31,179 (7652) WARNING: One or more frames took 52.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 13:26:31,179 (7652) INFO: 2117 frames were drawn.
+Mean IFI was 16.69 msec (59.93 fps), longest IFI was 52.09 msec.
+histogram:
+  1902                                              *                     
+  1690                                              *                     
+  1479                                              *                     
+  1268                                              *                     
+  1057                                              *                     
+   845                                              *                     
+   634                                              *                     
+   423                                              *                     
+   211                                              *                     
+     0                                              *         *         * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    2    0    1  
+
+2013-10-17 13:44:53,780 (7682) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7682.
+2013-10-17 13:44:54,057 (7682) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 13:44:54,950 (7682) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 13:44:54,950 (7682) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 13:55:07,901 (7682) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.89 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 13:55:07,901 (7682) WARNING: One or more frames took 48.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 13:55:07,901 (7682) INFO: 2441 frames were drawn.
+Mean IFI was 16.68 msec (59.95 fps), longest IFI was 48.11 msec.
+histogram:
+  2194                                              *                     
+  1950                                              *                     
+  1707                                              *                     
+  1463                                              *                     
+  1219                                              *                     
+   975                                              *                     
+   731                                              *                     
+   488                                              *                     
+   244                                              *                     
+     0                                              *              *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    1    1  
+
+2013-10-17 14:47:58,181 (7782) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7782.
+2013-10-17 14:47:58,819 (7782) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 14:47:59,833 (7782) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 14:47:59,834 (7782) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 14:58:08,075 (7782) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.85 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 14:58:08,075 (7782) WARNING: One or more frames took 38.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 14:58:08,075 (7782) INFO: 2163 frames were drawn.
+Mean IFI was 16.68 msec (59.96 fps), longest IFI was 38.12 msec.
+histogram:
+  1944                                              *                     
+  1728                                              *                     
+  1512                                              *                     
+  1296                                              *                     
+  1080                                              *                     
+   864                                              *                     
+   648                                              *                     
+   432                                              *                     
+   216                                              *                     
+     0                                              *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    2  
+
+2013-10-17 15:08:04,390 (7812) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7812.
+2013-10-17 15:08:04,674 (7812) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 15:08:05,559 (7812) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 15:08:05,560 (7812) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 15:18:11,014 (7812) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 16.90 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 15:18:11,015 (7812) WARNING: One or more frames took 40.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 15:18:11,015 (7812) INFO: 1989 frames were drawn.
+Mean IFI was 16.68 msec (59.95 fps), longest IFI was 40.09 msec.
+histogram:
+  1787                                              *                     
+  1588                                              *                     
+  1390                                              *                     
+  1191                                              *                     
+   993                                              *                     
+   794                                              *                     
+   596                                              *                     
+   397                                              *                     
+   199                                              *                     
+     0                                              *         *         * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    2    0    1  
+
+2013-10-17 15:38:49,666 (7843) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7843.
+2013-10-17 15:38:49,945 (7843) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 15:38:50,840 (7843) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 15:38:50,841 (7843) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 15:38:50,963 (7843) CRITICAL: Traceback (most recent call last):
+  File "nonlit_joke-8sec.py", line 211, in <module>
+    Main()
+  File "nonlit_joke-8sec.py", line 207, in Main
+    new_run = Experiment()
+  File "nonlit_joke-8sec.py", line 25, in __init__
+    self.make_order()
+  File "nonlit_joke-8sec.py", line 107, in make_order
+    m = open('data/'+self.subj+'_materials.csv','rU')
+IOError: [Errno 2] No such file or directory: 'data/KAN_RHnonlit_03_materials.csv'
+
+2013-10-17 15:39:30,387 (7848) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 7848.
+2013-10-17 15:39:30,666 (7848) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-17 15:39:31,586 (7848) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-17 15:39:31,586 (7848) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-17 15:49:43,290 (7848) INFO: 34206 frames were drawn.
+Mean IFI was 16.67 msec (60.01 fps), longest IFI was 17.02 msec.
+histogram:
+ 30785                                              *                     
+ 27364                                              *                     
+ 23944                                              *                     
+ 20523                                              *                     
+ 17103                                              *                     
+ 13682                                              *                     
+ 10262                                              *                     
+  6841                                              *                     
+  3421                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-17 15:49:43,290 (7848) WARNING: One or more frames took 40.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-17 15:49:43,291 (7848) INFO: 2365 frames were drawn.
+Mean IFI was 16.68 msec (59.96 fps), longest IFI was 40.14 msec.
+histogram:
+  2125                                              *                     
+  1889                                              *                     
+  1653                                              *                     
+  1417                                              *                     
+  1181                                              *                     
+   944                                              *                     
+   708                                              *                     
+   472                                              *                     
+   236                                              *                     
+     0                                         *    *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    2  
+
+2013-10-18 11:27:52,055 (9041) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 9041.
+2013-10-18 11:27:53,093 (9041) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-18 11:27:53,633 (9041) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-18 11:27:53,633 (9041) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-18 11:38:04,212 (9041) WARNING: Calculated frames per second was 75.031, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2013-10-18 11:38:04,213 (9041) INFO: 42771 frames were drawn.
+Mean IFI was 13.33 msec (75.03 fps), longest IFI was 13.51 msec.
+histogram:
+ 38493                                    *                               
+ 34216                                    *                               
+ 29939                                    *                               
+ 25662                                    *                               
+ 21385                                    *                               
+ 17108                                    *                               
+ 12831                                    *                               
+  8554                                    *                               
+  4277                                    *                               
+     0                                    *                               
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0   +++   0    0    0    0    0    0  
+
+2013-10-18 11:38:04,213 (9041) WARNING: Calculated frames per second was 75.055, while the VISIONEGG_MONITOR_REFRESH_HZ variable is 60.0.
+2013-10-18 11:38:04,213 (9041) INFO: 2878 frames were drawn.
+Mean IFI was 13.32 msec (75.06 fps), longest IFI was 13.48 msec.
+histogram:
+  2588                                    *                               
+  2300                                    *                               
+  2013                                    *                               
+  1725                                    *                               
+  1438                                    *                               
+  1150                                    *                               
+   863                                    *                               
+   575                                    *                               
+   288                                    *                               
+     0           *                   *    *                               
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    1    0    0    0    1   +++   0    0    0    0    0    0  
+
+2013-10-18 12:01:46,413 (9139) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 9139.
+2013-10-18 12:01:46,685 (9139) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-18 12:01:47,197 (9139) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-18 12:01:47,197 (9139) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-18 12:11:56,757 (9139) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.95 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-18 12:11:56,758 (9139) INFO: 2224 frames were drawn.
+Mean IFI was 16.73 msec (59.76 fps), longest IFI was 16.91 msec.
+histogram:
+  1996                                              *                     
+  1774                                              *                     
+  1553                                              *                     
+  1331                                              *                     
+  1109                                              *                     
+   887                                              *                     
+   665                                              *                     
+   444                                              *                     
+   222                                              *                     
+     0                                    *    *    *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    4    1   +++   0    0    0    0  
+
+2013-10-18 13:34:18,936 (9545) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 9545.
+2013-10-18 13:34:20,131 (9545) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-18 13:34:20,965 (9545) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-18 13:34:20,965 (9545) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-18 13:35:21,629 (9553) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 9553.
+2013-10-18 13:35:21,912 (9553) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-18 13:35:22,416 (9553) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-18 13:35:22,416 (9553) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-18 13:45:28,493 (9553) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.97 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-18 13:45:28,495 (9553) INFO: 2020 frames were drawn.
+Mean IFI was 16.74 msec (59.75 fps), longest IFI was 16.91 msec.
+histogram:
+  1816                                              *                     
+  1614                                              *                     
+  1413                                              *                     
+  1211                                              *                     
+  1009                                              *                     
+   807                                              *                     
+   605                                              *                     
+   404                                              *                     
+   202                                              *                     
+     0                          *                   *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    1    0    0    0   +++   0    0    0    0  
+
+2013-10-18 14:18:56,813 (9598) INFO: Script nonlit_joke-8sec.py started Vision Egg 1.2.1 with process id 9598.
+2013-10-18 14:18:57,096 (9598) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-18 14:18:57,592 (9598) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-18 14:18:57,592 (9598) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-18 14:29:06,712 (9598) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.97 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-18 14:29:06,712 (9598) INFO: 2205 frames were drawn.
+Mean IFI was 16.73 msec (59.76 fps), longest IFI was 16.94 msec.
+histogram:
+  1981                                              *                     
+  1761                                              *                     
+  1541                                              *                     
+  1321                                              *                     
+  1101                                              *                     
+   880                                              *                     
+   660                                              *                     
+   440                                              *                     
+   220                                              *                     
+     0                     *              *    *    *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    1    0    0    1    1   +++   0    0    0    0  
+
+2013-10-22 09:35:30,381 (10375) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 10375.
+2013-10-22 09:35:31,246 (10375) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-22 09:35:32,889 (10375) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-22 09:35:32,889 (10375) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-22 09:37:18,000 (10387) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 10387.
+2013-10-22 09:37:18,275 (10387) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-22 09:37:19,663 (10387) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-22 09:37:19,663 (10387) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-22 10:30:38,256 (10531) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 10531.
+2013-10-22 10:30:38,537 (10531) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-22 10:30:39,595 (10531) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-22 10:30:39,595 (10531) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-22 10:40:56,293 (10531) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.94 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-22 10:40:56,294 (10531) WARNING: One or more frames took 50.2 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-22 10:40:56,294 (10531) INFO: 2628 frames were drawn.
+Mean IFI was 16.76 msec (59.68 fps), longest IFI was 50.17 msec.
+histogram:
+  2362                                              *                     
+  2099                                              *                     
+  1837                                              *                     
+  1574                                              *                     
+  1312                                              *                     
+  1050                                              *                     
+   787                                              *                     
+   525                                              *                     
+   262                                              *                     
+     0                                         *    *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    2  
+
+2013-10-22 11:32:33,705 (10605) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 10605.
+2013-10-22 11:32:33,981 (10605) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-22 11:32:35,002 (10605) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-22 11:32:35,003 (10605) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-22 11:42:41,020 (10605) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.11 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-22 11:42:41,020 (10605) WARNING: One or more frames took 63.1 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-22 11:42:41,021 (10605) INFO: 2013 frames were drawn.
+Mean IFI was 16.77 msec (59.64 fps), longest IFI was 63.08 msec.
+histogram:
+  1808                                              *                     
+  1607                                              *                     
+  1406                                              *                     
+  1205                                              *                     
+  1005                                              *                     
+   804                                              *                     
+   603                                              *                     
+   402                                              *                     
+   201                                              *                     
+     0                                         *    *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    2  
+
+2013-10-23 10:30:02,242 (10832) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 10832.
+2013-10-23 10:30:02,523 (10832) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-23 10:30:03,615 (10832) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-23 10:30:03,616 (10832) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-23 10:40:11,189 (10832) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.99 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-23 10:40:11,190 (10832) WARNING: One or more frames took 50.2 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-23 10:40:11,190 (10832) INFO: 2109 frames were drawn.
+Mean IFI was 16.76 msec (59.67 fps), longest IFI was 50.19 msec.
+histogram:
+  1895                                              *                     
+  1684                                              *                     
+  1474                                              *                     
+  1263                                              *                     
+  1053                                              *                     
+   842                                              *                     
+   632                                              *                     
+   421                                              *                     
+   211                                              *                     
+     0                                    *         *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    1    0   +++   0    0    0    2  
+
+2013-10-23 11:15:04,525 (10896) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 10896.
+2013-10-23 11:15:04,795 (10896) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-23 11:15:05,772 (10896) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-23 11:15:05,772 (10896) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-23 11:25:23,392 (10896) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.02 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-23 11:25:23,392 (10896) WARNING: One or more frames took 41.2 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-23 11:25:23,393 (10896) INFO: 2705 frames were drawn.
+Mean IFI was 16.75 msec (59.69 fps), longest IFI was 41.17 msec.
+histogram:
+  2431                                              *                     
+  2161                                              *                     
+  1891                                              *                     
+  1621                                              *                     
+  1351                                              *                     
+  1080                                              *                     
+   810                                              *                     
+   540                                              *                     
+   270                                              *                     
+     0                          *                   *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    1    0    0    0   +++   0    0    0    2  
+
+2013-10-28 13:51:05,711 (11418) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 11418.
+2013-10-28 13:51:07,036 (11418) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-28 13:51:08,377 (11418) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-28 13:51:08,377 (11418) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-28 14:36:07,535 (11561) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 11561.
+2013-10-28 14:36:07,993 (11561) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-28 14:36:09,106 (11561) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-28 14:36:09,107 (11561) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-28 14:46:06,335 (11561) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.97 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-28 14:46:06,335 (11561) WARNING: One or more frames took 41.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-28 14:46:06,336 (11561) INFO: 1487 frames were drawn.
+Mean IFI was 16.76 msec (59.66 fps), longest IFI was 41.42 msec.
+histogram:
+  1335                                              *                     
+  1186                                              *                     
+  1038                                              *                     
+   890                                              *                     
+   742                                              *                     
+   593                                              *                     
+   445                                              *                     
+   297                                              *                     
+   148                                              *                     
+     0                               *              *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    1    0    0   +++   0    0    0    2  
+
+2013-10-28 14:55:14,785 (11582) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 11582.
+2013-10-28 14:55:15,060 (11582) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-10-28 14:55:16,121 (11582) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-10-28 14:55:16,121 (11582) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-10-28 15:05:15,064 (11582) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 16.99 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-10-28 15:05:15,065 (11582) WARNING: One or more frames took 54.3 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-10-28 15:05:15,066 (11582) INFO: 1585 frames were drawn.
+Mean IFI was 16.77 msec (59.64 fps), longest IFI was 54.26 msec.
+histogram:
+  1423                                              *                     
+  1265                                              *                     
+  1107                                              *                     
+   949                                              *                     
+   791                                              *                     
+   632                                              *                     
+   474                                              *                     
+   316                                              *                     
+   158                                              *                     
+     0                     *                        *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    1    0    0    0    0   +++   0    0    0    2  
+
+2013-11-04 12:04:39,613 (12382) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 12382.
+2013-11-04 12:04:40,230 (12382) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-11-04 12:04:41,461 (12382) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-11-04 12:04:41,461 (12382) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-11-04 12:14:49,648 (12382) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.93 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-11-04 12:14:49,649 (12382) WARNING: One or more frames took 37.0 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-11-04 12:14:49,649 (12382) INFO: 2137 frames were drawn.
+Mean IFI was 16.75 msec (59.70 fps), longest IFI was 36.99 msec.
+histogram:
+  1921                                              *                     
+  1707                                              *                     
+  1494                                              *                     
+  1280                                              *                     
+  1067                                              *                     
+   854                                              *                     
+   640                                              *                     
+   427                                              *                     
+   213                                              *                     
+     0                                              *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    2  
+
+2013-11-04 12:34:53,136 (12417) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 12417.
+2013-11-04 12:34:53,413 (12417) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-11-04 12:34:54,637 (12417) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-11-04 12:34:54,637 (12417) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-11-04 12:44:55,456 (12417) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 18.07 msec.
+histogram:
+ 30643                                              *                     
+ 27238                                              *                     
+ 23834                                              *                     
+ 20429                                              *                     
+ 17024                                              *                     
+ 13619                                              *                     
+ 10214                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *    *                
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   3    0    0    0  
+
+2013-11-04 12:44:55,457 (12417) WARNING: One or more frames took 52.6 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-11-04 12:44:55,457 (12417) INFO: 1701 frames were drawn.
+Mean IFI was 16.76 msec (59.65 fps), longest IFI was 52.56 msec.
+histogram:
+  1528                                              *                     
+  1358                                              *                     
+  1189                                              *                     
+  1019                                              *                     
+   849                                              *                     
+   679                                              *                     
+   509                                              *                     
+   340                                              *                     
+   170                                              *                     
+     0                                              *              *    * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    1    1  
+
+2013-12-02 12:49:39,771 (13242) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 13242.
+2013-12-02 12:49:40,145 (13242) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-02 12:49:41,215 (13242) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-02 12:49:41,215 (13242) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-02 12:59:55,564 (13242) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.06 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-12-02 12:59:55,564 (13242) WARNING: One or more frames took 47.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-12-02 12:59:55,565 (13242) INFO: 2506 frames were drawn.
+Mean IFI was 16.75 msec (59.69 fps), longest IFI was 47.39 msec.
+histogram:
+  2252                                              *                     
+  2002                                              *                     
+  1751                                              *                     
+  1501                                              *                     
+  1251                                              *                     
+  1001                                              *                     
+   751                                              *                     
+   500                                              *                     
+   250                                              *                     
+     0                          *                   *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    1    0    0    0   +++   0    0    0    2  
+
+2013-12-02 13:11:23,515 (13278) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 13278.
+2013-12-02 13:11:23,797 (13278) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-02 13:11:24,905 (13278) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-02 13:11:24,905 (13278) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-02 13:21:29,767 (13278) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.45 msec.
+histogram:
+ 30645                                              *                     
+ 27240                                              *                     
+ 23835                                              *                     
+ 20430                                              *                     
+ 17025                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                         *    *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    0  
+
+2013-12-02 13:21:29,767 (13278) WARNING: One or more frames took 41.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-12-02 13:21:29,768 (13278) INFO: 1944 frames were drawn.
+Mean IFI was 16.76 msec (59.68 fps), longest IFI was 41.37 msec.
+histogram:
+  1746                                              *                     
+  1552                                              *                     
+  1358                                              *                     
+  1164                                              *                     
+   970                                              *                     
+   776                                              *                     
+   582                                              *                     
+   388                                              *                     
+   194                                              *                     
+     0                                         *    *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    2  
+
+2013-12-04 10:40:42,867 (13827) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 13827.
+2013-12-04 10:40:43,184 (13827) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-04 10:40:44,309 (13827) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-04 10:40:44,309 (13827) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-04 10:41:56,158 (13832) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 13832.
+2013-12-04 10:41:56,434 (13832) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-04 10:41:57,583 (13832) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-04 10:41:57,584 (13832) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-04 10:52:01,090 (13832) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.74 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-12-04 10:52:01,091 (13832) WARNING: One or more frames took 63.0 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-12-04 10:52:01,091 (13832) INFO: 1865 frames were drawn.
+Mean IFI was 16.77 msec (59.64 fps), longest IFI was 63.01 msec.
+histogram:
+  1675                                              *                     
+  1489                                              *                     
+  1303                                              *                     
+  1117                                              *                     
+   931                                              *                     
+   744                                              *                     
+   558                                              *                     
+   372                                              *                     
+   186                                              *                     
+     0                                         *    *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    2  
+
+2013-12-04 11:13:02,935 (13886) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 13886.
+2013-12-04 11:13:03,261 (13886) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-04 11:13:04,427 (13886) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-04 11:13:04,427 (13886) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-04 11:23:02,192 (13886) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 17.76 msec.
+histogram:
+ 30646                                              *                     
+ 27241                                              *                     
+ 23836                                              *                     
+ 20431                                              *                     
+ 17026                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *                     
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    0  
+
+2013-12-04 11:23:02,193 (13886) WARNING: One or more frames took 49.9 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-12-04 11:23:02,193 (13886) INFO: 1514 frames were drawn.
+Mean IFI was 16.76 msec (59.65 fps), longest IFI was 49.90 msec.
+histogram:
+  1357                                              *                     
+  1206                                              *                     
+  1056                                              *                     
+   905                                              *                     
+   754                                              *                     
+   603                                              *                     
+   452                                              *                     
+   302                                              *                     
+   151                                              *                     
+     0                          *    *              *         *         * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    1    1    0    0   +++   0    1    0    2  
+
+2013-12-04 12:42:30,812 (13993) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 13993.
+2013-12-04 12:42:31,422 (13993) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-04 12:42:32,704 (13993) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-04 12:42:32,704 (13993) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-04 12:52:48,209 (13993) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 18.01 msec.
+histogram:
+ 30645                                              *                     
+ 27240                                              *                     
+ 23835                                              *                     
+ 20430                                              *                     
+ 17025                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *    *                
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   1    0    0    0  
+
+2013-12-04 12:52:48,209 (13993) WARNING: One or more frames took 58.4 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-12-04 12:52:48,209 (13993) INFO: 2580 frames were drawn.
+Mean IFI was 16.76 msec (59.67 fps), longest IFI was 58.36 msec.
+histogram:
+  2318                                              *                     
+  2061                                              *                     
+  1803                                              *                     
+  1546                                              *                     
+  1288                                              *                     
+  1030                                              *                     
+   773                                              *                     
+   515                                              *                     
+   258                                              *                     
+     0                                         *    *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    1   +++   0    0    0    2  
+
+2013-12-04 13:28:17,910 (14042) INFO: Script nonlit_joke-8sec_fixed.py started Vision Egg 1.2.1 with process id 14042.
+2013-12-04 13:28:18,509 (14042) INFO: Requesting fullscreen 1024 x 640 32 bpp (8 8 8 0 RGBA).
+2013-12-04 13:28:19,673 (14042) INFO: OpenGL 2.1 NVIDIA-8.12.47 310.40.00.05f01, NVIDIA GeForce GT 650M OpenGL Engine, NVIDIA Corporation (PyOpenGL 3.0.2)
+2013-12-04 13:28:19,673 (14042) INFO: Video system reports 32 bpp (8 8 8 8 RGBA).
+2013-12-04 13:38:13,535 (14042) INFO: 34052 frames were drawn.
+Mean IFI was 16.74 msec (59.74 fps), longest IFI was 18.07 msec.
+histogram:
+ 30645                                              *                     
+ 27240                                              *                     
+ 23835                                              *                     
+ 20430                                              *                     
+ 17025                                              *                     
+ 13620                                              *                     
+ 10215                                              *                     
+  6810                                              *                     
+  3405                                              *                     
+     0                                              *    *                
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   1    0    0    0  
+
+2013-12-04 13:38:13,536 (14042) WARNING: One or more frames took 50.6 msec, which is signficantly longer than the expected inter frame interval of 16.7 msec for your frame rate (60.0 Hz).
+2013-12-04 13:38:13,536 (14042) INFO: 1286 frames were drawn.
+Mean IFI was 16.77 msec (59.62 fps), longest IFI was 50.60 msec.
+histogram:
+  1155                                              *                     
+  1026                                              *                     
+   898                                              *                     
+   770                                              *                     
+   642                                              *                     
+   513                                              *                     
+   385                                              *                     
+   257                                              *                     
+   128                                              *                     
+     0                                              *                   * 
+ Time:    0    2    4    6    8   10   12   14   16   18   20   22   24 +(msec)
+Total:      0    0    0    0    0    0    0    0   +++   0    0    0    2  
+

@@ -1,0 +1,130 @@
+OPTSEQ
+
+./optseq_files/optseq2 --ntp 240 --tr 2 --tprescan 0 --psdwin 0 8 --ev joke 6 26 --ev nonjoke 6 26 --nsearch 1000 --nkeep 5 --o ./optseq_files/times
+
+
+
+
+250ms: pre-trial fixation
+4,750ms: sentence presentation
+1,000ms: question ("How funny was the sentence you just read?  1=not at all funny, 2=a little funny, 3=quite funny; 4=very funny")
+
+Total trial duration will thus be 6 seconds.
+
+Let's distribute the materials across 3 runs, with each run containing 26 jokes and 26 non-jokes.
+
+The trials in each run would take 52 x 6 sec = 312 sec; and let's include 108 sec of fixation, for a total run duration of 420 sec (7 min).
+
+
+
+
+
+Hi Zuzanna (cc'ing Jeanne, who is working with me on this project; you guys will meet in person sometime soon, I am sure):
+[Jeanne, see a couple of tasks for you below in blue.]
+
+I hate to keep asking you to do this, but you are the best and fastest at this. :)  If this wasn't so rushed, I would ask you to help Jeanne start learning putting expts together, and we should still do that, but for now we'd love your help.
+
+As I mentioned, scanning on the new scanner is free during October , so I wanted to pilot the speech study, which you already set up (thanks!) and for which the materials are now almost ready (yay), but I would also like to pilot another study.
+
+Here is the high-level goal:
+There is a claim (primarily from the patient literature) that damage to the right hemisphere (RH) is more likely to lead to difficulties with non-literal language than damage to the left hemisphere.  However, there are many things going on in the RH. :)  In particular, RH contains i) the homologues of the LH language regions, and ii) a number of regions that have been implicated in social cognition (including most notably the right temporo-parietal junction - rTPJ, and parts of the superior temporal sulcus - STS).  So, one question is whether it is the language regions or the social regions in the RH that are engaged in non-literal interpretation.
+
+We have two sets of materials:
+a) sentences with metaphors vs. the literal versions;
+b) jokes vs. non-joke controls.
+
+I'd like to set these up as two expts, as described next.
+
+*** NONLIT_MET ***
+
+Design:
+2 conditions: sentences with metaphors vs. sentences with the literal controls
+We'll use a standard blocked design.
+
+Materials:
+(attached)
+
+Sample items:
+The building cried for fresh paint. - The baby birds cried for food.
+The business deal was a hot tango. - The last romp was a Latin tango.
+
+We have 80 items, with 2 conditions each.  These come from 4 types (predicate-auditory, predicate-motion, nominal-auditory, nominal-motion), but for the purposes of this experiment we don't care about distinguishing among these; we are just including all four types for greater diversity.
+
+Let's create two experimental lists: to do so, for each of the four types of items let's use the metaphor version for odd-numbered items, and the literal version for even-numbered items.
+
+So, each list will contain a total of 80 sentences (40 with metaphors, and 40 literal; within each of these two conditions, there will be 10 of each type).
+
+Procedure and timing:
+
+Each block will consist of 4 sentences, which will give us 10 blocks per condition.
+
+Each trial will consist of the sentence (presented all at once, not word by word, as we usually do) and a question, and will be structured as follows:
+
+500ms: pre-trial fixation
+2,500ms: sentence presentation
+1,000ms: question presentation (this will be the same question for all items, and I will basically ask for some kind of a rating of the sentence, but I am still figuring out what to ask exactly; so just make it XXXX? for now, and we can fix it in the script at the last second)
+Participants can respond as soon as the question appears and until the end of the trial.
+
+Jeanne: can you please send me a summary of what the materials were normed for, and how this was done?  We can maybe choose one of those as the question.  (The reason we want to have some kind of a task is because passive reading is pretty boring, and we want to encourage deep processing of the materials.)
+
+Total trial duration will thus be 4 seconds, and the entire block will take 16 seconds.
+
+Let's structure the runs as follows:
+
+-c 1: Fix A B B A B Fix A B A A B Fix
+-c 2: Fix B A A B A Fix B A B B A Fix
+
+So, runs will take 16 sec x 13 = 208 sec (3 min 28 sec)
+
+I think I'll probably have each person do both lists, so they'll actually get 20 blocks per condition.
+
+
+*** NONLIT_JOKE ***
+
+Design:
+2 conditions: jokes vs. non-joke controls
+We'll use an event-related design.
+
+Materials:
+(attached)
+
+Sample items:
+She went on a fourteen day diet, but she only lost two weeks / inches.
+Once a week they hold a bingo game, and all the proceeds go to fight gambling / disease.
+
+We have 159 items, with 2 conditions each.  Let's choose 156 of these - I'll send you the finalized set early next week.
+Jeanne: can you please go through the list and i) fix the typos (looks like there are quite a few!), and ii) identify 3 particularly weak ones (by e.g., highlighting them in yellow or smth?
+
+Let's create two experimental lists.  Each list will contain a total of 156 sentences (78 jokes, and 78 literal).
+
+Procedure and timing:
+
+Each trial will consist of the sentence (presented all at once, not word by word, as we usually do) and a question, and will be structured as follows:
+
+500ms: pre-trial fixation
+5,500ms: sentence presentation
+1,000ms: question ("How funny was the sentence you just read?  1=not at all, 2=a little bit, 3=quite funny")
+
+Total trial duration will thus be 7 seconds.
+
+Let's distribute the materials across 3 runs, with each run containing 26 jokes and 26 non-jokes.
+
+The trials in each run would take 52 x 7 sec = 364 sec; and let's include 116 sec of fixation, for a total run duration of 480 sec (8 min).
+
+We'll use optseq to generate condition orderings (a total of 5 condition orders will suffice).
+
+
+Ok, I think that's all.  Please let me know whether or not this seems feasible!
+Ev
+
+<> <> <> <> <> <> <> <> <> <> <> <> <> <> <>
+Evelina (Ev) Fedorenko
+MIT, Brain & Cognitive Sciences Department
+43 Vassar Street
+Building 46, Room 3037G
+Cambridge, MA 02139
+
+http://web.mit.edu/evelina9/www/
+http://web.mit.edu/evelina9/www/funcloc.html
+
+
