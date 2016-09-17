@@ -102,7 +102,7 @@ myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
   mutate(Group = 'ToMCustom')
 allSigChange = rbind(allSigChange, myResults)
 
-View(allSigChange)
+#View(allSigChange)
 
 
 #######
@@ -118,13 +118,160 @@ allTests <- allSigChange %>%
             p = t.test(sigChange, mu=0,alt='greater')$p.value) %>%
   ungroup()%>%
   group_by(Group, Contrast)%>%
-  mutate(p.adj = p.adjust(p, method="fdr", n=familySize[1]))
+  mutate(p.adj = p.adjust(p, method="fdr", n=familySize[1]))%>%
+  ungroup()
 
-
-View(allTests)
+#View(allTests)
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
 zz = file('localizer_t_tests_all.csv', 'w')
 write.csv(allTests, zz, row.names=FALSE)
 close(zz)
+
+########
+# Report those T tests like we want for the paper
+########
+
+#Do corrections ever matter?
+allTests <- allTests %>%
+  mutate(sig = p < 0.05) %>%
+  mutate(sigCor = p.adj < 0.05) %>%
+  mutate(mismatch = sig != sigCor)
+
+View(filter(allTests,mismatch))
+
+#Convention: when all tests go one way, report them together as follows:
+reportTests <- function(ts, ps){
+  if (all(ps > 0.05)){
+    paste('all insig, ts <', max(ts), 'ps>', min(ps))
+  } else if (all(ps < 0.05)){
+    paste('all sig, ts >', min(ts), 'ps<', max(ps))
+  } else {
+    'explore...'
+  }
+}
+
+###
+#RESP LOCALIZER
+allTests %>%
+  filter(Group == 'LHLang-toLang', contrastName == 'sent-non') %>%
+  summarise(n(), sum(sig), reportTests(t,p)) #Convention: when all significant, report the largest p
+
+#allTests %>%
+#  filter(Group == 'RHLang-toLang', contrastName == 'sent-non') %>%
+#  summarise(n(), sum(sig), reportTests(t,p)) #found a surprise nonsig!
+allTests %>%
+  filter(Group == 'RHLang-toLang', contrastName == 'sent-non', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p)) 
+filter(allTests, Group == 'RHLang-toLang', contrastName == 'sent-non', !sig)
+
+###TO ADD! MD localizer check
+#allTests %>%
+#  filter(Group == 'MDRight-toLang', contrastName == 'sent-non') %>%
+#  summarise(n(), sum(sig), reportTests(t,p))
+#allTests %>%
+#  filter(Group == 'MDLeft-toLang', contrastName == 'sent-non') %>%
+#  summarise(n(), sum(sig), reportTests(t,p))
+
+
+allTests %>%
+  filter(Group == 'ToM-toToM', contrastName == 'bel-pho', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p)) 
+filter(allTests, Group == 'ToM-toToM', contrastName == 'bel-pho', !sig)
+
+
+###
+#RESP JOKES
+
+### RHLang
+#Jokes and Nonjokes both activate, but no differences.
+
+allTests %>%
+  filter(Group == 'RHLang', contrastName == 'joke', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'RHLang', contrastName == 'joke', !sig)
+
+allTests %>%
+  filter(Group == 'RHLang', contrastName == 'lit', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'RHLang', contrastName == 'lit', !sig)
+
+allTests %>%
+  filter(Group == 'RHLang', contrastName == 'joke-lit') %>%
+  summarise(n(), sum(sig), reportTests(t,p)) 
+
+
+### LHLang
+#Jokes and Nonjokes both activate, but no differences.
+
+allTests %>%
+  filter(Group == 'LHLang', contrastName == 'joke') %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+
+allTests %>%
+  filter(Group == 'LHLang', contrastName == 'lit') %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+
+allTests %>%
+  filter(Group == 'LHLang', contrastName == 'joke-lit', !sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p)) #ONLY ONE of the ROIs significant
+filter(allTests, Group == 'LHLang', contrastName == 'joke-lit', sig)
+
+
+### RHMD
+# RH is pretty boring
+
+allTests %>%
+  filter(Group == 'MDRight', contrastName == 'joke', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDRight', contrastName == 'joke', !sig)
+
+allTests %>%
+  filter(Group == 'MDRight', contrastName == 'lit',sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDRight', contrastName == 'lit', !sig)
+
+allTests %>%
+  filter(Group == 'MDRight', contrastName == 'joke-lit', !sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDRight', contrastName == 'joke-lit', sig)
+
+
+###LHMD
+# LH has some joke-lit differences
+
+allTests %>%
+  filter(Group == 'MDLeft', contrastName == 'joke', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDLeft', contrastName == 'joke', !sig)
+
+allTests %>%
+  filter(Group == 'MDLeft', contrastName == 'lit',sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDLeft', contrastName == 'lit', !sig)
+
+allTests %>%
+  filter(Group == 'MDLeft', contrastName == 'joke-lit', !sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDLeft', contrastName == 'joke-lit', sig)
+
+
+
+### ToM
+# Interesting activations!
+allTests %>%
+  filter(Group == 'ToM', contrastName == 'joke',!sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'ToM', contrastName == 'joke', sig)
+
+allTests %>%
+  filter(Group == 'ToM', contrastName == 'lit', !sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'ToM', contrastName == 'lit', sig)
+
+allTests %>%
+  filter(Group == 'ToM', contrastName == 'joke-lit', !sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'ToM', contrastName == 'joke-lit', sig)
+
 
 
