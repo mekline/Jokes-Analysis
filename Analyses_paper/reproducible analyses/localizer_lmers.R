@@ -106,7 +106,7 @@ allSigChange = rbind(allSigChange, myResults)
 #########
 
 # Linear mixed Models!
-#Plan: Within each system (localizers, and jokes), test for condition differences, then do some
+#Plan: Within each system (localizers, and jokes), test for basic localizer condition differences, then do some
 #between-system comparisons
 
 
@@ -122,6 +122,16 @@ anova(m1,m0)
 
 
 ##TO ADD: RMD and LMD to Lang Localizer check (sent < non)
+# MDRtoMDR <- filter(allSigChange, Group == "MDLeft-toLang", contrastName == 'sent' | contrastName == 'non')
+# m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoMDR)
+# m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoMDR)
+# anova(m1,m0)
+# 
+# MDLtoMDL <- filter(allSigChange, Group == "MDRight-toLang", contrastName == 'sent' | contrastName == 'non')
+# m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoMDL)
+# m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoMDL)
+# anova(m1,m0)
+
 
 ToMtoToM <- filter(allSigChange, Group == "ToM-toToM", contrastName == 'bel' | contrastName == 'pho')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToMtoToM)
