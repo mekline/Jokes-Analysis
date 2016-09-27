@@ -27,12 +27,17 @@ mydata <- mydata[grep("KAN",mydata$subj),]
 mydata$RT <- as.numeric(as.character(mydata$RT))
 mydata <- mydata[!is.na(mydata$RT),]
 
+#Relable subject data from filenames!
+mydata <- mydata %>%
+  mutate(newSubjectName = substr(filename,1,15))
+
+
 ####
 # RT
 ####
 #Get average RTs per category per participant
 avgRT <- mydata %>%
-  group_by(subj, category) %>%
+  group_by(newSubjectName, category) %>%
   summarise(meanRT = mean(RT))
 
 #T test
@@ -47,7 +52,7 @@ t.test(meanRT ~ category, data=avgRT)
 #Get average ratings per category per participant
 mydata$response <- as.numeric(as.character(mydata$response))
 avgResponse <- mydata %>%
-  group_by(subj, category) %>%
+  group_by(newSubjectName, category) %>%
   summarise(meanResponse = mean(response))
 
 t.test(meanResponse ~ category, data=avgResponse)
