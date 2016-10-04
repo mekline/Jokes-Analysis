@@ -6,6 +6,7 @@ rm(list = ls())
 library(dplyr)
 library(tidyr)
 library(ggplot2)
+library(stringr)
 
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/contrasts/")
 
@@ -16,13 +17,13 @@ setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper
 
 # Add in the contrast and ROI names so it's not just numbers!!!!!
 
-RHLangROI.Names = c('RPostTemp', 'RAntTemp', 'RAngG', 'RIFG',      'RMFG',     'RIFGorb');
-LangROI.Names = c('LPostTemp', 'LAntTemp', 'LAngG', 'LIFG',      'LMFG',     'LIFGorb');
+RHLangROI.Names = c('RPost Temp', 'RAnt Temp', 'RAngG', 'RIFG',      'RMFG',     'RIFG orb');
+LangROI.Names = c('LPost Temp', 'LAnt Temp', 'LAngG', 'LIFG',      'LMFG',     'LIFG orb');
 
 MDROI.Names = c('LIFGop',  'RIFGop', 'LMFG',    'RMFG',    'LMFGorb',
-                      'RMFGorb', 'LPrecG', 'RPrecG',  'LInsula', 'RInsula',
-                      'LSMA',    'RSMA',   'LParInf', 'RParInf', 'LParSup',
-                      'RParSup', 'LACC',   'RACC');
+                      'RMFG orb', 'LPrecG', 'RPrecG',  'LInsula', 'RInsula',
+                      'LSMA',    'RSMA',   'LParInf', 'RPar Inf', 'LPar Sup',
+                      'RPar Sup', 'LACC',   'RACC');
 
 ToMROI.Names = c('DMPFC', 'LTPJ',  'MMPFC', 'PC',
                       'RTPJ',  'VMPFC', 'RSTS');
@@ -53,16 +54,19 @@ allSigChange = rbind(allSigChange, myResults)
 allSigChange[(allSigChange$Group == 'MDAll') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft'
 allSigChange[(allSigChange$Group == 'MDAll') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight'
 
+#Little extra for ToM: Remove the VMPFC because it did not replicate the basic localizer finding.
 myResults = read.csv('NewToMfROIsrespNonlitJokes.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = normal.contrasts[Contrast]) %>%
-  mutate(Group = 'ToM')
+  mutate(Group = 'ToM') %>%
+  filter(ROIName !="VMPFC")
 allSigChange = rbind(allSigChange, myResults)
 
 myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = custom.contrasts[Contrast])%>%
-  mutate(Group = 'ToMCustom')
+  mutate(Group = 'ToMCustom')%>%
+  filter(ROIName !="VMPFC")
 allSigChange = rbind(allSigChange, myResults)
 
 View(allSigChange)
@@ -120,7 +124,7 @@ mystats[mystats$contrastName == 'lit',]$contNo <- 2
 mystats[mystats$contrastName == 'high',]$contNo <- 1
 mystats[mystats$contrastName == 'med',]$contNo <- 2
 mystats[mystats$contrastName == 'low',]$contNo <- 3
-mystats = arrange(mystats, ROI)
+#mystats = arrange(mystats, ROI)
 mystats = arrange(mystats, contNo)
 
 #Add a new col grouping to separate out the localizer average
@@ -129,48 +133,69 @@ mystats[mystats$ROIName == "LocalizerAverage",]$ROIGroup <- "across fROIs"
 mystats = arrange(mystats, desc(ROIGroup))
 
 #Changes for prettiness
-#mystats[mystats$ROIName=="LocalizerAverage",]$ROIName <- mystats[mystats$ROIName=="LocalizerAverage",]$Group
 mystats[mystats$ROIName=="LocalizerAverage",]$ROIName <- "average across fROIs"
+mystats$ROIName <- str_wrap(mystats$ROIName, width = 4)
+
+mystats$contrastLabel <- mystats$contrastName
+mystats[mystats$contrastName == "joke",]$contrastLabel <- "joke\n  "
+mystats[mystats$contrastName == "lit",]$contrastLabel <- "lit\n   "
+mystats[mystats$contrastName == "high",]$contrastLabel <- "high\n  "
+mystats[mystats$contrastName == "med",]$contrastLabel <- "med\n   "
+mystats[mystats$contrastName == "low",]$contrastLabel <- "low\n  "
+
+
 
 #Subsets!
 RHLang = filter(mystats, Group == 'RHLang')
-RHLang = RHLang[c(1,2,11,12,9,10,13,14,5,6,7,8,3,4),]
+RHLang <- RHLang[order(RHLang$ROI),]
+RHLang$PresOrder = c(13,14, 9,10, 7,8, 11,12, 3,4,5,6,1,2) #Reorder for standard presentation!
+RHLang <- RHLang[order(RHLang$PresOrder),]
+RHLang = arrange(RHLang, desc(ROIGroup))
+
+
 LHLang = filter(mystats, Group == 'LHLang')
-LHLang = LHLang[c(1,2,11,12,9,10,13,14,5,6,7,8,3,4),] #Reordering for standard LangLoc presentation!!!
+LHLang <- LHLang[order(LHLang$ROI),]
+LHLang$PresOrder = c(13,14, 9,10, 7,8, 11,12, 3,4,5,6,1,2)
+LHLang <- LHLang[order(LHLang$PresOrder),]
+LHLang = arrange(LHLang, desc(ROIGroup))
+
+
 MDLeft = filter(mystats, Group == 'MDLeft')
 MDRight = filter(mystats, Group == 'MDRight')
 ToM = filter(mystats, Group == 'ToM')
 ToMCustom = filter(mystats, Group == 'ToMCustom')
+ToMCustom <- arrange(ToMCustom, contNo)
 
 #Graphing function!
 
-makeBar = function(plotData,ylow=-0.5,yhigh=2.5, mycolors = c(joke="gray35", lit="gray60")) {
+makeBar = function(plotData,ylow=-0.5,yhigh=2.5, mycolors = c("gray35", "gray60")) {
 
   #freeze factor orders
   plotData$ROIName <- factor(plotData$ROIName, levels = unique(plotData$ROIName))
   plotData$ROIGroup <- factor(plotData$ROIGroup, levels = unique(plotData$ROIGroup))
-  plotData$contrastName <- factor(plotData$contrastName, levels = unique(plotData$contrastName))
+  plotData$contrastLabel <- factor(plotData$contrastLabel, levels = unique(plotData$contrastLabel))
   myfi = paste(plotData$Group[1], '.jpg', sep="")#filename
   print(myfi)
 
-ggplot(data=plotData, aes(x=ROIName, y=themean, fill=contrastName)) + 
+ggplot(data=plotData, aes(x=ROIName, y=themean, fill=contrastLabel)) + 
   geom_bar(position=position_dodge(), stat="identity") +
   geom_errorbar(aes(ymin=se_down, ymax=se_up), colour="black", width=.1, position=position_dodge(.9)) +
   coord_cartesian(ylim=c(ylow,yhigh)) +
   scale_y_continuous(breaks = seq(-0.5, 2.5, 0.5))+
   xlab('') +
-  ylab('% signal change over fixation') +
+  ylab(str_wrap('% signal change over fixation', width=18)) +
   scale_fill_manual(name="", values=mycolors) +
   theme_bw() +
   theme(legend.key = element_blank()) +
+  theme(text = element_text(size = 40)) +
   facet_grid(~ROIGroup, scale='free_x', space='free_x') +
   theme(strip.background = element_blank()) +
-  theme(strip.text = element_blank()) +
+  theme(strip.text = element_blank()) 
   # Optional, remove for RHLang and ToMCustom since we want the legend there...
-  #theme(legend.position="none")
+  #+ theme(legend.position="none")
  
 
-  ggsave(filename=myfi, width=length(unique(plotData$ROIName)), height=3)
+  ggsave(filename=myfi, width=length(unique(plotData$ROIName))*2, height=6)
   
 }
 
@@ -179,4 +204,4 @@ makeBar(RHLang)
 makeBar(MDLeft)
 makeBar(MDRight)
 makeBar(ToM, -0.5, 1)
-makeBar(ToMCustom, -0.5, 1, c(high="gray35", med="gray50", low="gray65"))
+makeBar(ToMCustom, -0.5, 1, c("high\n  "= "gray35", "med\n   "= "gray50", "low\n  "= "gray65"))

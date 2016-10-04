@@ -28,6 +28,7 @@ ToMROI.Names = c('DMPFC', 'LTPJ',  'MMPFC', 'PC',
 
 
 lang.contrasts = c('sent','non','sent-non')
+revlang.contrasts = c('sent','non','non-sent')
 md.contrasts = c()
 tom.contrasts = c('bel','pho','bel-pho')
 
@@ -49,14 +50,14 @@ myResults = read.csv('LangfROIsrespLangLoc.csv')%>%
 allSigChange = rbind(allSigChange, myResults)
 
 ##TO ADD: MD to Lang localizer measure (Non should > Sent)
-# myResults = read.csv('MDfROIsrespLang.csv')%>%
-#   mutate(ROIName = MDROI.Names[ROI]) %>%
-#   mutate(contrastName = lang.contrasts[Contrast])%>%
-#   mutate(Group = 'MDall-toLang')
-# allSigChange = rbind(allSigChange, myResults)
+ myResults = read.csv('MDfROIsrespRevLangLoc.csv')%>%
+   mutate(ROIName = MDROI.Names[ROI]) %>%
+   mutate(contrastName = revlang.contrasts[Contrast])%>%
+   mutate(Group = 'MDall-toLang')
+ allSigChange = rbind(allSigChange, myResults)
 #Little extra thing here, rename MD to split by L and R hemisphere!
-#allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft-toLang'
-#allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight-toLang'
+allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft-toLang'
+allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight-toLang'
 
 
 myResults = read.csv('NewToMfROIsrespToMLoc.csv')%>%
@@ -122,10 +123,15 @@ anova(m1,m0)
 
 
 ##TO ADD: RMD and LMD to Lang Localizer check (sent < non)
-# MDRtoMDR <- filter(allSigChange, Group == "MDLeft-toLang", contrastName == 'sent' | contrastName == 'non')
-# m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoMDR)
-# m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoMDR)
-# anova(m1,m0)
+ MDRtoLang <- filter(allSigChange, Group == "MDRight-toLang", contrastName == 'sent' | contrastName == 'non')
+ m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoLang)
+ m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoLang)
+ anova(m1,m0)
+
+MDLtoLang <- filter(allSigChange, Group == "MDLeft-toLang", contrastName == 'sent' | contrastName == 'non')
+m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoLang)
+m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoLang)
+anova(m1,m0)
 # 
 # MDLtoMDL <- filter(allSigChange, Group == "MDRight-toLang", contrastName == 'sent' | contrastName == 'non')
 # m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoMDL)
@@ -160,7 +166,9 @@ m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|Sub
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLeft)
 anova(m1,m0)
 
+#Quick change here! the VMPFC did not respond typically in the localizer cross validation, so remove it here
 ToM <- filter(allSigChange, Group == "ToM", contrastName == 'joke' | contrastName == 'lit')
+#ToM <- filter(allSigChange, ROIName == 'VMPFC')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToM)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToM)
 anova(m1,m0)

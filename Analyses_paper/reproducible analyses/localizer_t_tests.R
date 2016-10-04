@@ -27,6 +27,7 @@ ToMROI.Names = c('DMPFC', 'LTPJ',  'MMPFC', 'PC',
 
 
 lang.contrasts = c('sent','non','sent-non')
+revlang.contrasts = c('sent','non','non-sent')
 md.contrasts = c()
 tom.contrasts = c('bel','pho','bel-pho')
 
@@ -48,14 +49,14 @@ myResults = read.csv('LangfROIsrespLangLoc.csv')%>%
 allSigChange = rbind(allSigChange, myResults)
 
 ##TO ADD: MD to Lang localizer measure (Non should > Sent)
-# myResults = read.csv('MDfROIsrespLang.csv')%>%
-#   mutate(ROIName = MDROI.Names[ROI]) %>%
-#   mutate(contrastName = lang.contrasts[Contrast])%>%
-#   mutate(Group = 'MDall-toLang')
-# allSigChange = rbind(allSigChange, myResults)
+myResults = read.csv('MDfROIsrespRevLangLoc.csv')%>%
+   mutate(ROIName = MDROI.Names[ROI]) %>%
+   mutate(contrastName = revlang.contrasts[Contrast])%>%
+   mutate(Group = 'MDall-toLang')
+ allSigChange = rbind(allSigChange, myResults)
 #Little extra thing here, rename MD to split by L and R hemisphere!
-#allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft-toLang'
-#allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight-toLang'
+allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft-toLang'
+allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight-toLang'
 
 
 myResults = read.csv('NewToMfROIsrespToMLoc.csv')%>%
@@ -165,12 +166,17 @@ allTests %>%
 filter(allTests, Group == 'RHLang-toLang', contrastName == 'sent-non', !sig)
 
 ###TO ADD! MD localizer check
-#allTests %>%
-#  filter(Group == 'MDRight-toLang', contrastName == 'sent-non') %>%
-#  summarise(n(), sum(sig), reportTests(t,p))
-#allTests %>%
-#  filter(Group == 'MDLeft-toLang', contrastName == 'sent-non') %>%
-#  summarise(n(), sum(sig), reportTests(t,p))
+allTests %>%
+  #filter(Group == 'MDRight-toLang', contrastName == 'non-sent') %>%
+  #summarise(n(), sum(sig), reportTests(t,p))
+  filter(Group == 'MDRight-toLang', contrastName == 'non-sent', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p)) 
+filter(allTests, Group == 'MDRight-toLang', contrastName == 'non-sent', !sig)
+
+allTests %>%
+  filter(Group == 'MDLeft-toLang', contrastName == 'non-sent', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'MDLeft-toLang', contrastName == 'non-sent', !sig)
 
 
 allTests %>%
