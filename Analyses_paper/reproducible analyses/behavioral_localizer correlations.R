@@ -81,8 +81,8 @@ ggplot(data=bb, aes(y=meanSigChange, x=meanResponseChange)) +
   geom_smooth(method="lm", se=FALSE) + 
   scale_y_continuous(limits = c(-0.25, 0.50), breaks = seq(-0.25, 0.50, 0.25)) + 
   scale_x_continuous(limits = c(0, 2), breaks = seq(0, 2, 0.5)) +
-  xlab('average response (joke - lit)') +
-  ylab('average activation (joke - lit)') +
+  xlab('average rating response \n(Jokes - Non-jokes)') +
+  ylab('avg. % signal change \n(Jokes - Non-jokes)') +
   theme_bw() +
 ggsave(filename="behav_activation.jpg", width=3, height=3)
   
