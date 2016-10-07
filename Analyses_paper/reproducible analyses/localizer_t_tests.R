@@ -106,7 +106,7 @@ allSigChange = rbind(allSigChange, myResults)
 
 ###RESP JOKES-CUSTOM with paramfun #10/07 new thing for supp. materials
 
-myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
+myResults = read.csv('NewToMfROIsrespNonlitJokesCustom_20161007.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = custom.contrasts[Contrast])%>%
   mutate(Group = 'ToMCustom')
@@ -133,7 +133,7 @@ allTests <- allSigChange %>%
 
 #View(allTests)
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
-zz = file('localizer_t_tests_paramfun.csv', 'w')
+zz = file('localizer_t_tests_all.csv', 'w')
 write.csv(allTests, zz, row.names=FALSE)
 close(zz)
 
