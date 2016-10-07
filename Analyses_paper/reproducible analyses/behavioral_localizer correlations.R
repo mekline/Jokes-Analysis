@@ -72,6 +72,11 @@ bb <- merge(myRatingResults, myfMRIResults)
 ## REPORT STATS
 cor(bb$meanResponseChange, bb$meanSigChange)
 
+## Added an LM (no random slopes/intercepts! just 1 value/person)
+m1 <- lm(meanSigChange ~ meanResponseChange, data = bb)
+m0 <- lm(meanSigChange ~ 1, data = bb)
+anova(m1,m0)
+
 ## MAKE PRETTY GRAPH
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses/figs")
 coef(lm(meanResponseChange ~ meanSigChange, data = bb))
