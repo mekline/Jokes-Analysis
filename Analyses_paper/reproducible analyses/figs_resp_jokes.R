@@ -15,7 +15,8 @@ setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper
 ########
 #Here, we read in all those files, calculate a whole passle of mean and standard error bars, and then make graphs
 
-# Add in the contrast and ROI names so it's not just numbers!!!!!
+# Add in the contrast and ROI names so it's not just numbers!!!!! (This ordering comes from the 
+# standard ordering produced by the 2nd level analyses; we'll arrange differently in the plots)
 
 RHLangROI.Names = c('RPost Temp', 'RAnt Temp', 'RAngG', 'RIFG',      'RMFG',     'RIFG orb');
 LangROI.Names = c('LPost Temp', 'LAnt Temp', 'LAngG', 'LIFG',      'LMFG',     'LIFG orb');
@@ -137,15 +138,15 @@ mystats[mystats$ROIName=="LocalizerAverage",]$ROIName <- "average across fROIs"
 mystats$ROIName <- str_wrap(mystats$ROIName, width = 4)
 
 mystats$contrastLabel <- mystats$contrastName
-mystats[mystats$contrastName == "joke",]$contrastLabel <- "joke\n  "
-mystats[mystats$contrastName == "lit",]$contrastLabel <- "lit\n   "
+mystats[mystats$contrastName == "joke",]$contrastLabel <- "Jokes\n  "
+mystats[mystats$contrastName == "lit",]$contrastLabel <- "Non-jokes\n   "
 mystats[mystats$contrastName == "high",]$contrastLabel <- "high\n  "
 mystats[mystats$contrastName == "med",]$contrastLabel <- "med\n   "
 mystats[mystats$contrastName == "low",]$contrastLabel <- "low\n  "
 
 
 
-#Subsets!
+#Subsets & Ordering (elaborate code, probably can condense these; ggplot is finicky at orders)
 RHLang = filter(mystats, Group == 'RHLang')
 RHLang <- RHLang[order(RHLang$ROI),]
 RHLang$PresOrder = c(13,14, 9,10, 7,8, 11,12, 3,4,5,6,1,2) #Reorder for standard presentation!
@@ -161,10 +162,23 @@ LHLang = arrange(LHLang, desc(ROIGroup))
 
 
 MDLeft = filter(mystats, Group == 'MDLeft')
+MDLeft <- MDLeft[order(MDLeft$ROI),]
+MDLeft = arrange(MDLeft, desc(ROIGroup))
+
 MDRight = filter(mystats, Group == 'MDRight')
+MDRight <- MDRight[order(MDRight$ROI),]
+MDRight = arrange(MDRight, desc(ROIGroup))
+
+
 ToM = filter(mystats, Group == 'ToM')
+ToM <- ToM[order(ToM$ROI),]
+ToM = arrange(ToM, desc(ROIGroup))
+
 ToMCustom = filter(mystats, Group == 'ToMCustom')
 ToMCustom <- arrange(ToMCustom, contNo)
+ToMCustom <- ToMCustom[order(ToMCustom$ROI),]
+ToMCustom = arrange(ToMCustom, desc(ROIGroup))
+
 
 #Graphing function!
 
@@ -195,7 +209,7 @@ ggplot(data=plotData, aes(x=ROIName, y=themean, fill=contrastLabel)) +
   #+ theme(legend.position="none")
  
 
-  ggsave(filename=myfi, width=length(unique(plotData$ROIName))*2, height=6)
+  ggsave(filename=myfi, width=length(unique(plotData$ROIName))*2.2, height=6.1)
   
 }
 
