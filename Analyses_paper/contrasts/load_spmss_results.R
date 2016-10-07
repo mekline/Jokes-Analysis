@@ -7,9 +7,9 @@
 
 ####
 #Stuff to change!
-myResultsFolder = '/Users/mekline/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/Toolbox results - supplemental/MDfROIsrespRevLangLoc_20160926_results'
+myResultsFolder = '/Users/mekline/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/Toolbox results - resp Jokes/NewToMfROIsrespNonlitJokesCustom_20161007_results'
 myOutputFolder = '/Users/mekline/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/'
-myFilename = 'MDfROIsrespRevLangLoc_20160926.csv'
+myFilename = 'NewToMfROIsrespNonlitJokesCustom_20161007.csv'
 toSave = 1
 
 ####

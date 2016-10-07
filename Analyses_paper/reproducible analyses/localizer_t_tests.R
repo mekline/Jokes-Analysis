@@ -32,7 +32,7 @@ md.contrasts = c()
 tom.contrasts = c('bel','pho','bel-pho')
 
 normal.contrasts = c('joke', 'lit', 'joke-lit')
-custom.contrasts = c('low','med','high','other')
+custom.contrasts = c('low','med','high','other','paramfun')
 
 
 ###RESP LOCALIZER
@@ -103,6 +103,15 @@ myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
   mutate(Group = 'ToMCustom')
 allSigChange = rbind(allSigChange, myResults)
 
+
+###RESP JOKES-CUSTOM with paramfun #10/07 new thing for supp. materials
+
+myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
+  mutate(ROIName = ToMROI.Names[ROI]) %>%
+  mutate(contrastName = custom.contrasts[Contrast])%>%
+  mutate(Group = 'ToMCustom')
+allSigChange = rbind(allSigChange, myResults)
+
 #View(allSigChange)
 
 
@@ -124,7 +133,7 @@ allTests <- allSigChange %>%
 
 #View(allTests)
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
-zz = file('localizer_t_tests_all.csv', 'w')
+zz = file('localizer_t_tests_paramfun.csv', 'w')
 write.csv(allTests, zz, row.names=FALSE)
 close(zz)
 
