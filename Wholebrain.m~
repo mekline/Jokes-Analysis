@@ -15,27 +15,27 @@ experiments(2)=struct(...
     'pwd2','firstlevel_DSFIN',...
     'data',{{'KAN_syntax_01', 'KAN_syntax_02', 'KAN_syntax_03', 'KAN_syntax_05', 'KAN_syntax_06', 'KAN_syntax_07', 'KAN_syntax_08', 'KAN_syntax_09', 'KAN_syntax_10','KAN_syntax_11','KAN_syntax_12','KAN_syntax_13'}});
 experiments(3)=struct(...
-    'name','LL',...% non-language expt
-    'pwd1','/users/evelina9/more_evelina_files/MEGADATA/',...
-    'pwd2','firstlevel_LL',...
-    'data',{{'001_SWJN_01','002_SWJN_05','003_SWJN_07','004_SWJN_09','005_SWJN_11','006_SWJN_12','007_KAN_parametric_07','008_SWJNV2_01','009_SWJNV2_02','010_SWJNV2_03','011_SWJNV2_04','012_SWJNV2_05','013_SWJNV2_06','014_SWJNV2_07','015_SWJNV2_08','016_SWJNV2_09','017_domspec_09','018_SWJNV2_10','019_KAN_langevents_08','020_SWJNV2_12','021_domspec_10','022_SWJNaudio_06','023_langmus_07','024_SWJNV2_13','025_SWJNV2_15','026_SWJNaudio_11','027_SWJNaudio_12','028_SWJNaudio_13','029_SWJNaudio_14','030_KAN_langstroopBL_11','031_SWJNaudio_16','032_SWJNaudio_17','033_SWJNaudio_18','034_domspec_01','035_domspec_04','036_domspec_05','037_domspec_06','038_domspec_07','039_domspec_08','040_KAN_langevents_01','041_domspec_12','042_domspec_13','043_langmus_01','044_langmus_02','045_langmus_06','046_KAN_langstroop_01','047_KAN_syntax_12','048_langmus_10','049_langmus_11','050_KAN_syntax_05','051_langmus_13','052_langmus_14','053_KAN_reststate_01','054_KAN_langstroop_02','056_KAN_langevents_05','057_KAN_langevents_02','058_domspec_14','059_KAN_langevents_04','060_domspec_15','061_KAN_syntax_07','062_KAN_langstroopBL_06','063_KAN_langstroopBL_07','064_KAN_langstroopBL_08','065_KAN_langstroopBL_09','066_KAN_langstroopBL_10','067_KAN_langevents_06','068_KAN_langevents_07','069_KAN_langevents_10','070_KAN_langevents_11','071_KAN_langstroopBL_12','072_langsyntaxshapes_11','073_KAN_langstroopBL_14','074_KAN_langstroopBL_15','075_langmustask_01','076_KAN_langstroopBL_16','077_langmustask_02','078_KAN_langevents_13','079_KAN_langstroopBL_18','080_langmustask_03','081_KAN_langstroopBL_19','082_langmustask_04','083_KAN_langstroopBL_20','084_KAN_langstroopBL_21','085_KAN_langstroopBL_22','086_KAN_langstroopBL_23','087_KAN_locmvpa_05','088_KAN_syntax_01','089_KAN_langevents_15','090_KAN_stories_01','091_KAN_action_01','092_KAN_syntax_03','093_KAN_action_03','094_KAN_action_05','095_KAN_parametric_01','096_KAN_syntax_06','097_KAN_syntax_09','098_KAN_stories_03','099_KAN_syntax_10','100_KAN_syntax_11','101_KAN_lingviol_09','102_KAN_action_06','103_KAN_adapt_14','104_domspec_16','105_domspec_17','106_domspec_18','107_KAN_lingviol_04','108_domspec_19','109_KAN_lingviol_05','110_KAN_lingviol_07','111_KAN_lingviol_08','112_KAN_stories_06','113_KAN_freqamb_02','114_KAN_stories_08','115_KAN_action_07','116_langsyntaxshapes_01','117_langsyntaxshapes_02','118_langsyntaxshapes_03','119_langsyntaxshapes_04','120_KAN_action_08','121_KAN_action_09','122_langsyntaxshapes_05','123_KAN_adapt_09','124_KAN_action_10','125_KAN_action_12','126_KAN_parametric_02','127_KAN_parametric_03','128_KAN_random_01','129_langsyntaxshapes_09','130_langsyntaxshapes_10','131_langsyntaxshapes_12','132_KAN_stories_10','133_KAN_adapt_01','134_KAN_adapt_02','135_KAN_adapt_04','136_KAN_adapt_05','137_KAN_adapt_06','138_KAN_adapt_07','139_KAN_adapt_08','140_KAN_prod_01','141_KAN_adapt_10','142_KAN_parametric_04','143_KAN_adapt_11','144_KAN_adapt_12','145_KAN_stories_09','146_KAN_stories_11','147_KAN_prod_04','148_KAN_adapt_13','149_KAN_parametric_05','150_KAN_stories_12','151_KAN_parametric_06','152_KAN_stories_13','153_KAN_stories_14','154_KAN_freqamb_03','155_KAN_prod_05','156_KAN_prod_06'}});
+    'name','nonlit_joke',...% non-language expt
+    'pwd1','/users/evelina9/more_evelina_files/MEGADATA.now.on.evlabfs/',...
+    'pwd2','firstlevel_nonlit_joke',...
+    'data',{{'152_KAN_RHnonlit_01','138_KAN_RHnonlit_02','136_KAN_RHnonlit_03','194_KAN_RHnonlit_04','097_KAN_RHnonlit_05','135_KAN_RHnonlit_06','197_KAN_RHnonlit_07','198_KAN_RHnonlit_08','018_KAN_RHnonlit_09','049_KAN_RHnonlit_10','201_KAN_RHnonlit_11','175_KAN_RHnonlit_12'}});
 
 %% first-level contrasts
 existingcontrasts=[];
 if any(rerun_firstlevel_contrasts),
-addpath('/users/evelina9/more_evelina_files/MEGAANALYSIS/');
-for exp=find(rerun_firstlevel_contrasts),
-for nsub=1:length(experiments(exp).data),
-subjectname=experiments(exp).data{nsub};
-foldername=fullfile(experiments(exp).pwd1,subjectname,experiments(exp).pwd2);
-load(fullfile(foldername,'SPM.mat'));
-SPM.swd = foldername;
-save(fullfile(foldername,'SPM.mat'),'SPM');
-jobs{1}.stats{1}.con.spmmat = {fullfile(foldername,'SPM.mat')};
-jobs{1}.stats{1}.con.consess = feval(['build_contrasts_',experiments(exp).name],subjectname,fullfile(foldername,'SPM.mat'));
-spm_jobman('run',jobs);
-end
-end
+    addpath('/users/evelina9/more_evelina_files/MEGAANALYSIS/');
+    for exp=find(rerun_firstlevel_contrasts),
+        for nsub=1:length(experiments(exp).data),
+            subjectname=experiments(exp).data{nsub};
+            foldername=fullfile(experiments(exp).pwd1,subjectname,experiments(exp).pwd2);
+            load(fullfile(foldername,'SPM.mat'));
+            SPM.swd = foldername;
+            save(fullfile(foldername,'SPM.mat'),'SPM');
+            jobs{1}.stats{1}.con.spmmat = {fullfile(foldername,'SPM.mat')};
+            jobs{1}.stats{1}.con.consess = feval(['build_contrasts_',experiments(exp).name],subjectname,fullfile(foldername,'SPM.mat'));
+            spm_jobman('run',jobs);
+        end
+    end
 end
 
 
