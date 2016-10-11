@@ -21,13 +21,13 @@ setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper
 RHLangROI.Names = c('RPost Temp', 'RAnt Temp', 'RAngG', 'RIFG',      'RMFG',     'RIFG orb');
 LangROI.Names = c('LPost Temp', 'LAnt Temp', 'LAngG', 'LIFG',      'LMFG',     'LIFG orb');
 
-MDROI.Names = c('LIFGop',  'RIFGop', 'LMFG',    'RMFG',    'LMFGorb',
+MDROI.Names = c('LIFG op',  'RIFG op', 'LMFG',    'RMFG',    'LMFG orb',
                       'RMFG orb', 'LPrecG', 'RPrecG',  'LInsula', 'RInsula',
-                      'LSMA',    'RSMA',   'LParInf', 'RPar Inf', 'LPar Sup',
+                      'LSMA',    'RSMA',   'LPar Inf', 'RPar Inf', 'LPar Sup',
                       'RPar Sup', 'LACC',   'RACC');
 
-ToMROI.Names = c('DMPFC', 'LTPJ',  'MMPFC', 'PC',
-                      'RTPJ',  'VMPFC', 'RSTS');
+ToMROI.Names = c('DM PFC', 'LTPJ',  'MM PFC', 'PC',
+                      'RTPJ',  'VM PFC', 'RSTS');
 
 normal.contrasts = c('joke', 'lit', 'joke-lit')
 custom.contrasts = c('low','med','high','other')
@@ -60,17 +60,17 @@ myResults = read.csv('NewToMfROIsrespNonlitJokes.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = normal.contrasts[Contrast]) %>%
   mutate(Group = 'ToM') %>%
-  filter(ROIName !="VMPFC")
+  filter(ROIName !="VM PFC")
 allSigChange = rbind(allSigChange, myResults)
 
 myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
   mutate(ROIName = ToMROI.Names[ROI]) %>%
   mutate(contrastName = custom.contrasts[Contrast])%>%
   mutate(Group = 'ToMCustom')%>%
-  filter(ROIName !="VMPFC")
+  filter(ROIName !="VM PFC")
 allSigChange = rbind(allSigChange, myResults)
 
-View(allSigChange)
+
 
 #########
 # TRANSFORMATIONS
@@ -169,14 +169,17 @@ MDRight = filter(mystats, Group == 'MDRight')
 MDRight <- MDRight[order(MDRight$ROI),]
 MDRight = arrange(MDRight, desc(ROIGroup))
 
-
 ToM = filter(mystats, Group == 'ToM')
 ToM <- ToM[order(ToM$ROI),]
+ToM$PresOrder = c(1,2,3,4,9,10,5,6,7,8,11,12,13,14)
+ToM <- ToM[order(ToM$PresOrder),]
 ToM = arrange(ToM, desc(ROIGroup))
 
 ToMCustom = filter(mystats, Group == 'ToMCustom')
 ToMCustom <- arrange(ToMCustom, contNo)
 ToMCustom <- ToMCustom[order(ToMCustom$ROI),]
+ToMCustom$PresOrder = c(1,2,3,4,5,6,13,14,15,7,8,9,10,11,12,16,17,18,19,20,21)
+ToMCustom <- ToMCustom[order(ToMCustom$PresOrder),]
 ToMCustom = arrange(ToMCustom, desc(ROIGroup))
 
 
