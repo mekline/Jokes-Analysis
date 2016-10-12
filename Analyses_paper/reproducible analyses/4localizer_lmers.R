@@ -104,6 +104,14 @@ myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
   mutate(Group = 'ToMCustom')
 allSigChange = rbind(allSigChange, myResults)
 
+#New 10/12: Localizer analysis shows that VMPFC localizer doesn't come out in this dataset, so remove it from
+#the joke-lit tests for ToM and ToM custom (but leave it for the localizer itself)
+
+allSigChange = allSigChange %>%
+  filter(!(Group == 'ToM' & ROIName =='VMPFC')) %>%
+  filter(!(Group == 'ToMCustom' & ROIName =='VMPFC'))
+
+
 #########
 
 # Linear mixed Models!
@@ -166,9 +174,8 @@ m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|Sub
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLeft)
 anova(m1,m0)
 
-#Quick change here! the VMPFC did not respond typically in the localizer cross validation, so remove it here
+#the VMPFC did not respond typically in the localizer cross validation, so remove it here (!! Now taken care of above!)
 ToM <- filter(allSigChange, Group == "ToM", contrastName == 'joke' | contrastName == 'lit')
-#ToM <- filter(allSigChange, ROIName == 'VMPFC')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToM)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToM)
 anova(m1,m0)

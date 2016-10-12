@@ -1,5 +1,5 @@
-#This rebuilds the t tests that spmss spits out from the individual signal change values (reproduced here
-#so mk can track how those are done/feed into other analyses)
+#This rebuilds the t tests that spmss spits out from the individual signal change values (reproduced here from ind. 
+#signal change values so mk can track how those are done/feed into other analyses)
 
 rm(list=ls(all=TRUE))
 library(tidyr)
@@ -95,14 +95,6 @@ myResults = read.csv('NewToMfROIsrespNonlitJokes.csv')%>%
   mutate(Group = 'ToM')
 allSigChange = rbind(allSigChange, myResults)
 
-###RESP JOKES-CUSTOM
-
-myResults = read.csv('NewToMfROIsresCustomJokes.csv')%>%
-  mutate(ROIName = ToMROI.Names[ROI]) %>%
-  mutate(contrastName = custom.contrasts[Contrast])%>%
-  mutate(Group = 'ToMCustom')
-allSigChange = rbind(allSigChange, myResults)
-
 
 ###RESP JOKES-CUSTOM with paramfun #10/07 new thing for supp. materials
 
@@ -113,6 +105,13 @@ myResults = read.csv('NewToMfROIsrespNonlitJokesCustom_20161007.csv')%>%
 allSigChange = rbind(allSigChange, myResults)
 
 #View(allSigChange)
+
+#New 10/12: Localizer analysis shows that VMPFC localizer doesn't come out in this dataset, so remove it from
+#the joke-lit tests for ToM and ToM custom (but leave it for the localizer itself)
+
+allSigChange = allSigChange %>%
+  filter(!(Group == 'ToM' & ROIName =='VMPFC')) %>%
+  filter(!(Group == 'ToMCustom' & ROIName =='VMPFC'))
 
 
 #######
@@ -174,7 +173,7 @@ allTests %>%
   summarise(n(), sum(sig), reportTests(t,p)) 
 filter(allTests, Group == 'RHLang-toLang', contrastName == 'sent-non', !sig)
 
-###TO ADD! MD localizer check
+###MD localizer check
 allTests %>%
   #filter(Group == 'MDRight-toLang', contrastName == 'non-sent') %>%
   #summarise(n(), sum(sig), reportTests(t,p))

@@ -55,6 +55,7 @@ myfMRIResults = read.csv('NewToMfROIsrespNonlitJokes.csv')%>%
   mutate(contrastName = normal.contrasts[Contrast]) %>%
   mutate(Group = 'ToM') %>%
   filter(contrastName == 'joke-lit') %>%
+  filter(ROIName !='VMPFC')%>% #New! This fROI is not reliable in teh localizer data
   group_by(SubjectNumber)%>%
   summarize(meanSigChange = mean(sigChange))
 
@@ -85,7 +86,7 @@ ggplot(data=bb, aes(y=meanSigChange, x=meanResponseChange)) +
   geom_point() +
   geom_smooth(method="lm", se=FALSE) + 
   scale_y_continuous(limits = c(-0.25, 0.50), breaks = seq(-0.25, 0.50, 0.25)) + 
-  scale_x_continuous(limits = c(0, 2), breaks = seq(0, 2, 0.5)) +
+  scale_x_continuous(limits = c(0, 1.75), breaks = seq(0, 2, 0.5)) +
   xlab('average rating response \n(Jokes - Non-jokes)') +
   ylab('avg. % signal change \n(Jokes - Non-jokes)') +
   theme_bw() +
