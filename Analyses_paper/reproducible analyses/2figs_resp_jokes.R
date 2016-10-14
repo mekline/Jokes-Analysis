@@ -3,10 +3,12 @@
 #derived for the whole parcel region (not individual voxels, as mk sometimes forgets)
 
 rm(list = ls())
+library(bootstrap)
 library(dplyr)
 library(tidyr)
 library(ggplot2)
 library(stringr)
+
 
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/contrasts/")
 
@@ -83,7 +85,7 @@ avgSigChange$ROIName = 'LocalizerAverage'
 avgSigChange$ROI = 0
 
 allSigChange <- allSigChange %>%
-  select(one_of('Group','ROIName', 'ROI','SubjectNumber', 'contrastName','sigChange'))
+  dplyr::select(one_of(c('Group','ROIName', 'ROI','SubjectNumber', 'contrastName','sigChange')))
 
 allSigChange <- rbind(allSigChange, avgSigChange)
 
@@ -108,6 +110,25 @@ mystats = merge(mystats,myster)
 mystats$se_up = mystats$themean + mystats$sterr
 mystats$se_down = mystats$themean - mystats$sterr
 
+#Edit! We should be doing bootstrapped 95% confidence intervals instead! calculate them from allSigChange
+#then merge into mystats
+
+bootup <- function(mylist){
+  foo <- bootstrap(mylist, 1000, mean)
+  return(quantile(foo$thetastar, 0.975)[1])
+}
+bootdown <- function(mylist){
+  foo <- bootstrap(mylist, 1000, mean)
+  return(quantile(foo$thetastar, 0.025)[1])
+}
+mybootup = aggregate(toGraph$sigChange, by=list(toGraph$Group, toGraph$ROIName, toGraph$ROI, toGraph$contrastName), bootup)
+names(mybootup) = c('Group','ROIName', 'ROI','contrastName', 'bootup')
+mybootdown = aggregate(toGraph$sigChange, by=list(toGraph$Group, toGraph$ROIName, toGraph$ROI, toGraph$contrastName), bootdown)
+names(mybootdown) = c('Group','ROIName', 'ROI','contrastName', 'bootdown')
+
+mystats = merge(mystats,mybootup)
+mystats = merge(mystats,mybootdown)
+
 #########
 # Effect size reports
 #########
@@ -116,11 +137,11 @@ mystats$se_down = mystats$themean - mystats$sterr
 eff <- mystats %>%
   filter(ROIName == 'LocalizerAverage') %>%
   filter(contrastName == 'joke' | contrastName == 'lit') %>%
-  select(Group, contrastName,themean) %>%
+  dplyr::select(Group, contrastName,themean) %>%
   spread(contrastName, themean) %>%
   mutate(sigChange = joke-lit)
   
-
+            
 #########
 # Graphs!
 #########
@@ -208,7 +229,7 @@ makeBar = function(plotData,ylow=-0.5,yhigh=2.5, mycolors = c("gray35", "gray60"
 
 ggplot(data=plotData, aes(x=ROIName, y=themean, fill=contrastLabel)) + 
   geom_bar(position=position_dodge(), stat="identity") +
-  geom_errorbar(aes(ymin=se_down, ymax=se_up), colour="black", width=.1, position=position_dodge(.9)) +
+  geom_errorbar(aes(ymin=bootdown, ymax=bootup), colour="black", width=.1, position=position_dodge(.9)) +
   coord_cartesian(ylim=c(ylow,yhigh)) +
   scale_y_continuous(breaks = seq(-0.5, 2.5, 0.5))+
   xlab('') +

@@ -5,6 +5,7 @@ library(tidyr)
 library(dplyr)
 library(lme4)
 library(ggplot2)
+library(bootstrap)
 
 #(set your own wd first)
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
@@ -63,10 +64,22 @@ t.test(meanResponse ~ category, data=avgResponse)
 # Graphs!
 ####
 
-sterr <- function(mylist){
-  my_se = sd(mylist)/sqrt(length(mylist)) 
-  
-  return(my_se)
+#sterr <- function(mylist){
+#  my_se = sd(mylist)/sqrt(length(mylist)) 
+#  
+#  return(my_se)
+#}
+
+#Edit! We should be doing bootstrapped 95% confidence intervals instead! calculate them from allSigChange
+#then merge into mystats
+
+bootup <- function(mylist){
+  foo <- bootstrap(mylist, 1000, mean)
+  return(quantile(foo$thetastar, 0.975)[1])
+}
+bootdown <- function(mylist){
+  foo <- bootstrap(mylist, 1000, mean)
+  return(quantile(foo$thetastar, 0.025)[1])
 }
 
 #Make the organized data for ggplot
@@ -87,25 +100,40 @@ toPlotRT = avgRT %>%
   group_by(categoryLabel)%>%
   summarise(mean = mean(meanRT))
 
-toStr = avgRT %>%
+tobootUp = avgRT %>%
   group_by(categoryLabel)%>%
-  summarise(sterrRT = sterr(meanRT))
+  summarise(bootup = bootup(meanRT))
+tobootDown = avgRT %>%
+  group_by(categoryLabel)%>%
+  summarise(bootdown = bootdown(meanRT))
 
-toPlotRT = merge(toPlotRT, toStr)
-toPlotRT$se_up <- toPlotRT$mean + toPlotRT$sterr
-toPlotRT$se_down <- toPlotRT$mean - toPlotRT$sterr
+#toPlotRT = merge(toPlotRT, toStr)
+#toPlotRT$se_up <- toPlotRT$mean + toPlotRT$sterr
+#toPlotRT$se_down <- toPlotRT$mean - toPlotRT$sterr
+toPlotRT = merge(toPlotRT, tobootUp)
+toPlotRT = merge(toPlotRT, tobootDown)
 
 toPlotResp = avgResponse %>%
   group_by(categoryLabel)%>%
   summarise(mean = mean(meanResponse))
 
-toStr = avgResponse %>%
-  group_by(categoryLabel)%>%
-  summarise(sterrRes = sterr(meanResponse))
+#toStr = avgResponse %>%
+#  group_by(categoryLabel)%>%
+#  summarise(sterrRes = sterr(meanResponse))
 
-toPlotResp = merge(toPlotResp, toStr)
-toPlotResp$se_up <- toPlotResp$mean + toPlotResp$sterr
-toPlotResp$se_down <- toPlotResp$mean - toPlotResp$sterr
+#toPlotResp = merge(toPlotResp, toStr)
+#toPlotResp$se_up <- toPlotResp$mean + toPlotResp$sterr
+#toPlotResp$se_down <- toPlotResp$mean - toPlotResp$sterr
+
+tobootUp = avgResponse %>%
+  group_by(categoryLabel)%>%
+  summarise(bootup = bootup(meanResponse))
+tobootDown = avgResponse %>%
+  group_by(categoryLabel)%>%
+  summarise(bootdown = bootdown(meanResponse))
+
+toPlotResp = merge(toPlotResp, tobootUp)
+toPlotResp = merge(toPlotResp, tobootDown)
 
 setwd(mywd)
 
@@ -126,7 +154,7 @@ ggsave(filename="rtrough.jpg", width=3, height=3)
   
 ggplot(data=toPlotResp, aes(y=mean, x=categoryLabel)) + 
   geom_bar(position=position_dodge(), stat="identity") +
-  geom_errorbar(aes(ymin=se_down, ymax=se_up), colour="black", width=.1, position=position_dodge(.9)) +
+  geom_errorbar(aes(ymin=bootdown, ymax=bootup), colour="black", width=.1, position=position_dodge(.9)) +
   coord_cartesian(ylim=c(1,4)) +
   scale_y_continuous(breaks = seq(1, 4, 1))+
   xlab('Stimulus type') +
@@ -137,5 +165,5 @@ ggplot(data=toPlotResp, aes(y=mean, x=categoryLabel)) +
   theme(strip.background = element_blank()) +
   # Optional, remove for RHLang and ToMCustom since we want the legend there...
   theme(legend.position="none")  
-ggsave(filename="resprough.jpg", width=3, height=3)
+ggsave(filename="behavioral.jpg", width=3, height=3)
 
