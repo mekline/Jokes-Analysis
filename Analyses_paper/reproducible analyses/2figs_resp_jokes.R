@@ -108,6 +108,18 @@ mystats = merge(mystats,myster)
 mystats$se_up = mystats$themean + mystats$sterr
 mystats$se_down = mystats$themean - mystats$sterr
 
+#########
+# Effect size reports
+#########
+#For the main analysis in the paper (signal change jokes>nonjokes) we'll report  a simple measure of effect size: the
+#mean signal change in each system. Here they are:
+eff <- mystats %>%
+  filter(ROIName == 'LocalizerAverage') %>%
+  filter(contrastName == 'joke' | contrastName == 'lit') %>%
+  select(Group, contrastName,themean) %>%
+  spread(contrastName, themean) %>%
+  mutate(sigChange = joke-lit)
+  
 
 #########
 # Graphs!

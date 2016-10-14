@@ -118,39 +118,42 @@ allSigChange = allSigChange %>%
 #Plan: Within each system (localizers, and jokes), test for basic localizer condition differences, then do some
 #between-system comparisons
 
+#EFFECT SIZE CALCULATION! Requested by the journal.  There is no standard way to report effect sizes for linear mixed
+#models, so the approach we'll take is to report mean signal change values at the system level.  This is calculated
+#over in the figure script since we general those values there. 
 
 RHLangtoLang <- filter(allSigChange, Group == "RHLang-toLang", contrastName == 'sent' | contrastName == 'non')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = RHLangtoLang)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = RHLangtoLang)
 anova(m1,m0)
 
+
 LHLangtoLang <- filter(allSigChange, Group == "LHLang-toLang", contrastName == 'sent' | contrastName == 'non')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = LHLangtoLang)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = LHLangtoLang)
 anova(m1,m0)
+ 
 
-
-##TO ADD: RMD and LMD to Lang Localizer check (sent < non)
+##RMD and LMD to Lang Localizer check (sent < non)
  MDRtoLang <- filter(allSigChange, Group == "MDRight-toLang", contrastName == 'sent' | contrastName == 'non')
  m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoLang)
  m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRtoLang)
  anova(m1,m0)
+ 
 
 MDLtoLang <- filter(allSigChange, Group == "MDLeft-toLang", contrastName == 'sent' | contrastName == 'non')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoLang)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoLang)
 anova(m1,m0)
-# 
-# MDLtoMDL <- filter(allSigChange, Group == "MDRight-toLang", contrastName == 'sent' | contrastName == 'non')
-# m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoMDL)
-# m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLtoMDL)
-# anova(m1,m0)
+ 
+
 
 
 ToMtoToM <- filter(allSigChange, Group == "ToM-toToM", contrastName == 'bel' | contrastName == 'pho')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToMtoToM)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToMtoToM)
 anova(m1,m0)
+ 
 
 #To jokes!
 
@@ -158,27 +161,32 @@ RHLang <- filter(allSigChange, Group == "RHLang", contrastName == 'joke' | contr
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = RHLang)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = RHLang)
 anova(m1,m0)
+ 
 
 LHLang <- filter(allSigChange, Group == "LHLang", contrastName == 'joke' | contrastName == 'lit')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = LHLang)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = LHLang)
 anova(m1,m0)
+ 
 
 MDRight <- filter(allSigChange, Group == "MDRight", contrastName == 'joke' | contrastName == 'lit')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRight)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDRight)
 anova(m1,m0)
+ 
 
 MDLeft <- filter(allSigChange, Group == "MDLeft", contrastName == 'joke' | contrastName == 'lit')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLeft)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = MDLeft)
 anova(m1,m0)
+ 
 
 #the VMPFC did not respond typically in the localizer cross validation, so remove it here (!! Now taken care of above!)
 ToM <- filter(allSigChange, Group == "ToM", contrastName == 'joke' | contrastName == 'lit')
 m1 <- lmer(sigChange ~ contrastName + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToM)
 m0 <- lmer(sigChange ~ 1 + (contrastName|ROIName) + (contrastName|SubjectNumber), data = ToM)
 anova(m1,m0)
+ 
 
 ######
 #Then, do some comparisons between systems: ToM > MDRight and ToM RHLang, plus LHs for completeness
@@ -187,27 +195,32 @@ ToM_MDRight <- filter(allSigChange, Group == "ToM" | Group == "MDRight", contras
 m1 <- lmer(sigChange ~ contrastName*Group + (contrastName|ROIName) + (contrastName*Group|SubjectNumber), data = ToM_MDRight)
 m0 <- lmer(sigChange ~ contrastName+Group + (contrastName|ROIName) + (contrastName*Group|SubjectNumber), data = ToM_MDRight)
 anova(m1,m0)
+ 
 
 #hypothesis: large between-system differences eat most of the variance.  Use joke-lit contrast value instead
 ToM_MDRight_cont <- filter(allSigChange, Group == "ToM" | Group == "MDRight", contrastName == 'joke-lit')
 m1 <- lmer(sigChange ~ Group + (1|ROIName) + (Group|SubjectNumber), data = ToM_MDRight_cont)
 m0 <- lmer(sigChange ~ 1 + (1|ROIName) + (Group|SubjectNumber), data = ToM_MDRight_cont)
 anova(m1,m0)
+ 
 
 ToM_RHLang_cont <- filter(allSigChange, Group == "ToM" | Group == "RHLang", contrastName == 'joke-lit')
 m1 <- lmer(sigChange ~ Group + (1|ROIName) + (Group|SubjectNumber), data = ToM_RHLang_cont)
 m0 <- lmer(sigChange ~ 1 + (1|ROIName) + (Group|SubjectNumber), data = ToM_RHLang_cont)
 anova(m1,m0)
+ 
 
 ToM_MDLeft_cont <- filter(allSigChange, Group == "ToM" | Group == "MDLeft", contrastName == 'joke-lit')
 m1 <- lmer(sigChange ~ Group + (1|ROIName) + (Group|SubjectNumber), data = ToM_MDLeft_cont)
 m0 <- lmer(sigChange ~ 1 + (1|ROIName) + (Group|SubjectNumber), data = ToM_MDLeft_cont)
 anova(m1,m0)
+ 
 
 ToM_LHLang_cont <- filter(allSigChange, Group == "ToM" | Group == "LHLang", contrastName == 'joke-lit')
 m1 <- lmer(sigChange ~ Group + (1|ROIName) + (Group|SubjectNumber), data = ToM_LHLang_cont)
 m0 <- lmer(sigChange ~ 1 + (1|ROIName) + (Group|SubjectNumber), data = ToM_LHLang_cont)
 anova(m1,m0)
+ 
 
 
 
