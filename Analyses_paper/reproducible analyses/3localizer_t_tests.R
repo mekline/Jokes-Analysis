@@ -287,5 +287,8 @@ allTests %>%
   summarise(n(), sum(sig), reportTests(t,p))
 filter(allTests, Group == 'ToM', contrastName == 'joke-lit', sig)
 
-
-
+#10/14 Huh, where did the ToM paramfun test go? Here it is again...
+allTests %>%
+  filter(Group == 'ToMCustom', contrastName == 'paramfun',!sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))
+filter(allTests, Group == 'ToM', contrastName == 'joke-lit', sig)

@@ -139,7 +139,7 @@ setwd(mywd)
 
 ggplot(data=toPlotRT, aes(y=mean, x=categoryLabel)) + 
   geom_bar(position=position_dodge(), stat="identity") +
-  geom_errorbar(aes(ymin=se_down, ymax=se_up), colour="black", width=.1, position=position_dodge(.9)) +
+  geom_errorbar(aes(ymin=bootdown, ymax=bootup), colour="black", width=.1, position=position_dodge(.9)) +
   coord_cartesian(ylim=c(0,1200)) +
   scale_y_continuous(breaks = seq(0, 1200, 200))+
   xlab('Stimulus type') +
@@ -150,7 +150,7 @@ ggplot(data=toPlotRT, aes(y=mean, x=categoryLabel)) +
   theme(strip.background = element_blank()) +
   # Optional, remove for RHLang and ToMCustom since we want the legend there...
   theme(legend.position="none")  
-ggsave(filename="rtrough.jpg", width=3, height=3)
+ggsave(filename="behavioralrt.jpg", width=3, height=3)
   
 ggplot(data=toPlotResp, aes(y=mean, x=categoryLabel)) + 
   geom_bar(position=position_dodge(), stat="identity") +
