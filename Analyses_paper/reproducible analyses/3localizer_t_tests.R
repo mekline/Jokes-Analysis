@@ -4,6 +4,7 @@
 rm(list=ls(all=TRUE))
 library(tidyr)
 library(dplyr)
+library(pwr)
 
 #Set wd!
 setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/contrasts")
@@ -292,3 +293,44 @@ allTests %>%
   filter(Group == 'ToMCustom', contrastName == 'paramfun',!sig) %>%
   summarise(n(), sum(sig), reportTests(t,p))
 filter(allTests, Group == 'ToM', contrastName == 'joke-lit', sig)
+
+
+###############Here be exploratory analyses######
+
+#Let's try and do a power analysis on the Jokes results. (Considering a replication
+#since a journal has asked for one) There are 4 regions we expect to 
+#find differences in: RTPJ, LTPJ, MMPFC, PC.  How big are those differences and how
+#well powered are we?
+
+cohens_d <- function(x, y) {
+  lx <- length(x)- 1
+  ly <- length(y)- 1
+  md  <- abs(mean(x) - mean(y))        ## mean difference (numerator)
+  csd <- lx * var(x) + ly * var(y)
+  csd <- csd/(lx + ly)
+  csd <- sqrt(csd)                     ## common sd computation
+  
+  cd  <- md/csd                        ## cohen's d
+}
+
+forPower <- allSigChange %>%
+  filter(Group == 'ToM', contrastName == 'joke-lit') %>%
+  filter(ROIName %in% c('RTPJ','LTPJ','PC','MMPFC') ) %>%
+  group_by(ROIName)%>%
+  summarise(m = mean(sigChange), sd = sd(sigChange), t = t.test(sigChange, mu=0,alt='greater')$statistic, 
+            p = t.test(sigChange, mu=0,alt='greater')$p.value)
+
+forPower$n <- 12
+forPower$cohens_d <- forPower$m / forPower$sd
+
+ptests <- mapply(pwr.t.test, n=forPower$n, d=forPower$cohens_d, sig.level=0.05, alternative='greater')
+
+#These effects are powered okay: range 0.587 - 0.856
+
+#Assume the smallest effect in ToM regions are the true effect size
+effect_est <- max(forPower$cohens_d)
+
+#How many participants do we need for 80% power at p=0.05?
+pwr.t.test(d=effect_est, sig.level=0.05, power = 0.8, alternative='greater')
+
+#21 participants!
