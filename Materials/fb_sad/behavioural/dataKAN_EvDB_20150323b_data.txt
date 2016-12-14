@@ -1,0 +1,63 @@
+Mr Bean.mp4:
+pretrial 0.060044
+video 16.092844
+padding 338.224870
+posttrial 340.107696
+end run 372.108919
+
+Glaciers.mp4:
+pretrial 0.018405
+video 16.053952
+padding 314.200876
+posttrial 316.070333
+end run 348.071534
+
+angels_in_america.mp4:
+pretrial 0.019472
+audio 16.063591
+padding 342.270674
+posttrial 344.079701
+end run 376.080216
+
+Paganini Caprice No.mp3:
+pretrial 0.019039
+audio 16.049802
+padding 310.842730
+posttrial 312.080849
+end run 344.081643
+
+shapes animation.mp4:
+pretrial 0.018001
+video 16.053471
+padding 257.251244
+posttrial 258.067215
+end run 290.067979
+
+partly cloudy.mp4:
+pretrial 0.011247
+video 16.042064
+padding 365.768841
+posttrial 366.051473
+end run 398.052708
+
+dayInTheLife_Jeanne.wav:
+pretrial 0.013547
+audio 16.042416
+padding 244.043158
+posttrial 246.062672
+end run 278.062913
+
+visual patterns.mp4:
+pretrial 0.017683
+video 16.055535
+padding 316.457974
+posttrial 318.067864
+end run 350.068493
+
+Elvis.wav:
+pretrial 0.020117
+audio 16.040879
+padding 284.408640
+posttrial 286.060843
+end run 318.061639
+

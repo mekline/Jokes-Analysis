@@ -1,0 +1,4 @@
+According to the portrait the man's 
+hair is short.
+
+True			False

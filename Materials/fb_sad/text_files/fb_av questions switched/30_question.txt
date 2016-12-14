@@ -1,0 +1,4 @@
+According to the golf bag there 
+are 27 birdies scored.
+
+True			False

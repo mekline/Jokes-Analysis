@@ -1,0 +1,4 @@
+Andrea believes that Ken will buy a new
+pair of boots.
+
+True			False

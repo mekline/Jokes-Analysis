@@ -1,0 +1,3 @@
+The campers expect to find soda in the cooler.
+
+True			False

@@ -1,0 +1,4 @@
+Sally and Greg arrive expecting that 
+they lost their cabin reservation.
+
+True			False

@@ -1,0 +1,4 @@
+A customer buys the pie and discovers
+the pie is strawberry.
+
+True			False

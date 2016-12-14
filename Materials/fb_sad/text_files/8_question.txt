@@ -1,0 +1,4 @@
+Anne thinks the blue dish contains 
+spaghetti.
+
+True			False

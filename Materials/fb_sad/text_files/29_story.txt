@@ -1,0 +1,4 @@
+The meterologist's weekly weather summary 
+mistakenly repeated the summary for the prior 
+week, reporting sun every day. In actuality, 
+it rained the entire week.

@@ -1,0 +1,4 @@
+In the satellite photographs the island 
+is not covered in lava rock.
+
+True			False

@@ -1,0 +1,4 @@
+According to the sign there is an 
+outhouse in the forest.
+
+True			False

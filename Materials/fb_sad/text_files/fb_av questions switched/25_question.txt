@@ -1,0 +1,4 @@
+According to the traffic camera, 
+the car is black.
+
+True			False

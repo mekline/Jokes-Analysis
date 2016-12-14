@@ -1,0 +1,3 @@
+In the drawing the treehouse is red.
+
+True			False

@@ -1,0 +1,3 @@
+Ken's shoestore bag contains sandals.
+
+True			False

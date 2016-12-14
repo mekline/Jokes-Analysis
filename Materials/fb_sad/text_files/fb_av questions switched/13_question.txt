@@ -1,0 +1,3 @@
+In the cooler, the campers find no soda.
+
+True			False

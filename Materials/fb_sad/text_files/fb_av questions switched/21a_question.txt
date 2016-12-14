@@ -1,0 +1,3 @@
+George supposes Amy is sick.
+
+True			False

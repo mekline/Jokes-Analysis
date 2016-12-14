@@ -1,0 +1,5 @@
+To detect intruders, the lab uses an 
+automated system for recording voices. 
+In the empty lab one night, a computer 
+error occurs and a synthetic voice reads 
+the error message.

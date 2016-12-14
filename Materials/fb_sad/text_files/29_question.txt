@@ -1,0 +1,4 @@
+The weather summary indicates that 
+it rained none that week.
+
+True			False

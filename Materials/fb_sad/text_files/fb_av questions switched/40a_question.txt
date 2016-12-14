@@ -1,0 +1,4 @@
+According to the picture the color of the 
+blouse is pink.
+
+True			False

@@ -1,0 +1,3 @@
+The golf bag has 27 notches.
+
+True			False

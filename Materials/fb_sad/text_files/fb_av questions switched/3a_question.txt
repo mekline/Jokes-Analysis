@@ -1,0 +1,3 @@
+When Laura returns her horse's mane is braided.
+
+True			False

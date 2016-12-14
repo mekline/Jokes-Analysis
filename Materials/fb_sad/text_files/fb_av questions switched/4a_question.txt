@@ -1,0 +1,4 @@
+When the Garcia family arrives home
+the score of the game is 3-3.
+
+True			False

@@ -1,0 +1,4 @@
+The developed photograph shows 
+the apple on the ground.
+
+True			False

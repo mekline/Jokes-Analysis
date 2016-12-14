@@ -1,0 +1,4 @@
+The architect's photocopy of the floor 
+plan is complete.
+
+True			False

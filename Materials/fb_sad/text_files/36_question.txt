@@ -1,0 +1,4 @@
+The architect's photocopy shows 
+the door.
+
+True			False

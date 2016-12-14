@@ -1,0 +1,4 @@
+When Jeff got dressed he assumed 
+his shirt is white.
+
+True			False

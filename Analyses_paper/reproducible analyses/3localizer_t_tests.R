@@ -327,10 +327,10 @@ ptests <- mapply(pwr.t.test, n=forPower$n, d=forPower$cohens_d, sig.level=0.05, 
 
 #These effects are powered okay: range 0.587 - 0.856
 
-#Assume the smallest effect in ToM regions are the true effect size
-effect_est <- max(forPower$cohens_d)
+#Assume the smallest effect in ToM regions is the true effect size
+effect_est <- min(forPower$cohens_d)
 
 #How many participants do we need for 80% power at p=0.05?
-pwr.t.test(d=effect_est, sig.level=0.05, power = 0.8, alternative='greater')
+pwr.t.test(d=effect_est, sig.level=0.05, power = 0.80, alternative='greater')
 
 #21 participants!

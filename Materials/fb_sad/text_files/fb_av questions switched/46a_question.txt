@@ -1,0 +1,4 @@
+In the picture, the boy appears much smaller 
+than the Eiffel tower.
+
+True			False

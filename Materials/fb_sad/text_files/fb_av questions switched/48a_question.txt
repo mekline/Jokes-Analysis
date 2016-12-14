@@ -1,0 +1,3 @@
+In the picture, the house has a garage.
+
+True			False

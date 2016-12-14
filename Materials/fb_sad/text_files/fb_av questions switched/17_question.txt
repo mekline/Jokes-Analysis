@@ -1,0 +1,4 @@
+When Tom returns, he discovers his 
+document is erased.
+
+True			False
