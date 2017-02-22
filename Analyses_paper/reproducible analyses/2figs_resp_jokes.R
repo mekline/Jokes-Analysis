@@ -110,9 +110,12 @@ mystats = merge(mystats,myster)
 mystats$se_up = mystats$themean + mystats$sterr
 mystats$se_down = mystats$themean - mystats$sterr
 
+#Print out a simple summary for mega-graphs
+avgz <- filter(mystats, ROIName == 'LocalizerAverage')
+write.csv(avgz, 'jokes_localizer_avg.csv')
+
 #Edit! We should be doing bootstrapped 95% confidence intervals instead! calculate them from allSigChange
 #then merge into mystats
-
 bootup <- function(mylist){
   foo <- bootstrap(mylist, 1000, mean)
   return(quantile(foo$thetastar, 0.975)[1])
