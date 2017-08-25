@@ -60,6 +60,11 @@ t.test(meanResponse ~ category, data=avgResponse)
 #Responses are different by condition! The jokes are funny!
 
 
+# New: Write out data to csv so we can compare with preregistered Exp 2
+setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper/reproducible analyses")
+write.csv(avgResponse, 'avgResponse_Behavioral_Exp1.csv', row.names=FALSE)
+write.csv(avgRT, 'avgRT_Behavioral_Exp1.csv', row.names=FALSE)
+
 ####
 # Graphs!
 ####
