@@ -89,6 +89,9 @@ allSigChange <- allSigChange %>%
 
 allSigChange <- rbind(allSigChange, avgSigChange)
 
+#New thing! For the revised paper, we'd like to present some graphs of exp 1 and 2 side by side. To do this, export the csv data now!
+write.csv(allSigChange, file = "AllSigChange_Exp1.csv",row.names=FALSE)
+
 #Drop the contrasts we're not interested in...
 toGraph = allSigChange %>%
   filter(contrastName %in% c('joke','lit','high','med','low'))
