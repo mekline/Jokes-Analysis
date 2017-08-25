@@ -1,0 +1,1813 @@
+"Group","ROIName","ROI","SubjectNumber","contrastName","sigChange"
+"RHLang","RPost Temp",1,1,"joke",0.336046
+"RHLang","RAnt Temp",2,1,"joke",0.356582
+"RHLang","RAngG",3,1,"joke",0.100632
+"RHLang","RIFG",4,1,"joke",0.600544
+"RHLang","RMFG",5,1,"joke",0.618669
+"RHLang","RIFG orb",6,1,"joke",0.7945
+"RHLang","RPost Temp",1,1,"lit",0.192287
+"RHLang","RAnt Temp",2,1,"lit",0.211272
+"RHLang","RAngG",3,1,"lit",0.102277
+"RHLang","RIFG",4,1,"lit",0.419777
+"RHLang","RMFG",5,1,"lit",0.511163
+"RHLang","RIFG orb",6,1,"lit",0.935983
+"RHLang","RPost Temp",1,1,"joke-lit",0.143759
+"RHLang","RAnt Temp",2,1,"joke-lit",0.14531
+"RHLang","RAngG",3,1,"joke-lit",-0.001645
+"RHLang","RIFG",4,1,"joke-lit",0.180766
+"RHLang","RMFG",5,1,"joke-lit",0.107506
+"RHLang","RIFG orb",6,1,"joke-lit",-0.141483
+"RHLang","RPost Temp",1,2,"joke",0.515553
+"RHLang","RAnt Temp",2,2,"joke",0.712734
+"RHLang","RAngG",3,2,"joke",0.27609
+"RHLang","RIFG",4,2,"joke",0.967143
+"RHLang","RMFG",5,2,"joke",0.472014
+"RHLang","RIFG orb",6,2,"joke",0.343033
+"RHLang","RPost Temp",1,2,"lit",0.632292
+"RHLang","RAnt Temp",2,2,"lit",0.807435
+"RHLang","RAngG",3,2,"lit",0.305082
+"RHLang","RIFG",4,2,"lit",1.296639
+"RHLang","RMFG",5,2,"lit",0.571271
+"RHLang","RIFG orb",6,2,"lit",0.4205
+"RHLang","RPost Temp",1,2,"joke-lit",-0.116739
+"RHLang","RAnt Temp",2,2,"joke-lit",-0.094702
+"RHLang","RAngG",3,2,"joke-lit",-0.028992
+"RHLang","RIFG",4,2,"joke-lit",-0.329497
+"RHLang","RMFG",5,2,"joke-lit",-0.099256
+"RHLang","RIFG orb",6,2,"joke-lit",-0.077468
+"RHLang","RPost Temp",1,3,"joke",0.36246
+"RHLang","RAnt Temp",2,3,"joke",0.282836
+"RHLang","RAngG",3,3,"joke",0.066959
+"RHLang","RIFG",4,3,"joke",0.741779
+"RHLang","RMFG",5,3,"joke",0.338723
+"RHLang","RIFG orb",6,3,"joke",0.683283
+"RHLang","RPost Temp",1,3,"lit",0.294738
+"RHLang","RAnt Temp",2,3,"lit",0.101384
+"RHLang","RAngG",3,3,"lit",0.018608
+"RHLang","RIFG",4,3,"lit",0.710555
+"RHLang","RMFG",5,3,"lit",0.416361
+"RHLang","RIFG orb",6,3,"lit",0.621485
+"RHLang","RPost Temp",1,3,"joke-lit",0.067722
+"RHLang","RAnt Temp",2,3,"joke-lit",0.181452
+"RHLang","RAngG",3,3,"joke-lit",0.048351
+"RHLang","RIFG",4,3,"joke-lit",0.031224
+"RHLang","RMFG",5,3,"joke-lit",-0.077639
+"RHLang","RIFG orb",6,3,"joke-lit",0.061798
+"RHLang","RPost Temp",1,4,"joke",0.894307
+"RHLang","RAnt Temp",2,4,"joke",1.114475
+"RHLang","RAngG",3,4,"joke",-0.04988
+"RHLang","RIFG",4,4,"joke",1.28644
+"RHLang","RMFG",5,4,"joke",-0.023985
+"RHLang","RIFG orb",6,4,"joke",1.89113
+"RHLang","RPost Temp",1,4,"lit",0.71854
+"RHLang","RAnt Temp",2,4,"lit",1.00728
+"RHLang","RAngG",3,4,"lit",0.097087
+"RHLang","RIFG",4,4,"lit",0.992812
+"RHLang","RMFG",5,4,"lit",0.016734
+"RHLang","RIFG orb",6,4,"lit",1.016016
+"RHLang","RPost Temp",1,4,"joke-lit",0.175767
+"RHLang","RAnt Temp",2,4,"joke-lit",0.107195
+"RHLang","RAngG",3,4,"joke-lit",-0.146968
+"RHLang","RIFG",4,4,"joke-lit",0.293628
+"RHLang","RMFG",5,4,"joke-lit",-0.04072
+"RHLang","RIFG orb",6,4,"joke-lit",0.875113
+"RHLang","RPost Temp",1,5,"joke",0.328382
+"RHLang","RAnt Temp",2,5,"joke",0.489624
+"RHLang","RAngG",3,5,"joke",0.093593
+"RHLang","RIFG",4,5,"joke",0.80166
+"RHLang","RMFG",5,5,"joke",0.50291
+"RHLang","RIFG orb",6,5,"joke",1.019752
+"RHLang","RPost Temp",1,5,"lit",0.309018
+"RHLang","RAnt Temp",2,5,"lit",0.540589
+"RHLang","RAngG",3,5,"lit",0.017594
+"RHLang","RIFG",4,5,"lit",0.873904
+"RHLang","RMFG",5,5,"lit",0.321959
+"RHLang","RIFG orb",6,5,"lit",0.88035
+"RHLang","RPost Temp",1,5,"joke-lit",0.019364
+"RHLang","RAnt Temp",2,5,"joke-lit",-0.050965
+"RHLang","RAngG",3,5,"joke-lit",0.075999
+"RHLang","RIFG",4,5,"joke-lit",-0.072243
+"RHLang","RMFG",5,5,"joke-lit",0.180951
+"RHLang","RIFG orb",6,5,"joke-lit",0.139402
+"RHLang","RPost Temp",1,6,"joke",0.218314
+"RHLang","RAnt Temp",2,6,"joke",1.464522
+"RHLang","RAngG",3,6,"joke",0.055398
+"RHLang","RIFG",4,6,"joke",0.547391
+"RHLang","RMFG",5,6,"joke",0.236974
+"RHLang","RIFG orb",6,6,"joke",1.539307
+"RHLang","RPost Temp",1,6,"lit",0.013479
+"RHLang","RAnt Temp",2,6,"lit",1.185111
+"RHLang","RAngG",3,6,"lit",-0.062773
+"RHLang","RIFG",4,6,"lit",0.35839
+"RHLang","RMFG",5,6,"lit",0.184858
+"RHLang","RIFG orb",6,6,"lit",1.488617
+"RHLang","RPost Temp",1,6,"joke-lit",0.204835
+"RHLang","RAnt Temp",2,6,"joke-lit",0.279411
+"RHLang","RAngG",3,6,"joke-lit",0.118171
+"RHLang","RIFG",4,6,"joke-lit",0.189001
+"RHLang","RMFG",5,6,"joke-lit",0.052115
+"RHLang","RIFG orb",6,6,"joke-lit",0.05069
+"RHLang","RPost Temp",1,7,"joke",-0.159336
+"RHLang","RAnt Temp",2,7,"joke",-0.261869
+"RHLang","RAngG",3,7,"joke",-0.241557
+"RHLang","RIFG",4,7,"joke",-0.096558
+"RHLang","RMFG",5,7,"joke",0.091408
+"RHLang","RIFG orb",6,7,"joke",-0.059394
+"RHLang","RPost Temp",1,7,"lit",-0.096008
+"RHLang","RAnt Temp",2,7,"lit",-0.024468
+"RHLang","RAngG",3,7,"lit",-0.202505
+"RHLang","RIFG",4,7,"lit",-0.072311
+"RHLang","RMFG",5,7,"lit",-0.021875
+"RHLang","RIFG orb",6,7,"lit",0.238394
+"RHLang","RPost Temp",1,7,"joke-lit",-0.063328
+"RHLang","RAnt Temp",2,7,"joke-lit",-0.237401
+"RHLang","RAngG",3,7,"joke-lit",-0.039052
+"RHLang","RIFG",4,7,"joke-lit",-0.024247
+"RHLang","RMFG",5,7,"joke-lit",0.113283
+"RHLang","RIFG orb",6,7,"joke-lit",-0.297788
+"RHLang","RPost Temp",1,8,"joke",0.290153
+"RHLang","RAnt Temp",2,8,"joke",0.066438
+"RHLang","RAngG",3,8,"joke",-0.136967
+"RHLang","RIFG",4,8,"joke",0.33373
+"RHLang","RMFG",5,8,"joke",0.303237
+"RHLang","RIFG orb",6,8,"joke",0.936406
+"RHLang","RPost Temp",1,8,"lit",0.220084
+"RHLang","RAnt Temp",2,8,"lit",0.102486
+"RHLang","RAngG",3,8,"lit",-0.194697
+"RHLang","RIFG",4,8,"lit",0.169557
+"RHLang","RMFG",5,8,"lit",0.243205
+"RHLang","RIFG orb",6,8,"lit",0.919704
+"RHLang","RPost Temp",1,8,"joke-lit",0.07007
+"RHLang","RAnt Temp",2,8,"joke-lit",-0.036047
+"RHLang","RAngG",3,8,"joke-lit",0.05773
+"RHLang","RIFG",4,8,"joke-lit",0.164174
+"RHLang","RMFG",5,8,"joke-lit",0.060032
+"RHLang","RIFG orb",6,8,"joke-lit",0.016702
+"RHLang","RPost Temp",1,9,"joke",0.652254
+"RHLang","RAnt Temp",2,9,"joke",0.427127
+"RHLang","RAngG",3,9,"joke",-0.066723
+"RHLang","RIFG",4,9,"joke",1.807231
+"RHLang","RMFG",5,9,"joke",0.432743
+"RHLang","RIFG orb",6,9,"joke",0.812276
+"RHLang","RPost Temp",1,9,"lit",0.537037
+"RHLang","RAnt Temp",2,9,"lit",0.318426
+"RHLang","RAngG",3,9,"lit",-0.119581
+"RHLang","RIFG",4,9,"lit",1.608003
+"RHLang","RMFG",5,9,"lit",0.361258
+"RHLang","RIFG orb",6,9,"lit",0.626508
+"RHLang","RPost Temp",1,9,"joke-lit",0.115217
+"RHLang","RAnt Temp",2,9,"joke-lit",0.108701
+"RHLang","RAngG",3,9,"joke-lit",0.052858
+"RHLang","RIFG",4,9,"joke-lit",0.199228
+"RHLang","RMFG",5,9,"joke-lit",0.071485
+"RHLang","RIFG orb",6,9,"joke-lit",0.185768
+"RHLang","RPost Temp",1,10,"joke",0.481176
+"RHLang","RAnt Temp",2,10,"joke",0.307674
+"RHLang","RAngG",3,10,"joke",-0.168856
+"RHLang","RIFG",4,10,"joke",1.732218
+"RHLang","RMFG",5,10,"joke",1.325108
+"RHLang","RIFG orb",6,10,"joke",1.245982
+"RHLang","RPost Temp",1,10,"lit",0.322327
+"RHLang","RAnt Temp",2,10,"lit",0.167644
+"RHLang","RAngG",3,10,"lit",-0.112769
+"RHLang","RIFG",4,10,"lit",1.693376
+"RHLang","RMFG",5,10,"lit",1.20575
+"RHLang","RIFG orb",6,10,"lit",1.169962
+"RHLang","RPost Temp",1,10,"joke-lit",0.158848
+"RHLang","RAnt Temp",2,10,"joke-lit",0.140031
+"RHLang","RAngG",3,10,"joke-lit",-0.056087
+"RHLang","RIFG",4,10,"joke-lit",0.038843
+"RHLang","RMFG",5,10,"joke-lit",0.119358
+"RHLang","RIFG orb",6,10,"joke-lit",0.07602
+"RHLang","RPost Temp",1,11,"joke",0.874061
+"RHLang","RAnt Temp",2,11,"joke",0.39524
+"RHLang","RAngG",3,11,"joke",-0.15621
+"RHLang","RIFG",4,11,"joke",1.084437
+"RHLang","RMFG",5,11,"joke",0.706927
+"RHLang","RIFG orb",6,11,"joke",1.053154
+"RHLang","RPost Temp",1,11,"lit",1.060162
+"RHLang","RAnt Temp",2,11,"lit",0.450871
+"RHLang","RAngG",3,11,"lit",-0.094045
+"RHLang","RIFG",4,11,"lit",1.215537
+"RHLang","RMFG",5,11,"lit",0.929008
+"RHLang","RIFG orb",6,11,"lit",1.141171
+"RHLang","RPost Temp",1,11,"joke-lit",-0.186101
+"RHLang","RAnt Temp",2,11,"joke-lit",-0.05563
+"RHLang","RAngG",3,11,"joke-lit",-0.062165
+"RHLang","RIFG",4,11,"joke-lit",-0.1311
+"RHLang","RMFG",5,11,"joke-lit",-0.222081
+"RHLang","RIFG orb",6,11,"joke-lit",-0.088018
+"RHLang","RPost Temp",1,12,"joke",1.525879
+"RHLang","RAnt Temp",2,12,"joke",1.035766
+"RHLang","RAngG",3,12,"joke",0.614996
+"RHLang","RIFG",4,12,"joke",0.97201
+"RHLang","RMFG",5,12,"joke",1.122987
+"RHLang","RIFG orb",6,12,"joke",1.583635
+"RHLang","RPost Temp",1,12,"lit",1.388988
+"RHLang","RAnt Temp",2,12,"lit",1.075706
+"RHLang","RAngG",3,12,"lit",0.696493
+"RHLang","RIFG",4,12,"lit",1.205588
+"RHLang","RMFG",5,12,"lit",1.058857
+"RHLang","RIFG orb",6,12,"lit",1.43843
+"RHLang","RPost Temp",1,12,"joke-lit",0.136891
+"RHLang","RAnt Temp",2,12,"joke-lit",-0.03994
+"RHLang","RAngG",3,12,"joke-lit",-0.081498
+"RHLang","RIFG",4,12,"joke-lit",-0.233578
+"RHLang","RMFG",5,12,"joke-lit",0.064129
+"RHLang","RIFG orb",6,12,"joke-lit",0.145205
+"LHLang","LPost Temp",1,1,"joke",0.835758
+"LHLang","LAnt Temp",2,1,"joke",0.53414
+"LHLang","LAngG",3,1,"joke",0.434924
+"LHLang","LIFG",4,1,"joke",1.478182
+"LHLang","LMFG",5,1,"joke",1.932788
+"LHLang","LIFG orb",6,1,"joke",2.16893
+"LHLang","LPost Temp",1,1,"lit",0.846452
+"LHLang","LAnt Temp",2,1,"lit",0.500144
+"LHLang","LAngG",3,1,"lit",0.398014
+"LHLang","LIFG",4,1,"lit",1.508471
+"LHLang","LMFG",5,1,"lit",1.901366
+"LHLang","LIFG orb",6,1,"lit",1.977727
+"LHLang","LPost Temp",1,1,"joke-lit",-0.010695
+"LHLang","LAnt Temp",2,1,"joke-lit",0.033996
+"LHLang","LAngG",3,1,"joke-lit",0.036911
+"LHLang","LIFG",4,1,"joke-lit",-0.030289
+"LHLang","LMFG",5,1,"joke-lit",0.031421
+"LHLang","LIFG orb",6,1,"joke-lit",0.191203
+"LHLang","LPost Temp",1,2,"joke",1.045492
+"LHLang","LAnt Temp",2,2,"joke",0.750096
+"LHLang","LAngG",3,2,"joke",0.803528
+"LHLang","LIFG",4,2,"joke",2.256675
+"LHLang","LMFG",5,2,"joke",0.68909
+"LHLang","LIFG orb",6,2,"joke",1.286176
+"LHLang","LPost Temp",1,2,"lit",1.230617
+"LHLang","LAnt Temp",2,2,"lit",0.831414
+"LHLang","LAngG",3,2,"lit",0.81808
+"LHLang","LIFG",4,2,"lit",2.702636
+"LHLang","LMFG",5,2,"lit",0.98338
+"LHLang","LIFG orb",6,2,"lit",1.430515
+"LHLang","LPost Temp",1,2,"joke-lit",-0.185125
+"LHLang","LAnt Temp",2,2,"joke-lit",-0.081318
+"LHLang","LAngG",3,2,"joke-lit",-0.014553
+"LHLang","LIFG",4,2,"joke-lit",-0.445961
+"LHLang","LMFG",5,2,"joke-lit",-0.29429
+"LHLang","LIFG orb",6,2,"joke-lit",-0.144339
+"LHLang","LPost Temp",1,3,"joke",0.622231
+"LHLang","LAnt Temp",2,3,"joke",0.662359
+"LHLang","LAngG",3,3,"joke",0.004203
+"LHLang","LIFG",4,3,"joke",0.476761
+"LHLang","LMFG",5,3,"joke",0.372254
+"LHLang","LIFG orb",6,3,"joke",0.414204
+"LHLang","LPost Temp",1,3,"lit",0.439319
+"LHLang","LAnt Temp",2,3,"lit",0.549567
+"LHLang","LAngG",3,3,"lit",-0.048907
+"LHLang","LIFG",4,3,"lit",0.42467
+"LHLang","LMFG",5,3,"lit",0.263826
+"LHLang","LIFG orb",6,3,"lit",0.330855
+"LHLang","LPost Temp",1,3,"joke-lit",0.182912
+"LHLang","LAnt Temp",2,3,"joke-lit",0.112792
+"LHLang","LAngG",3,3,"joke-lit",0.053111
+"LHLang","LIFG",4,3,"joke-lit",0.052091
+"LHLang","LMFG",5,3,"joke-lit",0.108428
+"LHLang","LIFG orb",6,3,"joke-lit",0.08335
+"LHLang","LPost Temp",1,4,"joke",1.846412
+"LHLang","LAnt Temp",2,4,"joke",1.197202
+"LHLang","LAngG",3,4,"joke",1.316734
+"LHLang","LIFG",4,4,"joke",2.025755
+"LHLang","LMFG",5,4,"joke",1.074475
+"LHLang","LIFG orb",6,4,"joke",2.526608
+"LHLang","LPost Temp",1,4,"lit",1.569648
+"LHLang","LAnt Temp",2,4,"lit",1.075442
+"LHLang","LAngG",3,4,"lit",1.225612
+"LHLang","LIFG",4,4,"lit",1.568127
+"LHLang","LMFG",5,4,"lit",0.804836
+"LHLang","LIFG orb",6,4,"lit",1.683705
+"LHLang","LPost Temp",1,4,"joke-lit",0.276763
+"LHLang","LAnt Temp",2,4,"joke-lit",0.12176
+"LHLang","LAngG",3,4,"joke-lit",0.091122
+"LHLang","LIFG",4,4,"joke-lit",0.457628
+"LHLang","LMFG",5,4,"joke-lit",0.269639
+"LHLang","LIFG orb",6,4,"joke-lit",0.842903
+"LHLang","LPost Temp",1,5,"joke",1.058869
+"LHLang","LAnt Temp",2,5,"joke",0.597094
+"LHLang","LAngG",3,5,"joke",0.44934
+"LHLang","LIFG",4,5,"joke",0.688198
+"LHLang","LMFG",5,5,"joke",1.293169
+"LHLang","LIFG orb",6,5,"joke",3.052947
+"LHLang","LPost Temp",1,5,"lit",1.140096
+"LHLang","LAnt Temp",2,5,"lit",0.71406
+"LHLang","LAngG",3,5,"lit",0.421636
+"LHLang","LIFG",4,5,"lit",0.790279
+"LHLang","LMFG",5,5,"lit",1.509547
+"LHLang","LIFG orb",6,5,"lit",2.669755
+"LHLang","LPost Temp",1,5,"joke-lit",-0.081227
+"LHLang","LAnt Temp",2,5,"joke-lit",-0.116967
+"LHLang","LAngG",3,5,"joke-lit",0.027703
+"LHLang","LIFG",4,5,"joke-lit",-0.102081
+"LHLang","LMFG",5,5,"joke-lit",-0.216378
+"LHLang","LIFG orb",6,5,"joke-lit",0.383192
+"LHLang","LPost Temp",1,6,"joke",1.178982
+"LHLang","LAnt Temp",2,6,"joke",1.272826
+"LHLang","LAngG",3,6,"joke",0.610679
+"LHLang","LIFG",4,6,"joke",1.443506
+"LHLang","LMFG",5,6,"joke",1.775617
+"LHLang","LIFG orb",6,6,"joke",2.872388
+"LHLang","LPost Temp",1,6,"lit",1.01439
+"LHLang","LAnt Temp",2,6,"lit",1.121839
+"LHLang","LAngG",3,6,"lit",0.574479
+"LHLang","LIFG",4,6,"lit",1.392656
+"LHLang","LMFG",5,6,"lit",1.644829
+"LHLang","LIFG orb",6,6,"lit",2.81764
+"LHLang","LPost Temp",1,6,"joke-lit",0.164591
+"LHLang","LAnt Temp",2,6,"joke-lit",0.150988
+"LHLang","LAngG",3,6,"joke-lit",0.0362
+"LHLang","LIFG",4,6,"joke-lit",0.05085
+"LHLang","LMFG",5,6,"joke-lit",0.130788
+"LHLang","LIFG orb",6,6,"joke-lit",0.054748
+"LHLang","LPost Temp",1,7,"joke",0.354214
+"LHLang","LAnt Temp",2,7,"joke",0.104685
+"LHLang","LAngG",3,7,"joke",-0.018924
+"LHLang","LIFG",4,7,"joke",1.35018
+"LHLang","LMFG",5,7,"joke",1.15418
+"LHLang","LIFG orb",6,7,"joke",1.317765
+"LHLang","LPost Temp",1,7,"lit",0.403076
+"LHLang","LAnt Temp",2,7,"lit",0.197235
+"LHLang","LAngG",3,7,"lit",-0.051213
+"LHLang","LIFG",4,7,"lit",1.476917
+"LHLang","LMFG",5,7,"lit",1.105307
+"LHLang","LIFG orb",6,7,"lit",1.474158
+"LHLang","LPost Temp",1,7,"joke-lit",-0.048862
+"LHLang","LAnt Temp",2,7,"joke-lit",-0.09255
+"LHLang","LAngG",3,7,"joke-lit",0.032288
+"LHLang","LIFG",4,7,"joke-lit",-0.126736
+"LHLang","LMFG",5,7,"joke-lit",0.048872
+"LHLang","LIFG orb",6,7,"joke-lit",-0.156393
+"LHLang","LPost Temp",1,8,"joke",1.451777
+"LHLang","LAnt Temp",2,8,"joke",1.220777
+"LHLang","LAngG",3,8,"joke",0.180964
+"LHLang","LIFG",4,8,"joke",1.383432
+"LHLang","LMFG",5,8,"joke",0.740014
+"LHLang","LIFG orb",6,8,"joke",1.93358
+"LHLang","LPost Temp",1,8,"lit",1.526084
+"LHLang","LAnt Temp",2,8,"lit",1.117686
+"LHLang","LAngG",3,8,"lit",0.149178
+"LHLang","LIFG",4,8,"lit",1.538651
+"LHLang","LMFG",5,8,"lit",1.165898
+"LHLang","LIFG orb",6,8,"lit",1.911991
+"LHLang","LPost Temp",1,8,"joke-lit",-0.074308
+"LHLang","LAnt Temp",2,8,"joke-lit",0.10309
+"LHLang","LAngG",3,8,"joke-lit",0.031786
+"LHLang","LIFG",4,8,"joke-lit",-0.155219
+"LHLang","LMFG",5,8,"joke-lit",-0.425884
+"LHLang","LIFG orb",6,8,"joke-lit",0.021589
+"LHLang","LPost Temp",1,9,"joke",1.367721
+"LHLang","LAnt Temp",2,9,"joke",1.078672
+"LHLang","LAngG",3,9,"joke",0.093323
+"LHLang","LIFG",4,9,"joke",2.31041
+"LHLang","LMFG",5,9,"joke",0.520231
+"LHLang","LIFG orb",6,9,"joke",2.178965
+"LHLang","LPost Temp",1,9,"lit",1.169656
+"LHLang","LAnt Temp",2,9,"lit",0.825009
+"LHLang","LAngG",3,9,"lit",-0.11505
+"LHLang","LIFG",4,9,"lit",1.749227
+"LHLang","LMFG",5,9,"lit",0.384781
+"LHLang","LIFG orb",6,9,"lit",1.795361
+"LHLang","LPost Temp",1,9,"joke-lit",0.198065
+"LHLang","LAnt Temp",2,9,"joke-lit",0.253663
+"LHLang","LAngG",3,9,"joke-lit",0.208373
+"LHLang","LIFG",4,9,"joke-lit",0.561183
+"LHLang","LMFG",5,9,"joke-lit",0.13545
+"LHLang","LIFG orb",6,9,"joke-lit",0.383604
+"LHLang","LPost Temp",1,10,"joke",1.199607
+"LHLang","LAnt Temp",2,10,"joke",1.069662
+"LHLang","LAngG",3,10,"joke",0.216324
+"LHLang","LIFG",4,10,"joke",4.392391
+"LHLang","LMFG",5,10,"joke",2.295061
+"LHLang","LIFG orb",6,10,"joke",2.018475
+"LHLang","LPost Temp",1,10,"lit",1.138856
+"LHLang","LAnt Temp",2,10,"lit",1.042568
+"LHLang","LAngG",3,10,"lit",0.201429
+"LHLang","LIFG",4,10,"lit",4.513006
+"LHLang","LMFG",5,10,"lit",2.517442
+"LHLang","LIFG orb",6,10,"lit",1.947482
+"LHLang","LPost Temp",1,10,"joke-lit",0.060751
+"LHLang","LAnt Temp",2,10,"joke-lit",0.027094
+"LHLang","LAngG",3,10,"joke-lit",0.014896
+"LHLang","LIFG",4,10,"joke-lit",-0.120615
+"LHLang","LMFG",5,10,"joke-lit",-0.222381
+"LHLang","LIFG orb",6,10,"joke-lit",0.070993
+"LHLang","LPost Temp",1,11,"joke",1.471429
+"LHLang","LAnt Temp",2,11,"joke",0.705252
+"LHLang","LAngG",3,11,"joke",0.49558
+"LHLang","LIFG",4,11,"joke",3.083466
+"LHLang","LMFG",5,11,"joke",1.418419
+"LHLang","LIFG orb",6,11,"joke",1.899243
+"LHLang","LPost Temp",1,11,"lit",1.589762
+"LHLang","LAnt Temp",2,11,"lit",0.640834
+"LHLang","LAngG",3,11,"lit",0.293231
+"LHLang","LIFG",4,11,"lit",3.113567
+"LHLang","LMFG",5,11,"lit",1.510107
+"LHLang","LIFG orb",6,11,"lit",1.935319
+"LHLang","LPost Temp",1,11,"joke-lit",-0.118333
+"LHLang","LAnt Temp",2,11,"joke-lit",0.064418
+"LHLang","LAngG",3,11,"joke-lit",0.202349
+"LHLang","LIFG",4,11,"joke-lit",-0.030101
+"LHLang","LMFG",5,11,"joke-lit",-0.091688
+"LHLang","LIFG orb",6,11,"joke-lit",-0.036076
+"LHLang","LPost Temp",1,12,"joke",1.680938
+"LHLang","LAnt Temp",2,12,"joke",1.314906
+"LHLang","LAngG",3,12,"joke",1.75823
+"LHLang","LIFG",4,12,"joke",1.481479
+"LHLang","LMFG",5,12,"joke",2.496555
+"LHLang","LIFG orb",6,12,"joke",1.927422
+"LHLang","LPost Temp",1,12,"lit",1.737995
+"LHLang","LAnt Temp",2,12,"lit",1.230561
+"LHLang","LAngG",3,12,"lit",1.539608
+"LHLang","LIFG",4,12,"lit",1.533967
+"LHLang","LMFG",5,12,"lit",2.543195
+"LHLang","LIFG orb",6,12,"lit",2.020247
+"LHLang","LPost Temp",1,12,"joke-lit",-0.057058
+"LHLang","LAnt Temp",2,12,"joke-lit",0.084345
+"LHLang","LAngG",3,12,"joke-lit",0.218622
+"LHLang","LIFG",4,12,"joke-lit",-0.052488
+"LHLang","LMFG",5,12,"joke-lit",-0.04664
+"LHLang","LIFG orb",6,12,"joke-lit",-0.092825
+"MDLeft","LIFG op",1,1,"joke",1.483152
+"MDRight","RIFG op",2,1,"joke",1.43058
+"MDLeft","LMFG",3,1,"joke",0.969636
+"MDRight","RMFG",4,1,"joke",1.089089
+"MDLeft","LMFG orb",5,1,"joke",0.158769
+"MDRight","RMFG orb",6,1,"joke",0.20806
+"MDLeft","LPrecG",7,1,"joke",2.1911
+"MDRight","RPrecG",8,1,"joke",0.67418
+"MDLeft","LInsula",9,1,"joke",0.876826
+"MDRight","RInsula",10,1,"joke",0.921694
+"MDLeft","LSMA",11,1,"joke",1.405371
+"MDRight","RSMA",12,1,"joke",1.431166
+"MDLeft","LPar Inf",13,1,"joke",0.616473
+"MDRight","RPar Inf",14,1,"joke",0.537586
+"MDLeft","LPar Sup",15,1,"joke",0.3741
+"MDRight","RPar Sup",16,1,"joke",0.472157
+"MDLeft","LACC",17,1,"joke",0.355901
+"MDRight","RACC",18,1,"joke",0.651534
+"MDLeft","LIFG op",1,1,"lit",1.332294
+"MDRight","RIFG op",2,1,"lit",1.377182
+"MDLeft","LMFG",3,1,"lit",0.617558
+"MDRight","RMFG",4,1,"lit",0.703057
+"MDLeft","LMFG orb",5,1,"lit",-0.073259
+"MDRight","RMFG orb",6,1,"lit",0.230088
+"MDLeft","LPrecG",7,1,"lit",1.951582
+"MDRight","RPrecG",8,1,"lit",0.466375
+"MDLeft","LInsula",9,1,"lit",0.651795
+"MDRight","RInsula",10,1,"lit",0.766586
+"MDLeft","LSMA",11,1,"lit",1.240477
+"MDRight","RSMA",12,1,"lit",1.308011
+"MDLeft","LPar Inf",13,1,"lit",0.322926
+"MDRight","RPar Inf",14,1,"lit",0.179134
+"MDLeft","LPar Sup",15,1,"lit",0.151177
+"MDRight","RPar Sup",16,1,"lit",0.18483
+"MDLeft","LACC",17,1,"lit",0.072816
+"MDRight","RACC",18,1,"lit",0.400671
+"MDLeft","LIFG op",1,1,"joke-lit",0.150858
+"MDRight","RIFG op",2,1,"joke-lit",0.053398
+"MDLeft","LMFG",3,1,"joke-lit",0.352078
+"MDRight","RMFG",4,1,"joke-lit",0.386033
+"MDLeft","LMFG orb",5,1,"joke-lit",0.232028
+"MDRight","RMFG orb",6,1,"joke-lit",-0.022028
+"MDLeft","LPrecG",7,1,"joke-lit",0.239519
+"MDRight","RPrecG",8,1,"joke-lit",0.207805
+"MDLeft","LInsula",9,1,"joke-lit",0.225031
+"MDRight","RInsula",10,1,"joke-lit",0.155107
+"MDLeft","LSMA",11,1,"joke-lit",0.164894
+"MDRight","RSMA",12,1,"joke-lit",0.123154
+"MDLeft","LPar Inf",13,1,"joke-lit",0.293547
+"MDRight","RPar Inf",14,1,"joke-lit",0.358452
+"MDLeft","LPar Sup",15,1,"joke-lit",0.222924
+"MDRight","RPar Sup",16,1,"joke-lit",0.287327
+"MDLeft","LACC",17,1,"joke-lit",0.283085
+"MDRight","RACC",18,1,"joke-lit",0.250863
+"MDLeft","LIFG op",1,2,"joke",0.69052
+"MDRight","RIFG op",2,2,"joke",0.27742
+"MDLeft","LMFG",3,2,"joke",0.602956
+"MDRight","RMFG",4,2,"joke",0.450659
+"MDLeft","LMFG orb",5,2,"joke",0.34449
+"MDRight","RMFG orb",6,2,"joke",0.13265
+"MDLeft","LPrecG",7,2,"joke",0.460125
+"MDRight","RPrecG",8,2,"joke",0.5321
+"MDLeft","LInsula",9,2,"joke",0.839441
+"MDRight","RInsula",10,2,"joke",0.762399
+"MDLeft","LSMA",11,2,"joke",1.68338
+"MDRight","RSMA",12,2,"joke",0.654774
+"MDLeft","LPar Inf",13,2,"joke",-0.070235
+"MDRight","RPar Inf",14,2,"joke",-0.578332
+"MDLeft","LPar Sup",15,2,"joke",0.739121
+"MDRight","RPar Sup",16,2,"joke",-0.437421
+"MDLeft","LACC",17,2,"joke",0.682185
+"MDRight","RACC",18,2,"joke",0.831722
+"MDLeft","LIFG op",1,2,"lit",0.714686
+"MDRight","RIFG op",2,2,"lit",0.383441
+"MDLeft","LMFG",3,2,"lit",0.571075
+"MDRight","RMFG",4,2,"lit",0.382337
+"MDLeft","LMFG orb",5,2,"lit",0.187123
+"MDRight","RMFG orb",6,2,"lit",0.145297
+"MDLeft","LPrecG",7,2,"lit",0.398591
+"MDRight","RPrecG",8,2,"lit",0.625422
+"MDLeft","LInsula",9,2,"lit",0.930752
+"MDRight","RInsula",10,2,"lit",0.923244
+"MDLeft","LSMA",11,2,"lit",1.902488
+"MDRight","RSMA",12,2,"lit",0.716571
+"MDLeft","LPar Inf",13,2,"lit",-0.101798
+"MDRight","RPar Inf",14,2,"lit",-0.959889
+"MDLeft","LPar Sup",15,2,"lit",0.760696
+"MDRight","RPar Sup",16,2,"lit",-0.653849
+"MDLeft","LACC",17,2,"lit",0.653883
+"MDRight","RACC",18,2,"lit",0.857746
+"MDLeft","LIFG op",1,2,"joke-lit",-0.024166
+"MDRight","RIFG op",2,2,"joke-lit",-0.106021
+"MDLeft","LMFG",3,2,"joke-lit",0.031881
+"MDRight","RMFG",4,2,"joke-lit",0.068322
+"MDLeft","LMFG orb",5,2,"joke-lit",0.157367
+"MDRight","RMFG orb",6,2,"joke-lit",-0.012647
+"MDLeft","LPrecG",7,2,"joke-lit",0.061534
+"MDRight","RPrecG",8,2,"joke-lit",-0.093322
+"MDLeft","LInsula",9,2,"joke-lit",-0.091312
+"MDRight","RInsula",10,2,"joke-lit",-0.160846
+"MDLeft","LSMA",11,2,"joke-lit",-0.219108
+"MDRight","RSMA",12,2,"joke-lit",-0.061797
+"MDLeft","LPar Inf",13,2,"joke-lit",0.031562
+"MDRight","RPar Inf",14,2,"joke-lit",0.381557
+"MDLeft","LPar Sup",15,2,"joke-lit",-0.021575
+"MDRight","RPar Sup",16,2,"joke-lit",0.216429
+"MDLeft","LACC",17,2,"joke-lit",0.028302
+"MDRight","RACC",18,2,"joke-lit",-0.026024
+"MDLeft","LIFG op",1,3,"joke",0.960269
+"MDRight","RIFG op",2,3,"joke",1.633429
+"MDLeft","LMFG",3,3,"joke",0.538425
+"MDRight","RMFG",4,3,"joke",0.867794
+"MDLeft","LMFG orb",5,3,"joke",0.072293
+"MDRight","RMFG orb",6,3,"joke",0.448054
+"MDLeft","LPrecG",7,3,"joke",1.171132
+"MDRight","RPrecG",8,3,"joke",0.856978
+"MDLeft","LInsula",9,3,"joke",0.554621
+"MDRight","RInsula",10,3,"joke",0.407821
+"MDLeft","LSMA",11,3,"joke",0.686776
+"MDRight","RSMA",12,3,"joke",1.158985
+"MDLeft","LPar Inf",13,3,"joke",0.7107
+"MDRight","RPar Inf",14,3,"joke",0.704608
+"MDLeft","LPar Sup",15,3,"joke",1.117874
+"MDRight","RPar Sup",16,3,"joke",0.640638
+"MDLeft","LACC",17,3,"joke",0.330967
+"MDRight","RACC",18,3,"joke",0.570887
+"MDLeft","LIFG op",1,3,"lit",0.833914
+"MDRight","RIFG op",2,3,"lit",1.892878
+"MDLeft","LMFG",3,3,"lit",0.197767
+"MDRight","RMFG",4,3,"lit",0.701357
+"MDLeft","LMFG orb",5,3,"lit",-0.547911
+"MDRight","RMFG orb",6,3,"lit",0.327644
+"MDLeft","LPrecG",7,3,"lit",0.91301
+"MDRight","RPrecG",8,3,"lit",0.738005
+"MDLeft","LInsula",9,3,"lit",0.465127
+"MDRight","RInsula",10,3,"lit",0.67048
+"MDLeft","LSMA",11,3,"lit",0.655169
+"MDRight","RSMA",12,3,"lit",1.253279
+"MDLeft","LPar Inf",13,3,"lit",0.505542
+"MDRight","RPar Inf",14,3,"lit",0.214572
+"MDLeft","LPar Sup",15,3,"lit",0.953217
+"MDRight","RPar Sup",16,3,"lit",0.542406
+"MDLeft","LACC",17,3,"lit",0.126012
+"MDRight","RACC",18,3,"lit",0.467754
+"MDLeft","LIFG op",1,3,"joke-lit",0.126355
+"MDRight","RIFG op",2,3,"joke-lit",-0.259449
+"MDLeft","LMFG",3,3,"joke-lit",0.340659
+"MDRight","RMFG",4,3,"joke-lit",0.166438
+"MDLeft","LMFG orb",5,3,"joke-lit",0.620204
+"MDRight","RMFG orb",6,3,"joke-lit",0.12041
+"MDLeft","LPrecG",7,3,"joke-lit",0.258122
+"MDRight","RPrecG",8,3,"joke-lit",0.118973
+"MDLeft","LInsula",9,3,"joke-lit",0.089495
+"MDRight","RInsula",10,3,"joke-lit",-0.262659
+"MDLeft","LSMA",11,3,"joke-lit",0.031607
+"MDRight","RSMA",12,3,"joke-lit",-0.094294
+"MDLeft","LPar Inf",13,3,"joke-lit",0.205157
+"MDRight","RPar Inf",14,3,"joke-lit",0.490036
+"MDLeft","LPar Sup",15,3,"joke-lit",0.164657
+"MDRight","RPar Sup",16,3,"joke-lit",0.098231
+"MDLeft","LACC",17,3,"joke-lit",0.204956
+"MDRight","RACC",18,3,"joke-lit",0.103133
+"MDLeft","LIFG op",1,4,"joke",-0.13892
+"MDRight","RIFG op",2,4,"joke",-0.141901
+"MDLeft","LMFG",3,4,"joke",0.662252
+"MDRight","RMFG",4,4,"joke",-0.38015
+"MDLeft","LMFG orb",5,4,"joke",1.655371
+"MDRight","RMFG orb",6,4,"joke",0.285824
+"MDLeft","LPrecG",7,4,"joke",0.324793
+"MDRight","RPrecG",8,4,"joke",-0.123136
+"MDLeft","LInsula",9,4,"joke",0.044213
+"MDRight","RInsula",10,4,"joke",-0.120439
+"MDLeft","LSMA",11,4,"joke",0.409908
+"MDRight","RSMA",12,4,"joke",0.413031
+"MDLeft","LPar Inf",13,4,"joke",0.007555
+"MDRight","RPar Inf",14,4,"joke",-0.213581
+"MDLeft","LPar Sup",15,4,"joke",0.412077
+"MDRight","RPar Sup",16,4,"joke",-0.044594
+"MDLeft","LACC",17,4,"joke",-0.397251
+"MDRight","RACC",18,4,"joke",-0.066054
+"MDLeft","LIFG op",1,4,"lit",-0.42393
+"MDRight","RIFG op",2,4,"lit",-0.258247
+"MDLeft","LMFG",3,4,"lit",0.588528
+"MDRight","RMFG",4,4,"lit",-0.114874
+"MDLeft","LMFG orb",5,4,"lit",0.982157
+"MDRight","RMFG orb",6,4,"lit",0.308587
+"MDLeft","LPrecG",7,4,"lit",0.24274
+"MDRight","RPrecG",8,4,"lit",-0.08122
+"MDLeft","LInsula",9,4,"lit",-0.169891
+"MDRight","RInsula",10,4,"lit",-0.18386
+"MDLeft","LSMA",11,4,"lit",0.213402
+"MDRight","RSMA",12,4,"lit",0.198294
+"MDLeft","LPar Inf",13,4,"lit",0.046705
+"MDRight","RPar Inf",14,4,"lit",-0.158765
+"MDLeft","LPar Sup",15,4,"lit",0.430743
+"MDRight","RPar Sup",16,4,"lit",0.111886
+"MDLeft","LACC",17,4,"lit",-0.511559
+"MDRight","RACC",18,4,"lit",-0.131502
+"MDLeft","LIFG op",1,4,"joke-lit",0.28501
+"MDRight","RIFG op",2,4,"joke-lit",0.116345
+"MDLeft","LMFG",3,4,"joke-lit",0.073724
+"MDRight","RMFG",4,4,"joke-lit",-0.265276
+"MDLeft","LMFG orb",5,4,"joke-lit",0.673214
+"MDRight","RMFG orb",6,4,"joke-lit",-0.022763
+"MDLeft","LPrecG",7,4,"joke-lit",0.082053
+"MDRight","RPrecG",8,4,"joke-lit",-0.041916
+"MDLeft","LInsula",9,4,"joke-lit",0.214104
+"MDRight","RInsula",10,4,"joke-lit",0.063421
+"MDLeft","LSMA",11,4,"joke-lit",0.196506
+"MDRight","RSMA",12,4,"joke-lit",0.214736
+"MDLeft","LPar Inf",13,4,"joke-lit",-0.039149
+"MDRight","RPar Inf",14,4,"joke-lit",-0.054816
+"MDLeft","LPar Sup",15,4,"joke-lit",-0.018667
+"MDRight","RPar Sup",16,4,"joke-lit",-0.15648
+"MDLeft","LACC",17,4,"joke-lit",0.114307
+"MDRight","RACC",18,4,"joke-lit",0.065448
+"MDLeft","LIFG op",1,5,"joke",1.325206
+"MDRight","RIFG op",2,5,"joke",0.389872
+"MDLeft","LMFG",3,5,"joke",0.892592
+"MDRight","RMFG",4,5,"joke",0.501635
+"MDLeft","LMFG orb",5,5,"joke",0.438359
+"MDRight","RMFG orb",6,5,"joke",0.748582
+"MDLeft","LPrecG",7,5,"joke",1.834762
+"MDRight","RPrecG",8,5,"joke",0.724404
+"MDLeft","LInsula",9,5,"joke",0.719788
+"MDRight","RInsula",10,5,"joke",0.680284
+"MDLeft","LSMA",11,5,"joke",1.424956
+"MDRight","RSMA",12,5,"joke",1.126949
+"MDLeft","LPar Inf",13,5,"joke",0.712619
+"MDRight","RPar Inf",14,5,"joke",0.379478
+"MDLeft","LPar Sup",15,5,"joke",1.249153
+"MDRight","RPar Sup",16,5,"joke",1.312161
+"MDLeft","LACC",17,5,"joke",1.086402
+"MDRight","RACC",18,5,"joke",1.104537
+"MDLeft","LIFG op",1,5,"lit",0.812346
+"MDRight","RIFG op",2,5,"lit",0.18198
+"MDLeft","LMFG",3,5,"lit",0.485801
+"MDRight","RMFG",4,5,"lit",0.414271
+"MDLeft","LMFG orb",5,5,"lit",0.308135
+"MDRight","RMFG orb",6,5,"lit",0.889201
+"MDLeft","LPrecG",7,5,"lit",1.598848
+"MDRight","RPrecG",8,5,"lit",0.60004
+"MDLeft","LInsula",9,5,"lit",0.542901
+"MDRight","RInsula",10,5,"lit",0.555754
+"MDLeft","LSMA",11,5,"lit",1.228079
+"MDRight","RSMA",12,5,"lit",1.066084
+"MDLeft","LPar Inf",13,5,"lit",0.47336
+"MDRight","RPar Inf",14,5,"lit",0.030799
+"MDLeft","LPar Sup",15,5,"lit",1.236079
+"MDRight","RPar Sup",16,5,"lit",1.340123
+"MDLeft","LACC",17,5,"lit",0.842906
+"MDRight","RACC",18,5,"lit",0.921649
+"MDLeft","LIFG op",1,5,"joke-lit",0.51286
+"MDRight","RIFG op",2,5,"joke-lit",0.207892
+"MDLeft","LMFG",3,5,"joke-lit",0.406792
+"MDRight","RMFG",4,5,"joke-lit",0.087365
+"MDLeft","LMFG orb",5,5,"joke-lit",0.130224
+"MDRight","RMFG orb",6,5,"joke-lit",-0.140618
+"MDLeft","LPrecG",7,5,"joke-lit",0.235914
+"MDRight","RPrecG",8,5,"joke-lit",0.124364
+"MDLeft","LInsula",9,5,"joke-lit",0.176887
+"MDRight","RInsula",10,5,"joke-lit",0.124529
+"MDLeft","LSMA",11,5,"joke-lit",0.196876
+"MDRight","RSMA",12,5,"joke-lit",0.060865
+"MDLeft","LPar Inf",13,5,"joke-lit",0.239259
+"MDRight","RPar Inf",14,5,"joke-lit",0.348679
+"MDLeft","LPar Sup",15,5,"joke-lit",0.013074
+"MDRight","RPar Sup",16,5,"joke-lit",-0.027962
+"MDLeft","LACC",17,5,"joke-lit",0.243496
+"MDRight","RACC",18,5,"joke-lit",0.182888
+"MDLeft","LIFG op",1,6,"joke",1.170779
+"MDRight","RIFG op",2,6,"joke",0.382809
+"MDLeft","LMFG",3,6,"joke",0.481105
+"MDRight","RMFG",4,6,"joke",0.488662
+"MDLeft","LMFG orb",5,6,"joke",0.030799
+"MDRight","RMFG orb",6,6,"joke",-0.053863
+"MDLeft","LPrecG",7,6,"joke",1.673868
+"MDRight","RPrecG",8,6,"joke",0.779975
+"MDLeft","LInsula",9,6,"joke",0.855334
+"MDRight","RInsula",10,6,"joke",0.547275
+"MDLeft","LSMA",11,6,"joke",1.616544
+"MDRight","RSMA",12,6,"joke",1.044903
+"MDLeft","LPar Inf",13,6,"joke",0.227622
+"MDRight","RPar Inf",14,6,"joke",0.456825
+"MDLeft","LPar Sup",15,6,"joke",0.852862
+"MDRight","RPar Sup",16,6,"joke",0.501658
+"MDLeft","LACC",17,6,"joke",1.066138
+"MDRight","RACC",18,6,"joke",0.308955
+"MDLeft","LIFG op",1,6,"lit",1.103316
+"MDRight","RIFG op",2,6,"lit",0.114964
+"MDLeft","LMFG",3,6,"lit",0.322543
+"MDRight","RMFG",4,6,"lit",0.265123
+"MDLeft","LMFG orb",5,6,"lit",0.022608
+"MDRight","RMFG orb",6,6,"lit",-0.069821
+"MDLeft","LPrecG",7,6,"lit",1.556733
+"MDRight","RPrecG",8,6,"lit",0.621819
+"MDLeft","LInsula",9,6,"lit",0.728242
+"MDRight","RInsula",10,6,"lit",0.584252
+"MDLeft","LSMA",11,6,"lit",1.405693
+"MDRight","RSMA",12,6,"lit",0.935938
+"MDLeft","LPar Inf",13,6,"lit",-0.022827
+"MDRight","RPar Inf",14,6,"lit",0.106289
+"MDLeft","LPar Sup",15,6,"lit",0.630294
+"MDRight","RPar Sup",16,6,"lit",0.155495
+"MDLeft","LACC",17,6,"lit",0.730499
+"MDRight","RACC",18,6,"lit",0.110742
+"MDLeft","LIFG op",1,6,"joke-lit",0.067464
+"MDRight","RIFG op",2,6,"joke-lit",0.267845
+"MDLeft","LMFG",3,6,"joke-lit",0.158562
+"MDRight","RMFG",4,6,"joke-lit",0.223539
+"MDLeft","LMFG orb",5,6,"joke-lit",0.008192
+"MDRight","RMFG orb",6,6,"joke-lit",0.015958
+"MDLeft","LPrecG",7,6,"joke-lit",0.117135
+"MDRight","RPrecG",8,6,"joke-lit",0.158156
+"MDLeft","LInsula",9,6,"joke-lit",0.127091
+"MDRight","RInsula",10,6,"joke-lit",-0.036977
+"MDLeft","LSMA",11,6,"joke-lit",0.21085
+"MDRight","RSMA",12,6,"joke-lit",0.108965
+"MDLeft","LPar Inf",13,6,"joke-lit",0.250449
+"MDRight","RPar Inf",14,6,"joke-lit",0.350535
+"MDLeft","LPar Sup",15,6,"joke-lit",0.222568
+"MDRight","RPar Sup",16,6,"joke-lit",0.346164
+"MDLeft","LACC",17,6,"joke-lit",0.335639
+"MDRight","RACC",18,6,"joke-lit",0.198213
+"MDLeft","LIFG op",1,7,"joke",0.580833
+"MDRight","RIFG op",2,7,"joke",0.258384
+"MDLeft","LMFG",3,7,"joke",-0.19582
+"MDRight","RMFG",4,7,"joke",-0.440872
+"MDLeft","LMFG orb",5,7,"joke",-0.096531
+"MDRight","RMFG orb",6,7,"joke",0.434992
+"MDLeft","LPrecG",7,7,"joke",0.99253
+"MDRight","RPrecG",8,7,"joke",0.082684
+"MDLeft","LInsula",9,7,"joke",0.275911
+"MDRight","RInsula",10,7,"joke",0.120557
+"MDLeft","LSMA",11,7,"joke",0.205075
+"MDRight","RSMA",12,7,"joke",0.141028
+"MDLeft","LPar Inf",13,7,"joke",0.093153
+"MDRight","RPar Inf",14,7,"joke",-0.339044
+"MDLeft","LPar Sup",15,7,"joke",0.123159
+"MDRight","RPar Sup",16,7,"joke",-0.18768
+"MDLeft","LACC",17,7,"joke",-0.605033
+"MDRight","RACC",18,7,"joke",-0.460071
+"MDLeft","LIFG op",1,7,"lit",0.770974
+"MDRight","RIFG op",2,7,"lit",0.590393
+"MDLeft","LMFG",3,7,"lit",0.268363
+"MDRight","RMFG",4,7,"lit",-0.136426
+"MDLeft","LMFG orb",5,7,"lit",0.455895
+"MDRight","RMFG orb",6,7,"lit",0.638886
+"MDLeft","LPrecG",7,7,"lit",0.957716
+"MDRight","RPrecG",8,7,"lit",0.031192
+"MDLeft","LInsula",9,7,"lit",0.428395
+"MDRight","RInsula",10,7,"lit",0.372704
+"MDLeft","LSMA",11,7,"lit",0.270545
+"MDRight","RSMA",12,7,"lit",0.313829
+"MDLeft","LPar Inf",13,7,"lit",0.045986
+"MDRight","RPar Inf",14,7,"lit",-0.376169
+"MDLeft","LPar Sup",15,7,"lit",0.107178
+"MDRight","RPar Sup",16,7,"lit",-0.148655
+"MDLeft","LACC",17,7,"lit",-0.100937
+"MDRight","RACC",18,7,"lit",-0.110876
+"MDLeft","LIFG op",1,7,"joke-lit",-0.190142
+"MDRight","RIFG op",2,7,"joke-lit",-0.33201
+"MDLeft","LMFG",3,7,"joke-lit",-0.464183
+"MDRight","RMFG",4,7,"joke-lit",-0.304446
+"MDLeft","LMFG orb",5,7,"joke-lit",-0.552426
+"MDRight","RMFG orb",6,7,"joke-lit",-0.203894
+"MDLeft","LPrecG",7,7,"joke-lit",0.034814
+"MDRight","RPrecG",8,7,"joke-lit",0.051493
+"MDLeft","LInsula",9,7,"joke-lit",-0.152484
+"MDRight","RInsula",10,7,"joke-lit",-0.252147
+"MDLeft","LSMA",11,7,"joke-lit",-0.06547
+"MDRight","RSMA",12,7,"joke-lit",-0.172801
+"MDLeft","LPar Inf",13,7,"joke-lit",0.047168
+"MDRight","RPar Inf",14,7,"joke-lit",0.037125
+"MDLeft","LPar Sup",15,7,"joke-lit",0.01598
+"MDRight","RPar Sup",16,7,"joke-lit",-0.039025
+"MDLeft","LACC",17,7,"joke-lit",-0.504097
+"MDRight","RACC",18,7,"joke-lit",-0.349195
+"MDLeft","LIFG op",1,8,"joke",1.392936
+"MDRight","RIFG op",2,8,"joke",0.857196
+"MDLeft","LMFG",3,8,"joke",0.303978
+"MDRight","RMFG",4,8,"joke",0.215748
+"MDLeft","LMFG orb",5,8,"joke",0.035891
+"MDRight","RMFG orb",6,8,"joke",-0.01469
+"MDLeft","LPrecG",7,8,"joke",1.073719
+"MDRight","RPrecG",8,8,"joke",0.250697
+"MDLeft","LInsula",9,8,"joke",0.602529
+"MDRight","RInsula",10,8,"joke",0.347761
+"MDLeft","LSMA",11,8,"joke",1.392773
+"MDRight","RSMA",12,8,"joke",1.135148
+"MDLeft","LPar Inf",13,8,"joke",0.536395
+"MDRight","RPar Inf",14,8,"joke",-0.134432
+"MDLeft","LPar Sup",15,8,"joke",0.21996
+"MDRight","RPar Sup",16,8,"joke",-0.030344
+"MDLeft","LACC",17,8,"joke",0.385891
+"MDRight","RACC",18,8,"joke",0.366819
+"MDLeft","LIFG op",1,8,"lit",1.267998
+"MDRight","RIFG op",2,8,"lit",1.139553
+"MDLeft","LMFG",3,8,"lit",-0.00519
+"MDRight","RMFG",4,8,"lit",-0.054828
+"MDLeft","LMFG orb",5,8,"lit",-0.084108
+"MDRight","RMFG orb",6,8,"lit",0.128293
+"MDLeft","LPrecG",7,8,"lit",1.068117
+"MDRight","RPrecG",8,8,"lit",0.159279
+"MDLeft","LInsula",9,8,"lit",0.379101
+"MDRight","RInsula",10,8,"lit",0.314125
+"MDLeft","LSMA",11,8,"lit",1.236329
+"MDRight","RSMA",12,8,"lit",1.07267
+"MDLeft","LPar Inf",13,8,"lit",0.353889
+"MDRight","RPar Inf",14,8,"lit",-0.489262
+"MDLeft","LPar Sup",15,8,"lit",0.039867
+"MDRight","RPar Sup",16,8,"lit",-0.010602
+"MDLeft","LACC",17,8,"lit",0.176789
+"MDRight","RACC",18,8,"lit",0.230423
+"MDLeft","LIFG op",1,8,"joke-lit",0.124938
+"MDRight","RIFG op",2,8,"joke-lit",-0.282356
+"MDLeft","LMFG",3,8,"joke-lit",0.309168
+"MDRight","RMFG",4,8,"joke-lit",0.270575
+"MDLeft","LMFG orb",5,8,"joke-lit",0.119999
+"MDRight","RMFG orb",6,8,"joke-lit",-0.142983
+"MDLeft","LPrecG",7,8,"joke-lit",0.005602
+"MDRight","RPrecG",8,8,"joke-lit",0.091419
+"MDLeft","LInsula",9,8,"joke-lit",0.223428
+"MDRight","RInsula",10,8,"joke-lit",0.033636
+"MDLeft","LSMA",11,8,"joke-lit",0.156445
+"MDRight","RSMA",12,8,"joke-lit",0.062478
+"MDLeft","LPar Inf",13,8,"joke-lit",0.182507
+"MDRight","RPar Inf",14,8,"joke-lit",0.35483
+"MDLeft","LPar Sup",15,8,"joke-lit",0.180093
+"MDRight","RPar Sup",16,8,"joke-lit",-0.019742
+"MDLeft","LACC",17,8,"joke-lit",0.209103
+"MDRight","RACC",18,8,"joke-lit",0.136397
+"MDLeft","LIFG op",1,9,"joke",0.159034
+"MDRight","RIFG op",2,9,"joke",0.05391
+"MDLeft","LMFG",3,9,"joke",0.44876
+"MDRight","RMFG",4,9,"joke",-0.004318
+"MDLeft","LMFG orb",5,9,"joke",0.172779
+"MDRight","RMFG orb",6,9,"joke",-0.203469
+"MDLeft","LPrecG",7,9,"joke",0.287246
+"MDRight","RPrecG",8,9,"joke",0.00535
+"MDLeft","LInsula",9,9,"joke",0.302298
+"MDRight","RInsula",10,9,"joke",0.081801
+"MDLeft","LSMA",11,9,"joke",1.099522
+"MDRight","RSMA",12,9,"joke",0.663131
+"MDLeft","LPar Inf",13,9,"joke",0.330382
+"MDRight","RPar Inf",14,9,"joke",0.298631
+"MDLeft","LPar Sup",15,9,"joke",0.013202
+"MDRight","RPar Sup",16,9,"joke",-0.037398
+"MDLeft","LACC",17,9,"joke",0.176997
+"MDRight","RACC",18,9,"joke",0.479716
+"MDLeft","LIFG op",1,9,"lit",0.03621
+"MDRight","RIFG op",2,9,"lit",0.034661
+"MDLeft","LMFG",3,9,"lit",0.249949
+"MDRight","RMFG",4,9,"lit",-0.13327
+"MDLeft","LMFG orb",5,9,"lit",-0.24414
+"MDRight","RMFG orb",6,9,"lit",-0.544662
+"MDLeft","LPrecG",7,9,"lit",0.213412
+"MDRight","RPrecG",8,9,"lit",-0.017832
+"MDLeft","LInsula",9,9,"lit",0.193959
+"MDRight","RInsula",10,9,"lit",0.012248
+"MDLeft","LSMA",11,9,"lit",0.697447
+"MDRight","RSMA",12,9,"lit",0.504411
+"MDLeft","LPar Inf",13,9,"lit",0.221836
+"MDRight","RPar Inf",14,9,"lit",0.245159
+"MDLeft","LPar Sup",15,9,"lit",-0.080365
+"MDRight","RPar Sup",16,9,"lit",-0.089653
+"MDLeft","LACC",17,9,"lit",0.02798
+"MDRight","RACC",18,9,"lit",0.38386
+"MDLeft","LIFG op",1,9,"joke-lit",0.122824
+"MDRight","RIFG op",2,9,"joke-lit",0.019248
+"MDLeft","LMFG",3,9,"joke-lit",0.198811
+"MDRight","RMFG",4,9,"joke-lit",0.128952
+"MDLeft","LMFG orb",5,9,"joke-lit",0.416919
+"MDRight","RMFG orb",6,9,"joke-lit",0.341193
+"MDLeft","LPrecG",7,9,"joke-lit",0.073834
+"MDRight","RPrecG",8,9,"joke-lit",0.023182
+"MDLeft","LInsula",9,9,"joke-lit",0.108339
+"MDRight","RInsula",10,9,"joke-lit",0.069553
+"MDLeft","LSMA",11,9,"joke-lit",0.402075
+"MDRight","RSMA",12,9,"joke-lit",0.15872
+"MDLeft","LPar Inf",13,9,"joke-lit",0.108546
+"MDRight","RPar Inf",14,9,"joke-lit",0.053472
+"MDLeft","LPar Sup",15,9,"joke-lit",0.093567
+"MDRight","RPar Sup",16,9,"joke-lit",0.052254
+"MDLeft","LACC",17,9,"joke-lit",0.149017
+"MDRight","RACC",18,9,"joke-lit",0.095855
+"MDLeft","LIFG op",1,10,"joke",1.012798
+"MDRight","RIFG op",2,10,"joke",1.383327
+"MDLeft","LMFG",3,10,"joke",-0.045433
+"MDRight","RMFG",4,10,"joke",0.188268
+"MDLeft","LMFG orb",5,10,"joke",0.019488
+"MDRight","RMFG orb",6,10,"joke",0.487659
+"MDLeft","LPrecG",7,10,"joke",1.753886
+"MDRight","RPrecG",8,10,"joke",1.045766
+"MDLeft","LInsula",9,10,"joke",0.589891
+"MDRight","RInsula",10,10,"joke",0.243973
+"MDLeft","LSMA",11,10,"joke",2.188535
+"MDRight","RSMA",12,10,"joke",1.081724
+"MDLeft","LPar Inf",13,10,"joke",1.087565
+"MDRight","RPar Inf",14,10,"joke",0.265761
+"MDLeft","LPar Sup",15,10,"joke",0.67638
+"MDRight","RPar Sup",16,10,"joke",0.782487
+"MDLeft","LACC",17,10,"joke",-0.290323
+"MDRight","RACC",18,10,"joke",0.208021
+"MDLeft","LIFG op",1,10,"lit",0.959828
+"MDRight","RIFG op",2,10,"lit",1.33769
+"MDLeft","LMFG",3,10,"lit",-0.691701
+"MDRight","RMFG",4,10,"lit",0.088356
+"MDLeft","LMFG orb",5,10,"lit",-0.276568
+"MDRight","RMFG orb",6,10,"lit",0.509087
+"MDLeft","LPrecG",7,10,"lit",1.695804
+"MDRight","RPrecG",8,10,"lit",0.847749
+"MDLeft","LInsula",9,10,"lit",0.316126
+"MDRight","RInsula",10,10,"lit",0.087849
+"MDLeft","LSMA",11,10,"lit",1.869677
+"MDRight","RSMA",12,10,"lit",0.972089
+"MDLeft","LPar Inf",13,10,"lit",0.772367
+"MDRight","RPar Inf",14,10,"lit",0.204214
+"MDLeft","LPar Sup",15,10,"lit",0.557222
+"MDRight","RPar Sup",16,10,"lit",0.713124
+"MDLeft","LACC",17,10,"lit",-0.578234
+"MDRight","RACC",18,10,"lit",0.006561
+"MDLeft","LIFG op",1,10,"joke-lit",0.05297
+"MDRight","RIFG op",2,10,"joke-lit",0.045638
+"MDLeft","LMFG",3,10,"joke-lit",0.646268
+"MDRight","RMFG",4,10,"joke-lit",0.099912
+"MDLeft","LMFG orb",5,10,"joke-lit",0.296056
+"MDRight","RMFG orb",6,10,"joke-lit",-0.021428
+"MDLeft","LPrecG",7,10,"joke-lit",0.058082
+"MDRight","RPrecG",8,10,"joke-lit",0.198017
+"MDLeft","LInsula",9,10,"joke-lit",0.273765
+"MDRight","RInsula",10,10,"joke-lit",0.156125
+"MDLeft","LSMA",11,10,"joke-lit",0.318858
+"MDRight","RSMA",12,10,"joke-lit",0.109635
+"MDLeft","LPar Inf",13,10,"joke-lit",0.315198
+"MDRight","RPar Inf",14,10,"joke-lit",0.061547
+"MDLeft","LPar Sup",15,10,"joke-lit",0.119159
+"MDRight","RPar Sup",16,10,"joke-lit",0.069363
+"MDLeft","LACC",17,10,"joke-lit",0.287911
+"MDRight","RACC",18,10,"joke-lit",0.201461
+"MDLeft","LIFG op",1,11,"joke",0.47737
+"MDRight","RIFG op",2,11,"joke",0.414269
+"MDLeft","LMFG",3,11,"joke",0.685179
+"MDRight","RMFG",4,11,"joke",0.191951
+"MDLeft","LMFG orb",5,11,"joke",1.769775
+"MDRight","RMFG orb",6,11,"joke",0.186768
+"MDLeft","LPrecG",7,11,"joke",0.315983
+"MDRight","RPrecG",8,11,"joke",0.032345
+"MDLeft","LInsula",9,11,"joke",0.214509
+"MDRight","RInsula",10,11,"joke",0.329596
+"MDLeft","LSMA",11,11,"joke",1.604773
+"MDRight","RSMA",12,11,"joke",0.860372
+"MDLeft","LPar Inf",13,11,"joke",0.356978
+"MDRight","RPar Inf",14,11,"joke",-0.320526
+"MDLeft","LPar Sup",15,11,"joke",0.643512
+"MDRight","RPar Sup",16,11,"joke",0.087654
+"MDLeft","LACC",17,11,"joke",-0.373874
+"MDRight","RACC",18,11,"joke",-0.215713
+"MDLeft","LIFG op",1,11,"lit",0.635494
+"MDRight","RIFG op",2,11,"lit",0.647827
+"MDLeft","LMFG",3,11,"lit",1.243026
+"MDRight","RMFG",4,11,"lit",0.608826
+"MDLeft","LMFG orb",5,11,"lit",2.647041
+"MDRight","RMFG orb",6,11,"lit",0.603191
+"MDLeft","LPrecG",7,11,"lit",0.370162
+"MDRight","RPrecG",8,11,"lit",0.528834
+"MDLeft","LInsula",9,11,"lit",0.363295
+"MDRight","RInsula",10,11,"lit",0.606607
+"MDLeft","LSMA",11,11,"lit",2.080555
+"MDRight","RSMA",12,11,"lit",1.048389
+"MDLeft","LPar Inf",13,11,"lit",0.548888
+"MDRight","RPar Inf",14,11,"lit",0.012392
+"MDLeft","LPar Sup",15,11,"lit",0.71269
+"MDRight","RPar Sup",16,11,"lit",0.419939
+"MDLeft","LACC",17,11,"lit",-0.155921
+"MDRight","RACC",18,11,"lit",0.032567
+"MDLeft","LIFG op",1,11,"joke-lit",-0.158124
+"MDRight","RIFG op",2,11,"joke-lit",-0.233559
+"MDLeft","LMFG",3,11,"joke-lit",-0.557847
+"MDRight","RMFG",4,11,"joke-lit",-0.416875
+"MDLeft","LMFG orb",5,11,"joke-lit",-0.877265
+"MDRight","RMFG orb",6,11,"joke-lit",-0.416423
+"MDLeft","LPrecG",7,11,"joke-lit",-0.054179
+"MDRight","RPrecG",8,11,"joke-lit",-0.496489
+"MDLeft","LInsula",9,11,"joke-lit",-0.148785
+"MDRight","RInsula",10,11,"joke-lit",-0.277011
+"MDLeft","LSMA",11,11,"joke-lit",-0.475783
+"MDRight","RSMA",12,11,"joke-lit",-0.188017
+"MDLeft","LPar Inf",13,11,"joke-lit",-0.19191
+"MDRight","RPar Inf",14,11,"joke-lit",-0.332918
+"MDLeft","LPar Sup",15,11,"joke-lit",-0.069177
+"MDRight","RPar Sup",16,11,"joke-lit",-0.332285
+"MDLeft","LACC",17,11,"joke-lit",-0.217954
+"MDRight","RACC",18,11,"joke-lit",-0.24828
+"MDLeft","LIFG op",1,12,"joke",1.628783
+"MDRight","RIFG op",2,12,"joke",0.762626
+"MDLeft","LMFG",3,12,"joke",1.268549
+"MDRight","RMFG",4,12,"joke",0.817062
+"MDLeft","LMFG orb",5,12,"joke",0.467403
+"MDRight","RMFG orb",6,12,"joke",0.655399
+"MDLeft","LPrecG",7,12,"joke",1.456069
+"MDRight","RPrecG",8,12,"joke",1.192003
+"MDLeft","LInsula",9,12,"joke",1.176229
+"MDRight","RInsula",10,12,"joke",0.702148
+"MDLeft","LSMA",11,12,"joke",2.10467
+"MDRight","RSMA",12,12,"joke",1.24784
+"MDLeft","LPar Inf",13,12,"joke",0.952203
+"MDRight","RPar Inf",14,12,"joke",0.566102
+"MDLeft","LPar Sup",15,12,"joke",1.329126
+"MDRight","RPar Sup",16,12,"joke",0.754242
+"MDLeft","LACC",17,12,"joke",1.559054
+"MDRight","RACC",18,12,"joke",1.122998
+"MDLeft","LIFG op",1,12,"lit",1.312593
+"MDRight","RIFG op",2,12,"lit",0.738212
+"MDLeft","LMFG",3,12,"lit",0.932612
+"MDRight","RMFG",4,12,"lit",0.732913
+"MDLeft","LMFG orb",5,12,"lit",0.359307
+"MDRight","RMFG orb",6,12,"lit",0.49684
+"MDLeft","LPrecG",7,12,"lit",1.301294
+"MDRight","RPrecG",8,12,"lit",1.154138
+"MDLeft","LInsula",9,12,"lit",0.860316
+"MDRight","RInsula",10,12,"lit",0.540829
+"MDLeft","LSMA",11,12,"lit",1.763033
+"MDRight","RSMA",12,12,"lit",1.048363
+"MDLeft","LPar Inf",13,12,"lit",0.816825
+"MDRight","RPar Inf",14,12,"lit",0.482379
+"MDLeft","LPar Sup",15,12,"lit",1.069282
+"MDRight","RPar Sup",16,12,"lit",0.708068
+"MDLeft","LACC",17,12,"lit",1.084463
+"MDRight","RACC",18,12,"lit",0.886289
+"MDLeft","LIFG op",1,12,"joke-lit",0.31619
+"MDRight","RIFG op",2,12,"joke-lit",0.024414
+"MDLeft","LMFG",3,12,"joke-lit",0.335936
+"MDRight","RMFG",4,12,"joke-lit",0.084149
+"MDLeft","LMFG orb",5,12,"joke-lit",0.108096
+"MDRight","RMFG orb",6,12,"joke-lit",0.158559
+"MDLeft","LPrecG",7,12,"joke-lit",0.154775
+"MDRight","RPrecG",8,12,"joke-lit",0.037866
+"MDLeft","LInsula",9,12,"joke-lit",0.315913
+"MDRight","RInsula",10,12,"joke-lit",0.161319
+"MDLeft","LSMA",11,12,"joke-lit",0.341637
+"MDRight","RSMA",12,12,"joke-lit",0.199477
+"MDLeft","LPar Inf",13,12,"joke-lit",0.135378
+"MDRight","RPar Inf",14,12,"joke-lit",0.083722
+"MDLeft","LPar Sup",15,12,"joke-lit",0.259844
+"MDRight","RPar Sup",16,12,"joke-lit",0.046174
+"MDLeft","LACC",17,12,"joke-lit",0.474591
+"MDRight","RACC",18,12,"joke-lit",0.236709
+"ToM","DM PFC",1,1,"joke",1.557441
+"ToM","LTPJ",2,1,"joke",0.319865
+"ToM","MM PFC",3,1,"joke",0.013194
+"ToM","PC",4,1,"joke",-0.021808
+"ToM","RTPJ",5,1,"joke",0.071869
+"ToM","RSTS",7,1,"joke",0.297458
+"ToM","DM PFC",1,1,"lit",1.40271
+"ToM","LTPJ",2,1,"lit",0.229798
+"ToM","MM PFC",3,1,"lit",-0.430563
+"ToM","PC",4,1,"lit",-0.237655
+"ToM","RTPJ",5,1,"lit",-0.120294
+"ToM","RSTS",7,1,"lit",0.114143
+"ToM","DM PFC",1,1,"joke-lit",0.154731
+"ToM","LTPJ",2,1,"joke-lit",0.090067
+"ToM","MM PFC",3,1,"joke-lit",0.443757
+"ToM","PC",4,1,"joke-lit",0.215847
+"ToM","RTPJ",5,1,"joke-lit",0.192163
+"ToM","RSTS",7,1,"joke-lit",0.183316
+"ToM","DM PFC",1,2,"joke",0.504243
+"ToM","LTPJ",2,2,"joke",0.42261
+"ToM","MM PFC",3,2,"joke",-0.137268
+"ToM","PC",4,2,"joke",0.065792
+"ToM","RTPJ",5,2,"joke",0.103543
+"ToM","RSTS",7,2,"joke",0.492773
+"ToM","DM PFC",1,2,"lit",0.569899
+"ToM","LTPJ",2,2,"lit",0.3581
+"ToM","MM PFC",3,2,"lit",-0.493862
+"ToM","PC",4,2,"lit",-0.022212
+"ToM","RTPJ",5,2,"lit",0.160711
+"ToM","RSTS",7,2,"lit",0.58417
+"ToM","DM PFC",1,2,"joke-lit",-0.065657
+"ToM","LTPJ",2,2,"joke-lit",0.06451
+"ToM","MM PFC",3,2,"joke-lit",0.356594
+"ToM","PC",4,2,"joke-lit",0.088004
+"ToM","RTPJ",5,2,"joke-lit",-0.057168
+"ToM","RSTS",7,2,"joke-lit",-0.091397
+"ToM","DM PFC",1,3,"joke",0.519893
+"ToM","LTPJ",2,3,"joke",0.056116
+"ToM","MM PFC",3,3,"joke",0.060522
+"ToM","PC",4,3,"joke",0.037049
+"ToM","RTPJ",5,3,"joke",0.163833
+"ToM","RSTS",7,3,"joke",0.080908
+"ToM","DM PFC",1,3,"lit",0.098289
+"ToM","LTPJ",2,3,"lit",-0.251284
+"ToM","MM PFC",3,3,"lit",-0.133653
+"ToM","PC",4,3,"lit",-0.219522
+"ToM","RTPJ",5,3,"lit",0.04865
+"ToM","RSTS",7,3,"lit",-0.005071
+"ToM","DM PFC",1,3,"joke-lit",0.421604
+"ToM","LTPJ",2,3,"joke-lit",0.3074
+"ToM","MM PFC",3,3,"joke-lit",0.194175
+"ToM","PC",4,3,"joke-lit",0.25657
+"ToM","RTPJ",5,3,"joke-lit",0.115183
+"ToM","RSTS",7,3,"joke-lit",0.085979
+"ToM","DM PFC",1,4,"joke",-0.056584
+"ToM","LTPJ",2,4,"joke",0.855038
+"ToM","MM PFC",3,4,"joke",0.386472
+"ToM","PC",4,4,"joke",0.250964
+"ToM","RTPJ",5,4,"joke",0.085078
+"ToM","RSTS",7,4,"joke",0.40728
+"ToM","DM PFC",1,4,"lit",-0.138515
+"ToM","LTPJ",2,4,"lit",0.686394
+"ToM","MM PFC",3,4,"lit",0.319656
+"ToM","PC",4,4,"lit",0.158318
+"ToM","RTPJ",5,4,"lit",-0.030764
+"ToM","RSTS",7,4,"lit",0.281052
+"ToM","DM PFC",1,4,"joke-lit",0.081931
+"ToM","LTPJ",2,4,"joke-lit",0.168645
+"ToM","MM PFC",3,4,"joke-lit",0.066816
+"ToM","PC",4,4,"joke-lit",0.092646
+"ToM","RTPJ",5,4,"joke-lit",0.115842
+"ToM","RSTS",7,4,"joke-lit",0.126228
+"ToM","DM PFC",1,5,"joke",0.122145
+"ToM","LTPJ",2,5,"joke",0.322294
+"ToM","MM PFC",3,5,"joke",0.046985
+"ToM","PC",4,5,"joke",-0.01777
+"ToM","RTPJ",5,5,"joke",0.103643
+"ToM","RSTS",7,5,"joke",0.162122
+"ToM","DM PFC",1,5,"lit",0.03604
+"ToM","LTPJ",2,5,"lit",0.285254
+"ToM","MM PFC",3,5,"lit",-0.088994
+"ToM","PC",4,5,"lit",0.033073
+"ToM","RTPJ",5,5,"lit",0.090922
+"ToM","RSTS",7,5,"lit",0.207606
+"ToM","DM PFC",1,5,"joke-lit",0.086105
+"ToM","LTPJ",2,5,"joke-lit",0.03704
+"ToM","MM PFC",3,5,"joke-lit",0.135979
+"ToM","PC",4,5,"joke-lit",-0.050844
+"ToM","RTPJ",5,5,"joke-lit",0.01272
+"ToM","RSTS",7,5,"joke-lit",-0.045483
+"ToM","DM PFC",1,6,"joke",0.919579
+"ToM","LTPJ",2,6,"joke",0.550602
+"ToM","MM PFC",3,6,"joke",-0.08975
+"ToM","PC",4,6,"joke",-0.024874
+"ToM","RTPJ",5,6,"joke",0.180743
+"ToM","RSTS",7,6,"joke",0.384151
+"ToM","DM PFC",1,6,"lit",0.76507
+"ToM","LTPJ",2,6,"lit",0.37786
+"ToM","MM PFC",3,6,"lit",-0.349049
+"ToM","PC",4,6,"lit",-0.375514
+"ToM","RTPJ",5,6,"lit",-0.101071
+"ToM","RSTS",7,6,"lit",0.229269
+"ToM","DM PFC",1,6,"joke-lit",0.154509
+"ToM","LTPJ",2,6,"joke-lit",0.172742
+"ToM","MM PFC",3,6,"joke-lit",0.259299
+"ToM","PC",4,6,"joke-lit",0.35064
+"ToM","RTPJ",5,6,"joke-lit",0.281814
+"ToM","RSTS",7,6,"joke-lit",0.154882
+"ToM","DM PFC",1,7,"joke",-0.30342
+"ToM","LTPJ",2,7,"joke",0.238064
+"ToM","MM PFC",3,7,"joke",-0.307757
+"ToM","PC",4,7,"joke",-0.36601
+"ToM","RTPJ",5,7,"joke",-0.308336
+"ToM","RSTS",7,7,"joke",-0.227989
+"ToM","DM PFC",1,7,"lit",-0.024737
+"ToM","LTPJ",2,7,"lit",0.330174
+"ToM","MM PFC",3,7,"lit",-0.10892
+"ToM","PC",4,7,"lit",-0.220973
+"ToM","RTPJ",5,7,"lit",-0.240613
+"ToM","RSTS",7,7,"lit",-0.005767
+"ToM","DM PFC",1,7,"joke-lit",-0.278683
+"ToM","LTPJ",2,7,"joke-lit",-0.09211
+"ToM","MM PFC",3,7,"joke-lit",-0.198836
+"ToM","PC",4,7,"joke-lit",-0.145037
+"ToM","RTPJ",5,7,"joke-lit",-0.067723
+"ToM","RSTS",7,7,"joke-lit",-0.222222
+"ToM","DM PFC",1,8,"joke",0.266087
+"ToM","LTPJ",2,8,"joke",0.418915
+"ToM","MM PFC",3,8,"joke",-0.233988
+"ToM","PC",4,8,"joke",0.181473
+"ToM","RTPJ",5,8,"joke",-0.051848
+"ToM","RSTS",7,8,"joke",0.146185
+"ToM","DM PFC",1,8,"lit",0.217561
+"ToM","LTPJ",2,8,"lit",0.359153
+"ToM","MM PFC",3,8,"lit",-0.341632
+"ToM","PC",4,8,"lit",-0.060155
+"ToM","RTPJ",5,8,"lit",-0.323321
+"ToM","RSTS",7,8,"lit",0.015529
+"ToM","DM PFC",1,8,"joke-lit",0.048526
+"ToM","LTPJ",2,8,"joke-lit",0.059761
+"ToM","MM PFC",3,8,"joke-lit",0.107644
+"ToM","PC",4,8,"joke-lit",0.241628
+"ToM","RTPJ",5,8,"joke-lit",0.271474
+"ToM","RSTS",7,8,"joke-lit",0.130656
+"ToM","DM PFC",1,9,"joke",1.077979
+"ToM","LTPJ",2,9,"joke",0.984225
+"ToM","MM PFC",3,9,"joke",0.810545
+"ToM","PC",4,9,"joke",0.093261
+"ToM","RTPJ",5,9,"joke",0.205047
+"ToM","RSTS",7,9,"joke",0.375749
+"ToM","DM PFC",1,9,"lit",0.71627
+"ToM","LTPJ",2,9,"lit",0.839436
+"ToM","MM PFC",3,9,"lit",0.481139
+"ToM","PC",4,9,"lit",0.02391
+"ToM","RTPJ",5,9,"lit",0.155794
+"ToM","RSTS",7,9,"lit",0.271557
+"ToM","DM PFC",1,9,"joke-lit",0.361709
+"ToM","LTPJ",2,9,"joke-lit",0.14479
+"ToM","MM PFC",3,9,"joke-lit",0.329406
+"ToM","PC",4,9,"joke-lit",0.069351
+"ToM","RTPJ",5,9,"joke-lit",0.049253
+"ToM","RSTS",7,9,"joke-lit",0.104192
+"ToM","DM PFC",1,10,"joke",0.932409
+"ToM","LTPJ",2,10,"joke",0.388853
+"ToM","MM PFC",3,10,"joke",-0.113281
+"ToM","PC",4,10,"joke",-0.063321
+"ToM","RTPJ",5,10,"joke",0.272312
+"ToM","RSTS",7,10,"joke",0.382059
+"ToM","DM PFC",1,10,"lit",0.160284
+"ToM","LTPJ",2,10,"lit",0.236965
+"ToM","MM PFC",3,10,"lit",-0.836877
+"ToM","PC",4,10,"lit",-0.249133
+"ToM","RTPJ",5,10,"lit",-0.041346
+"ToM","RSTS",7,10,"lit",0.191917
+"ToM","DM PFC",1,10,"joke-lit",0.772126
+"ToM","LTPJ",2,10,"joke-lit",0.151888
+"ToM","MM PFC",3,10,"joke-lit",0.723595
+"ToM","PC",4,10,"joke-lit",0.185812
+"ToM","RTPJ",5,10,"joke-lit",0.313658
+"ToM","RSTS",7,10,"joke-lit",0.190141
+"ToM","DM PFC",1,11,"joke",0.722196
+"ToM","LTPJ",2,11,"joke",0.506996
+"ToM","MM PFC",3,11,"joke",-0.375537
+"ToM","PC",4,11,"joke",-0.106568
+"ToM","RTPJ",5,11,"joke",-0.229676
+"ToM","RSTS",7,11,"joke",0.037038
+"ToM","DM PFC",1,11,"lit",0.965552
+"ToM","LTPJ",2,11,"lit",0.537506
+"ToM","MM PFC",3,11,"lit",-0.877908
+"ToM","PC",4,11,"lit",-0.072221
+"ToM","RTPJ",5,11,"lit",-0.136788
+"ToM","RSTS",7,11,"lit",0.130322
+"ToM","DM PFC",1,11,"joke-lit",-0.243357
+"ToM","LTPJ",2,11,"joke-lit",-0.03051
+"ToM","MM PFC",3,11,"joke-lit",0.502371
+"ToM","PC",4,11,"joke-lit",-0.034347
+"ToM","RTPJ",5,11,"joke-lit",-0.092888
+"ToM","RSTS",7,11,"joke-lit",-0.093284
+"ToM","DM PFC",1,12,"joke",0.930452
+"ToM","LTPJ",2,12,"joke",1.407362
+"ToM","MM PFC",3,12,"joke",0.585798
+"ToM","PC",4,12,"joke",0.430363
+"ToM","RTPJ",5,12,"joke",1.03782
+"ToM","RSTS",7,12,"joke",0.494626
+"ToM","DM PFC",1,12,"lit",0.629423
+"ToM","LTPJ",2,12,"lit",1.126575
+"ToM","MM PFC",3,12,"lit",0.273889
+"ToM","PC",4,12,"lit",0.33008
+"ToM","RTPJ",5,12,"lit",0.695362
+"ToM","RSTS",7,12,"lit",0.45301
+"ToM","DM PFC",1,12,"joke-lit",0.30103
+"ToM","LTPJ",2,12,"joke-lit",0.280787
+"ToM","MM PFC",3,12,"joke-lit",0.31191
+"ToM","PC",4,12,"joke-lit",0.100283
+"ToM","RTPJ",5,12,"joke-lit",0.342459
+"ToM","RSTS",7,12,"joke-lit",0.041616
+"ToMCustom","DM PFC",1,1,"low",1.321377
+"ToMCustom","LTPJ",2,1,"low",0.217272
+"ToMCustom","MM PFC",3,1,"low",-0.413599
+"ToMCustom","PC",4,1,"low",-0.21771
+"ToMCustom","RTPJ",5,1,"low",-0.110854
+"ToMCustom","RSTS",7,1,"low",0.098782
+"ToMCustom","DM PFC",1,1,"med",1.711367
+"ToMCustom","LTPJ",2,1,"med",0.225644
+"ToMCustom","MM PFC",3,1,"med",-0.196834
+"ToMCustom","PC",4,1,"med",-0.14368
+"ToMCustom","RTPJ",5,1,"med",-0.062993
+"ToMCustom","RSTS",7,1,"med",0.197758
+"ToMCustom","DM PFC",1,1,"high",1.73981
+"ToMCustom","LTPJ",2,1,"high",0.372734
+"ToMCustom","MM PFC",3,1,"high",0.229905
+"ToMCustom","PC",4,1,"high",-0.005731
+"ToMCustom","RTPJ",5,1,"high",0.12674
+"ToMCustom","RSTS",7,1,"high",0.385151
+"ToMCustom","DM PFC",1,1,"other",0.579708
+"ToMCustom","LTPJ",2,1,"other",0.400139
+"ToMCustom","MM PFC",3,1,"other",-0.564674
+"ToMCustom","PC",4,1,"other",-0.012312
+"ToMCustom","RTPJ",5,1,"other",0.08857
+"ToMCustom","RSTS",7,1,"other",0.206633
+"ToMCustom","DM PFC",1,2,"low",0.635242
+"ToMCustom","LTPJ",2,2,"low",0.398213
+"ToMCustom","MM PFC",3,2,"low",-0.434371
+"ToMCustom","PC",4,2,"low",0.052518
+"ToMCustom","RTPJ",5,2,"low",0.179451
+"ToMCustom","RSTS",7,2,"low",0.574956
+"ToMCustom","DM PFC",1,2,"med",0.434923
+"ToMCustom","LTPJ",2,2,"med",0.293441
+"ToMCustom","MM PFC",3,2,"med",-0.352213
+"ToMCustom","PC",4,2,"med",0.005611
+"ToMCustom","RTPJ",5,2,"med",0.111887
+"ToMCustom","RSTS",7,2,"med",0.495005
+"ToMCustom","DM PFC",1,2,"high",0.660391
+"ToMCustom","LTPJ",2,2,"high",0.524411
+"ToMCustom","MM PFC",3,2,"high",0.190219
+"ToMCustom","PC",4,2,"high",0.081858
+"ToMCustom","RTPJ",5,2,"high",0.073861
+"ToMCustom","RSTS",7,2,"high",0.576326
+"ToMCustom","DM PFC",1,2,"other",0.416354
+"ToMCustom","LTPJ",2,2,"other",0.754704
+"ToMCustom","MM PFC",3,2,"other",-0.512734
+"ToMCustom","PC",4,2,"other",-0.064311
+"ToMCustom","RTPJ",5,2,"other",0.713395
+"ToMCustom","RSTS",7,2,"other",0.801301
+"ToMCustom","DM PFC",1,3,"low",0.410184
+"ToMCustom","LTPJ",2,3,"low",-0.186857
+"ToMCustom","MM PFC",3,3,"low",0.063408
+"ToMCustom","PC",4,3,"low",-0.231246
+"ToMCustom","RTPJ",5,3,"low",0.092667
+"ToMCustom","RSTS",7,3,"low",0.063089
+"ToMCustom","DM PFC",1,3,"med",0.441455
+"ToMCustom","LTPJ",2,3,"med",-0.051833
+"ToMCustom","MM PFC",3,3,"med",-0.020879
+"ToMCustom","PC",4,3,"med",-0.056161
+"ToMCustom","RTPJ",5,3,"med",0.105787
+"ToMCustom","RSTS",7,3,"med",0.023449
+"ToMCustom","DM PFC",1,3,"high",0.301948
+"ToMCustom","LTPJ",2,3,"high",0.08715
+"ToMCustom","MM PFC",3,3,"high",-0.034872
+"ToMCustom","PC",4,3,"high",0.093555
+"ToMCustom","RTPJ",5,3,"high",0.170793
+"ToMCustom","RSTS",7,3,"high",0.09356
+"ToMCustom","DM PFC",1,3,"other",-0.757201
+"ToMCustom","LTPJ",2,3,"other",-0.650247
+"ToMCustom","MM PFC",3,3,"other",-0.739535
+"ToMCustom","PC",4,3,"other",-0.607721
+"ToMCustom","RTPJ",5,3,"other",0.066658
+"ToMCustom","RSTS",7,3,"other",-0.081124
+"ToMCustom","DM PFC",1,4,"low",-0.25925
+"ToMCustom","LTPJ",2,4,"low",0.679432
+"ToMCustom","MM PFC",3,4,"low",0.252735
+"ToMCustom","PC",4,4,"low",0.130588
+"ToMCustom","RTPJ",5,4,"low",-0.062932
+"ToMCustom","RSTS",7,4,"low",0.249803
+"ToMCustom","DM PFC",1,4,"med",0.339267
+"ToMCustom","LTPJ",2,4,"med",0.899395
+"ToMCustom","MM PFC",3,4,"med",0.717865
+"ToMCustom","PC",4,4,"med",0.319279
+"ToMCustom","RTPJ",5,4,"med",0.135768
+"ToMCustom","RSTS",7,4,"med",0.484824
+"ToMCustom","DM PFC",1,4,"high",0.202012
+"ToMCustom","LTPJ",2,4,"high",1.263913
+"ToMCustom","MM PFC",3,4,"high",0.134862
+"ToMCustom","PC",4,4,"high",0.642945
+"ToMCustom","RTPJ",5,4,"high",0.464058
+"ToMCustom","RSTS",7,4,"high",0.910152
+"ToMCustom","DM PFC",1,4,"other",-0.714125
+"ToMCustom","LTPJ",2,4,"other",1.418728
+"ToMCustom","MM PFC",3,4,"other",0.064046
+"ToMCustom","PC",4,4,"other",0.459654
+"ToMCustom","RTPJ",5,4,"other",0.382176
+"ToMCustom","RSTS",7,4,"other",0.641517
+"ToMCustom","DM PFC",1,5,"low",-0.073352
+"ToMCustom","LTPJ",2,5,"low",0.037929
+"ToMCustom","MM PFC",3,5,"low",-0.17983
+"ToMCustom","PC",4,5,"low",-0.194187
+"ToMCustom","RTPJ",5,5,"low",-0.14226
+"ToMCustom","RSTS",7,5,"low",0.064315
+"ToMCustom","DM PFC",1,5,"med",0.178203
+"ToMCustom","LTPJ",2,5,"med",0.356964
+"ToMCustom","MM PFC",3,5,"med",0.051027
+"ToMCustom","PC",4,5,"med",0.074221
+"ToMCustom","RTPJ",5,5,"med",0.179746
+"ToMCustom","RSTS",7,5,"med",0.222671
+"ToMCustom","DM PFC",1,5,"high",0.244348
+"ToMCustom","LTPJ",2,5,"high",0.521708
+"ToMCustom","MM PFC",3,5,"high",0.257904
+"ToMCustom","PC",4,5,"high",0.13106
+"ToMCustom","RTPJ",5,5,"high",0.265229
+"ToMCustom","RSTS",7,5,"high",0.282673
+"ToMCustom","DM PFC",1,5,"other",0.261874
+"ToMCustom","LTPJ",2,5,"other",0.242802
+"ToMCustom","MM PFC",3,5,"other",-0.064655
+"ToMCustom","PC",4,5,"other",-0.077173
+"ToMCustom","RTPJ",5,5,"other",0.211031
+"ToMCustom","RSTS",7,5,"other",0.146536
+"ToMCustom","DM PFC",1,6,"low",0.793488
+"ToMCustom","LTPJ",2,6,"low",0.382982
+"ToMCustom","MM PFC",3,6,"low",-0.438391
+"ToMCustom","PC",4,6,"low",-0.335013
+"ToMCustom","RTPJ",5,6,"low",-0.077599
+"ToMCustom","RSTS",7,6,"low",0.183364
+"ToMCustom","DM PFC",1,6,"med",0.966785
+"ToMCustom","LTPJ",2,6,"med",0.510606
+"ToMCustom","MM PFC",3,6,"med",0.238156
+"ToMCustom","PC",4,6,"med",-0.041877
+"ToMCustom","RTPJ",5,6,"med",0.153285
+"ToMCustom","RSTS",7,6,"med",0.521386
+"ToMCustom","DM PFC",1,6,"high",0.208243
+"ToMCustom","LTPJ",2,6,"high",0.722449
+"ToMCustom","MM PFC",3,6,"high",0.263892
+"ToMCustom","PC",4,6,"high",-0.099958
+"ToMCustom","RTPJ",5,6,"high",-0.252934
+"ToMCustom","RSTS",7,6,"high",0.30113
+"ToMCustom","DM PFC",1,6,"other",-0.164379
+"ToMCustom","LTPJ",2,6,"other",0.229349
+"ToMCustom","MM PFC",3,6,"other",-1.100214
+"ToMCustom","PC",4,6,"other",-0.507395
+"ToMCustom","RTPJ",5,6,"other",-0.001179
+"ToMCustom","RSTS",7,6,"other",-0.064223
+"ToMCustom","DM PFC",1,7,"low",-0.249265
+"ToMCustom","LTPJ",2,7,"low",0.152005
+"ToMCustom","MM PFC",3,7,"low",-0.314308
+"ToMCustom","PC",4,7,"low",-0.468097
+"ToMCustom","RTPJ",5,7,"low",-0.424252
+"ToMCustom","RSTS",7,7,"low",-0.154536
+"ToMCustom","DM PFC",1,7,"med",-0.342185
+"ToMCustom","LTPJ",2,7,"med",0.158813
+"ToMCustom","MM PFC",3,7,"med",-0.269299
+"ToMCustom","PC",4,7,"med",-0.443148
+"ToMCustom","RTPJ",5,7,"med",-0.384792
+"ToMCustom","RSTS",7,7,"med",-0.34084
+"ToMCustom","DM PFC",1,7,"high",-1.10034
+"ToMCustom","LTPJ",2,7,"high",0.607559
+"ToMCustom","MM PFC",3,7,"high",-0.737635
+"ToMCustom","PC",4,7,"high",-0.261599
+"ToMCustom","RTPJ",5,7,"high",-0.275543
+"ToMCustom","RSTS",7,7,"high",-0.277173
+"ToMCustom","DM PFC",1,7,"other",-0.200307
+"ToMCustom","LTPJ",2,7,"other",0.776524
+"ToMCustom","MM PFC",3,7,"other",-0.215017
+"ToMCustom","PC",4,7,"other",0.072931
+"ToMCustom","RTPJ",5,7,"other",0.072826
+"ToMCustom","RSTS",7,7,"other",0.032997
+"ToMCustom","DM PFC",1,8,"low",0.31839
+"ToMCustom","LTPJ",2,8,"low",0.465425
+"ToMCustom","MM PFC",3,8,"low",-0.322797
+"ToMCustom","PC",4,8,"low",0.049482
+"ToMCustom","RTPJ",5,8,"low",-0.287301
+"ToMCustom","RSTS",7,8,"low",0.06776
+"ToMCustom","DM PFC",1,8,"med",0.316723
+"ToMCustom","LTPJ",2,8,"med",0.344766
+"ToMCustom","MM PFC",3,8,"med",-0.152934
+"ToMCustom","PC",4,8,"med",0.097039
+"ToMCustom","RTPJ",5,8,"med",-0.132652
+"ToMCustom","RSTS",7,8,"med",0.125451
+"ToMCustom","DM PFC",1,8,"high",0.800445
+"ToMCustom","LTPJ",2,8,"high",0.841694
+"ToMCustom","MM PFC",3,8,"high",0.087571
+"ToMCustom","PC",4,8,"high",0.37461
+"ToMCustom","RTPJ",5,8,"high",0.321608
+"ToMCustom","RSTS",7,8,"high",0.36331
+"ToMCustom","DM PFC",1,8,"other",0.095017
+"ToMCustom","LTPJ",2,8,"other",0.316229
+"ToMCustom","MM PFC",3,8,"other",-0.394614
+"ToMCustom","PC",4,8,"other",0.02984
+"ToMCustom","RTPJ",5,8,"other",-0.071129
+"ToMCustom","RSTS",7,8,"other",-0.083093
+"ToMCustom","DM PFC",1,9,"low",0.475061
+"ToMCustom","LTPJ",2,9,"low",0.724083
+"ToMCustom","MM PFC",3,9,"low",0.247298
+"ToMCustom","PC",4,9,"low",-0.041483
+"ToMCustom","RTPJ",5,9,"low",0.051093
+"ToMCustom","RSTS",7,9,"low",0.225421
+"ToMCustom","DM PFC",1,9,"med",0.866038
+"ToMCustom","LTPJ",2,9,"med",0.873216
+"ToMCustom","MM PFC",3,9,"med",0.747246
+"ToMCustom","PC",4,9,"med",0.055194
+"ToMCustom","RTPJ",5,9,"med",0.215225
+"ToMCustom","RSTS",7,9,"med",0.287981
+"ToMCustom","DM PFC",1,9,"high",1.146754
+"ToMCustom","LTPJ",2,9,"high",1.048026
+"ToMCustom","MM PFC",3,9,"high",0.805188
+"ToMCustom","PC",4,9,"high",0.09813
+"ToMCustom","RTPJ",5,9,"high",0.195227
+"ToMCustom","RSTS",7,9,"high",0.335737
+"ToMCustom","DM PFC",1,9,"other",1.351008
+"ToMCustom","LTPJ",2,9,"other",1.238529
+"ToMCustom","MM PFC",3,9,"other",1.284536
+"ToMCustom","PC",4,9,"other",0.192288
+"ToMCustom","RTPJ",5,9,"other",0.557445
+"ToMCustom","RSTS",7,9,"other",0.619959
+"ToMCustom","DM PFC",1,10,"low",0.089135
+"ToMCustom","LTPJ",2,10,"low",0.119241
+"ToMCustom","MM PFC",3,10,"low",-0.885011
+"ToMCustom","PC",4,10,"low",-0.313792
+"ToMCustom","RTPJ",5,10,"low",-0.075344
+"ToMCustom","RSTS",7,10,"low",0.121629
+"ToMCustom","DM PFC",1,10,"med",0.745156
+"ToMCustom","LTPJ",2,10,"med",0.370635
+"ToMCustom","MM PFC",3,10,"med",-0.505809
+"ToMCustom","PC",4,10,"med",-0.120766
+"ToMCustom","RTPJ",5,10,"med",-0.059418
+"ToMCustom","RSTS",7,10,"med",0.257084
+"ToMCustom","DM PFC",1,10,"high",0.986964
+"ToMCustom","LTPJ",2,10,"high",0.477567
+"ToMCustom","MM PFC",3,10,"high",-0.001838
+"ToMCustom","PC",4,10,"high",-0.032879
+"ToMCustom","RTPJ",5,10,"high",0.319547
+"ToMCustom","RSTS",7,10,"high",0.443402
+"ToMCustom","DM PFC",1,10,"other",0.026271
+"ToMCustom","LTPJ",2,10,"other",0.438084
+"ToMCustom","MM PFC",3,10,"other",-0.927421
+"ToMCustom","PC",4,10,"other",-0.156225
+"ToMCustom","RTPJ",5,10,"other",0.221606
+"ToMCustom","RSTS",7,10,"other",0.34676
+"ToMCustom","DM PFC",1,11,"low",0.724469
+"ToMCustom","LTPJ",2,11,"low",0.373916
+"ToMCustom","MM PFC",3,11,"low",-1.403165
+"ToMCustom","PC",4,11,"low",-0.126739
+"ToMCustom","RTPJ",5,11,"low",-0.280534
+"ToMCustom","RSTS",7,11,"low",-0.009242
+"ToMCustom","DM PFC",1,11,"med",0.817262
+"ToMCustom","LTPJ",2,11,"med",0.67353
+"ToMCustom","MM PFC",3,11,"med",-0.173138
+"ToMCustom","PC",4,11,"med",0.00747
+"ToMCustom","RTPJ",5,11,"med",-0.038242
+"ToMCustom","RSTS",7,11,"med",0.225248
+"ToMCustom","DM PFC",1,11,"high",1.315279
+"ToMCustom","LTPJ",2,11,"high",0.683423
+"ToMCustom","MM PFC",3,11,"high",0.243824
+"ToMCustom","PC",4,11,"high",-0.073204
+"ToMCustom","RTPJ",5,11,"high",-0.096707
+"ToMCustom","RSTS",7,11,"high",0.203098
+"ToMCustom","DM PFC",1,11,"other",-0.026604
+"ToMCustom","LTPJ",2,11,"other",0.189548
+"ToMCustom","MM PFC",3,11,"other",-1.083262
+"ToMCustom","PC",4,11,"other",-0.481684
+"ToMCustom","RTPJ",5,11,"other",-0.468755
+"ToMCustom","RSTS",7,11,"other",-0.304433
+"ToMCustom","DM PFC",1,12,"low",0.616802
+"ToMCustom","LTPJ",2,12,"low",1.052737
+"ToMCustom","MM PFC",3,12,"low",0.209562
+"ToMCustom","PC",4,12,"low",0.286358
+"ToMCustom","RTPJ",5,12,"low",0.646527
+"ToMCustom","RSTS",7,12,"low",0.450163
+"ToMCustom","DM PFC",1,12,"med",1.000156
+"ToMCustom","LTPJ",2,12,"med",1.545111
+"ToMCustom","MM PFC",3,12,"med",0.547004
+"ToMCustom","PC",4,12,"med",0.468698
+"ToMCustom","RTPJ",5,12,"med",1.183587
+"ToMCustom","RSTS",7,12,"med",0.523761
+"ToMCustom","DM PFC",1,12,"high",0.657713
+"ToMCustom","LTPJ",2,12,"high",1.070019
+"ToMCustom","MM PFC",3,12,"high",0.428356
+"ToMCustom","PC",4,12,"high",0.256685
+"ToMCustom","RTPJ",5,12,"high",0.703451
+"ToMCustom","RSTS",7,12,"high",0.390567
+"ToMCustom","DM PFC",1,12,"other",1.38488
+"ToMCustom","LTPJ",2,12,"other",1.547799
+"ToMCustom","MM PFC",3,12,"other",1.38582
+"ToMCustom","PC",4,12,"other",0.917019
+"ToMCustom","RTPJ",5,12,"other",1.20461
+"ToMCustom","RSTS",7,12,"other",0.653959
+"ToMCustom","LocalizerAverage",0,1,"high",0.474768166666667
+"ToMCustom","LocalizerAverage",0,2,"high",0.351177666666667
+"ToMCustom","LocalizerAverage",0,3,"high",0.118689
+"ToMCustom","LocalizerAverage",0,4,"high",0.602990333333333
+"ToMCustom","LocalizerAverage",0,5,"high",0.283820333333333
+"ToMCustom","LocalizerAverage",0,6,"high",0.190470333333333
+"ToMCustom","LocalizerAverage",0,7,"high",-0.3407885
+"ToMCustom","LocalizerAverage",0,8,"high",0.464873
+"ToMCustom","LocalizerAverage",0,9,"high",0.604843666666667
+"ToMCustom","LocalizerAverage",0,10,"high",0.3654605
+"ToMCustom","LocalizerAverage",0,11,"high",0.3792855
+"ToMCustom","LocalizerAverage",0,12,"high",0.584465166666667
+"LHLang","LocalizerAverage",0,1,"joke",1.230787
+"MDLeft","LocalizerAverage",0,1,"joke",0.936814222222222
+"MDRight","LocalizerAverage",0,1,"joke",0.824005111111111
+"RHLang","LocalizerAverage",0,1,"joke",0.467828833333333
+"ToM","LocalizerAverage",0,1,"joke",0.373003166666667
+"LHLang","LocalizerAverage",0,2,"joke",1.1385095
+"MDLeft","LocalizerAverage",0,2,"joke",0.663553666666667
+"MDRight","LocalizerAverage",0,2,"joke",0.291774555555556
+"RHLang","LocalizerAverage",0,2,"joke",0.547761166666667
+"ToM","LocalizerAverage",0,2,"joke",0.241948833333333
+"LHLang","LocalizerAverage",0,3,"joke",0.425335333333333
+"MDLeft","LocalizerAverage",0,3,"joke",0.682561888888889
+"MDRight","LocalizerAverage",0,3,"joke",0.809910444444444
+"RHLang","LocalizerAverage",0,3,"joke",0.412673333333333
+"ToM","LocalizerAverage",0,3,"joke",0.1530535
+"LHLang","LocalizerAverage",0,4,"joke",1.664531
+"MDLeft","LocalizerAverage",0,4,"joke",0.331110888888889
+"MDRight","LocalizerAverage",0,4,"joke",-0.0434444444444444
+"RHLang","LocalizerAverage",0,4,"joke",0.852081166666667
+"ToM","LocalizerAverage",0,4,"joke",0.321374666666667
+"LHLang","LocalizerAverage",0,5,"joke",1.18993616666667
+"MDLeft","LocalizerAverage",0,5,"joke",1.07598188888889
+"MDRight","LocalizerAverage",0,5,"joke",0.774211333333333
+"RHLang","LocalizerAverage",0,5,"joke",0.539320166666667
+"ToM","LocalizerAverage",0,5,"joke",0.1232365
+"LHLang","LocalizerAverage",0,6,"joke",1.52566633333333
+"MDLeft","LocalizerAverage",0,6,"joke",0.886116777777778
+"MDRight","LocalizerAverage",0,6,"joke",0.495244333333333
+"RHLang","LocalizerAverage",0,6,"joke",0.676984333333333
+"ToM","LocalizerAverage",0,6,"joke",0.320075166666667
+"LHLang","LocalizerAverage",0,7,"joke",0.71035
+"MDLeft","LocalizerAverage",0,7,"joke",0.152586333333333
+"MDRight","LocalizerAverage",0,7,"joke",-0.0433357777777778
+"RHLang","LocalizerAverage",0,7,"joke",-0.121217666666667
+"ToM","LocalizerAverage",0,7,"joke",-0.212574666666667
+"LHLang","LocalizerAverage",0,8,"joke",1.15175733333333
+"MDLeft","LocalizerAverage",0,8,"joke",0.660452444444444
+"MDRight","LocalizerAverage",0,8,"joke",0.332655888888889
+"RHLang","LocalizerAverage",0,8,"joke",0.298832833333333
+"ToM","LocalizerAverage",0,8,"joke",0.121137333333333
+"LHLang","LocalizerAverage",0,9,"joke",1.25822033333333
+"MDLeft","LocalizerAverage",0,9,"joke",0.332246666666667
+"MDRight","LocalizerAverage",0,9,"joke",0.148594888888889
+"RHLang","LocalizerAverage",0,9,"joke",0.677484666666667
+"ToM","LocalizerAverage",0,9,"joke",0.591134333333333
+"LHLang","LocalizerAverage",0,10,"joke",1.86525333333333
+"MDLeft","LocalizerAverage",0,10,"joke",0.776976333333333
+"MDRight","LocalizerAverage",0,10,"joke",0.631887333333333
+"RHLang","LocalizerAverage",0,10,"joke",0.820550333333333
+"ToM","LocalizerAverage",0,10,"joke",0.2998385
+"LHLang","LocalizerAverage",0,11,"joke",1.5122315
+"MDLeft","LocalizerAverage",0,11,"joke",0.632689444444444
+"MDRight","LocalizerAverage",0,11,"joke",0.174079555555556
+"RHLang","LocalizerAverage",0,11,"joke",0.6596015
+"ToM","LocalizerAverage",0,11,"joke",0.0924081666666667
+"LHLang","LocalizerAverage",0,12,"joke",1.77658833333333
+"MDLeft","LocalizerAverage",0,12,"joke",1.32689844444444
+"MDRight","LocalizerAverage",0,12,"joke",0.868935555555556
+"RHLang","LocalizerAverage",0,12,"joke",1.1425455
+"ToM","LocalizerAverage",0,12,"joke",0.8144035
+"LHLang","LocalizerAverage",0,1,"joke-lit",0.0420911666666667
+"MDLeft","LocalizerAverage",0,1,"joke-lit",0.240440444444444
+"MDRight","LocalizerAverage",0,1,"joke-lit",0.200012333333333
+"RHLang","LocalizerAverage",0,1,"joke-lit",0.0723688333333333
+"ToM","LocalizerAverage",0,1,"joke-lit",0.2133135
+"LHLang","LocalizerAverage",0,2,"joke-lit",-0.194264333333333
+"MDLeft","LocalizerAverage",0,2,"joke-lit",-0.00505722222222222
+"MDRight","LocalizerAverage",0,2,"joke-lit",0.0228501111111111
+"RHLang","LocalizerAverage",0,2,"joke-lit",-0.124442333333333
+"ToM","LocalizerAverage",0,2,"joke-lit",0.0491476666666667
+"LHLang","LocalizerAverage",0,3,"joke-lit",0.0987806666666667
+"MDLeft","LocalizerAverage",0,3,"joke-lit",0.226801333333333
+"MDRight","LocalizerAverage",0,3,"joke-lit",0.0534243333333333
+"RHLang","LocalizerAverage",0,3,"joke-lit",0.0521513333333333
+"ToM","LocalizerAverage",0,3,"joke-lit",0.230151833333333
+"LHLang","LocalizerAverage",0,4,"joke-lit",0.3433025
+"MDLeft","LocalizerAverage",0,4,"joke-lit",0.175678
+"MDRight","LocalizerAverage",0,4,"joke-lit",-0.00903344444444444
+"RHLang","LocalizerAverage",0,4,"joke-lit",0.210669166666667
+"ToM","LocalizerAverage",0,4,"joke-lit",0.108684666666667
+"LHLang","LocalizerAverage",0,5,"joke-lit",-0.0176263333333333
+"MDLeft","LocalizerAverage",0,5,"joke-lit",0.239486888888889
+"MDRight","LocalizerAverage",0,5,"joke-lit",0.107555777777778
+"RHLang","LocalizerAverage",0,5,"joke-lit",0.0487513333333333
+"ToM","LocalizerAverage",0,5,"joke-lit",0.0292528333333333
+"LHLang","LocalizerAverage",0,6,"joke-lit",0.0980275
+"MDLeft","LocalizerAverage",0,6,"joke-lit",0.166438888888889
+"MDRight","LocalizerAverage",0,6,"joke-lit",0.181377555555556
+"RHLang","LocalizerAverage",0,6,"joke-lit",0.149037166666667
+"ToM","LocalizerAverage",0,6,"joke-lit",0.228981
+"LHLang","LocalizerAverage",0,7,"joke-lit",-0.0572301666666667
+"MDLeft","LocalizerAverage",0,7,"joke-lit",-0.203426666666667
+"MDRight","LocalizerAverage",0,7,"joke-lit",-0.173877777777778
+"RHLang","LocalizerAverage",0,7,"joke-lit",-0.0914221666666667
+"ToM","LocalizerAverage",0,7,"joke-lit",-0.167435166666667
+"LHLang","LocalizerAverage",0,8,"joke-lit",-0.0831576666666667
+"MDLeft","LocalizerAverage",0,8,"joke-lit",0.167920333333333
+"MDRight","LocalizerAverage",0,8,"joke-lit",0.0560282222222222
+"RHLang","LocalizerAverage",0,8,"joke-lit",0.0554435
+"ToM","LocalizerAverage",0,8,"joke-lit",0.1432815
+"LHLang","LocalizerAverage",0,9,"joke-lit",0.290056333333333
+"MDLeft","LocalizerAverage",0,9,"joke-lit",0.185992444444444
+"MDRight","LocalizerAverage",0,9,"joke-lit",0.104714333333333
+"RHLang","LocalizerAverage",0,9,"joke-lit",0.1222095
+"ToM","LocalizerAverage",0,9,"joke-lit",0.176450166666667
+"LHLang","LocalizerAverage",0,10,"joke-lit",-0.0282103333333333
+"MDLeft","LocalizerAverage",0,10,"joke-lit",0.263140777777778
+"MDRight","LocalizerAverage",0,10,"joke-lit",0.102252222222222
+"RHLang","LocalizerAverage",0,10,"joke-lit",0.0795021666666667
+"ToM","LocalizerAverage",0,10,"joke-lit",0.389536666666667
+"LHLang","LocalizerAverage",0,11,"joke-lit",-0.00157183333333333
+"MDLeft","LocalizerAverage",0,11,"joke-lit",-0.305669333333333
+"MDRight","LocalizerAverage",0,11,"joke-lit",-0.326873
+"RHLang","LocalizerAverage",0,11,"joke-lit",-0.1241825
+"ToM","LocalizerAverage",0,11,"joke-lit",0.00133083333333334
+"LHLang","LocalizerAverage",0,12,"joke-lit",0.00899266666666667
+"MDLeft","LocalizerAverage",0,12,"joke-lit",0.271373333333333
+"MDRight","LocalizerAverage",0,12,"joke-lit",0.114709888888889
+"RHLang","LocalizerAverage",0,12,"joke-lit",-0.00146516666666667
+"ToM","LocalizerAverage",0,12,"joke-lit",0.229680833333333
+"LHLang","LocalizerAverage",0,1,"lit",1.18869566666667
+"MDLeft","LocalizerAverage",0,1,"lit",0.696374
+"MDRight","LocalizerAverage",0,1,"lit",0.623992666666667
+"RHLang","LocalizerAverage",0,1,"lit",0.395459833333333
+"ToM","LocalizerAverage",0,1,"lit",0.159689833333333
+"LHLang","LocalizerAverage",0,2,"lit",1.33277366666667
+"MDLeft","LocalizerAverage",0,2,"lit",0.668610666666667
+"MDRight","LocalizerAverage",0,2,"lit",0.268924444444444
+"RHLang","LocalizerAverage",0,2,"lit",0.672203166666667
+"ToM","LocalizerAverage",0,2,"lit",0.192801
+"LHLang","LocalizerAverage",0,3,"lit",0.326555
+"MDLeft","LocalizerAverage",0,3,"lit",0.455760777777778
+"MDRight","LocalizerAverage",0,3,"lit",0.756486111111111
+"RHLang","LocalizerAverage",0,3,"lit",0.360521833333333
+"ToM","LocalizerAverage",0,3,"lit",-0.0770985
+"LHLang","LocalizerAverage",0,4,"lit",1.32122833333333
+"MDLeft","LocalizerAverage",0,4,"lit",0.155432777777778
+"MDRight","LocalizerAverage",0,4,"lit",-0.0344112222222222
+"RHLang","LocalizerAverage",0,4,"lit",0.6414115
+"ToM","LocalizerAverage",0,4,"lit",0.212690166666667
+"LHLang","LocalizerAverage",0,5,"lit",1.20756216666667
+"MDLeft","LocalizerAverage",0,5,"lit",0.836495
+"MDRight","LocalizerAverage",0,5,"lit",0.666655666666667
+"RHLang","LocalizerAverage",0,5,"lit",0.490569
+"ToM","LocalizerAverage",0,5,"lit",0.0939835
+"LHLang","LocalizerAverage",0,6,"lit",1.42763883333333
+"MDLeft","LocalizerAverage",0,6,"lit",0.719677888888889
+"MDRight","LocalizerAverage",0,6,"lit",0.313866777777778
+"RHLang","LocalizerAverage",0,6,"lit",0.527947
+"ToM","LocalizerAverage",0,6,"lit",0.0910941666666667
+"LHLang","LocalizerAverage",0,7,"lit",0.76758
+"MDLeft","LocalizerAverage",0,7,"lit",0.356012777777778
+"MDRight","LocalizerAverage",0,7,"lit",0.130542
+"RHLang","LocalizerAverage",0,7,"lit",-0.0297955
+"ToM","LocalizerAverage",0,7,"lit",-0.0451393333333333
+"LHLang","LocalizerAverage",0,8,"lit",1.23491466666667
+"MDLeft","LocalizerAverage",0,8,"lit",0.492532444444444
+"MDRight","LocalizerAverage",0,8,"lit",0.276627888888889
+"RHLang","LocalizerAverage",0,8,"lit",0.243389833333333
+"ToM","LocalizerAverage",0,8,"lit",-0.0221441666666667
+"LHLang","LocalizerAverage",0,9,"lit",0.968164
+"MDLeft","LocalizerAverage",0,9,"lit",0.146254222222222
+"MDRight","LocalizerAverage",0,9,"lit",0.0438802222222222
+"RHLang","LocalizerAverage",0,9,"lit",0.555275166666667
+"ToM","LocalizerAverage",0,9,"lit",0.414684333333333
+"LHLang","LocalizerAverage",0,10,"lit",1.89346383333333
+"MDLeft","LocalizerAverage",0,10,"lit",0.513835666666667
+"MDRight","LocalizerAverage",0,10,"lit",0.529635444444444
+"RHLang","LocalizerAverage",0,10,"lit",0.741048333333333
+"ToM","LocalizerAverage",0,10,"lit",-0.0896983333333333
+"LHLang","LocalizerAverage",0,11,"lit",1.51380333333333
+"MDLeft","LocalizerAverage",0,11,"lit",0.938358888888889
+"MDRight","LocalizerAverage",0,11,"lit",0.500952444444444
+"RHLang","LocalizerAverage",0,11,"lit",0.783784
+"ToM","LocalizerAverage",0,11,"lit",0.0910771666666667
+"LHLang","LocalizerAverage",0,12,"lit",1.7675955
+"MDLeft","LocalizerAverage",0,12,"lit",1.055525
+"MDRight","LocalizerAverage",0,12,"lit",0.754225666666667
+"RHLang","LocalizerAverage",0,12,"lit",1.14401033333333
+"ToM","LocalizerAverage",0,12,"lit",0.584723166666667
+"ToMCustom","LocalizerAverage",0,1,"low",0.149211333333333
+"ToMCustom","LocalizerAverage",0,2,"low",0.234334833333333
+"ToMCustom","LocalizerAverage",0,3,"low",0.0352075
+"ToMCustom","LocalizerAverage",0,4,"low",0.165062666666667
+"ToMCustom","LocalizerAverage",0,5,"low",-0.0812308333333333
+"ToMCustom","LocalizerAverage",0,6,"low",0.0848051666666667
+"ToMCustom","LocalizerAverage",0,7,"low",-0.2430755
+"ToMCustom","LocalizerAverage",0,8,"low",0.0484931666666667
+"ToMCustom","LocalizerAverage",0,9,"low",0.2802455
+"ToMCustom","LocalizerAverage",0,10,"low",-0.157357
+"ToMCustom","LocalizerAverage",0,11,"low",-0.120215833333333
+"ToMCustom","LocalizerAverage",0,12,"low",0.5436915
+"ToMCustom","LocalizerAverage",0,1,"med",0.288543666666667
+"ToMCustom","LocalizerAverage",0,2,"med",0.164775666666667
+"ToMCustom","LocalizerAverage",0,3,"med",0.0736363333333333
+"ToMCustom","LocalizerAverage",0,4,"med",0.482733
+"ToMCustom","LocalizerAverage",0,5,"med",0.177138666666667
+"ToMCustom","LocalizerAverage",0,6,"med",0.391390166666667
+"ToMCustom","LocalizerAverage",0,7,"med",-0.270241833333333
+"ToMCustom","LocalizerAverage",0,8,"med",0.0997321666666667
+"ToMCustom","LocalizerAverage",0,9,"med",0.507483333333333
+"ToMCustom","LocalizerAverage",0,10,"med",0.114480333333333
+"ToMCustom","LocalizerAverage",0,11,"med",0.252021666666667
+"ToMCustom","LocalizerAverage",0,12,"med",0.878052833333333
+"ToMCustom","LocalizerAverage",0,1,"other",0.116344
+"ToMCustom","LocalizerAverage",0,2,"other",0.3514515
+"ToMCustom","LocalizerAverage",0,3,"other",-0.461528333333333
+"ToMCustom","LocalizerAverage",0,4,"other",0.375332666666667
+"ToMCustom","LocalizerAverage",0,5,"other",0.120069166666667
+"ToMCustom","LocalizerAverage",0,6,"other",-0.268006833333333
+"ToMCustom","LocalizerAverage",0,7,"other",0.0899923333333333
+"ToMCustom","LocalizerAverage",0,8,"other",-0.0179583333333333
+"ToMCustom","LocalizerAverage",0,9,"other",0.873960833333333
+"ToMCustom","LocalizerAverage",0,10,"other",-0.00848750000000001
+"ToMCustom","LocalizerAverage",0,11,"other",-0.362531666666667
+"ToMCustom","LocalizerAverage",0,12,"other",1.18234783333333

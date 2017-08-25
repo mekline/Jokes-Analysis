@@ -64,11 +64,6 @@ t.test(meanResponse ~ category, data=avgResponse)
 # Graphs!
 ####
 
-#sterr <- function(mylist){
-#  my_se = sd(mylist)/sqrt(length(mylist)) 
-#  
-#  return(my_se)
-#}
 
 #Edit! We should be doing bootstrapped 95% confidence intervals instead! calculate them from allSigChange
 #then merge into mystats
