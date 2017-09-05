@@ -33,7 +33,7 @@ MyDataFolder = '/mindhive/evlab/u/Shared/SUBJECTS/'; % path to the data director
 
 participant_sessions = {{'152_KAN_RHnonlit_01','138_KAN_RHnonlit_02','136_KAN_RHnonlit_03','194_KAN_RHnonlit_04','097_KAN_RHnonlit_05','135_KAN_RHnonlit_06','197_KAN_RHnonlit_07','198_KAN_RHnonlit_08','018_KAN_RHnonlit_09','049_KAN_RHnonlit_10','201_KAN_RHnonlit_11','175_KAN_RHnonlit_12'}}; %The subject IDs of individual subjects you'll analyze
 
-MyOutputFolder = '/mindhive/evlab/u/mekline/Documents/Projects/Jokes_Study1/Jokes_Repo/All_Toolbox_Analyses/SplitHalf_ToMfROIsrespNonlitJokes_20170904_results'; %Where should the results wind up? For testing this script, this is all u need to change and it should just work! Note: usually the scripts are good about this but this one actually does break if you put a slash at the end of your dir name.
+MyOutputFolder = '/mindhive/evlab/u/mekline/Documents/Projects/Jokes_Study1/Jokes_Repo/All_Toolbox_Outputs/SplitHalf_LangfROIsrespNonlitJokes_20170904_results'; %Where should the results wind up? For testing this script, this is all u need to change and it should just work! Note: usually the scripts are good about this but this one actually does break if you put a slash at the end of your dir name.
 
 firstlevel_loc = 'firstlevel_langlocSN'; % path to the first-level analysis directory for the lang localizer or whatever
 firstlevel_crit = 'firstlevel_nonlit_joke'; %path to 1st-level analysis directory for the critical task
