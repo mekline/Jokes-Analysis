@@ -186,18 +186,14 @@ filter(allTests, Group == 'RHLang-toLang', contrastName == 'sent-non', !sig)
 
 ###MD localizer check
 allTests %>%
-  #filter(Group == 'MDRight-toLang', contrastName == 'non-sent') %>%
-  #summarise(n(), sum(sig), reportTests(t,p))
-  filter(Group == 'MDRight-toLang', contrastName == 'non-sent', sig) %>%
-  summarise(n(), sum(sig), reportTests(t,p)) 
-filter(allTests, Group == 'MDRight-toLang', contrastName == 'non-sent', !sig)
+  filter(Group == 'RevLangRight-toMD', contrastName == 'non-sent', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p))  #All sig!
 
 allTests %>%
-  filter(Group == 'MDLeft-toLang', contrastName == 'non-sent', sig) %>%
-  summarise(n(), sum(sig), reportTests(t,p))
-filter(allTests, Group == 'MDLeft-toLang', contrastName == 'non-sent', !sig)
+  filter(Group == 'RevLangLeft-toMD', contrastName == 'non-sent', sig) %>%
+  summarise(n(), sum(sig), reportTests(t,p)) #All sig!
 
-
+###ToM localizer check
 allTests %>%
   filter(Group == 'ToM-toToM', contrastName == 'bel-pho', sig) %>%
   summarise(n(), sum(sig), reportTests(t,p)) 
