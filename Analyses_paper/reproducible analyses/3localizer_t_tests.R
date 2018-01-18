@@ -29,7 +29,7 @@ ToMROI.Names = c('DMPFC', 'LTPJ',  'MMPFC', 'PC',
 
 lang.contrasts = c('sent','non','sent-non')
 revlang.contrasts = c('sent','non','non-sent')
-md.contrasts = c()
+md.contrasts = c('hard','easy','hard-easy')
 tom.contrasts = c('bel','pho','bel-pho')
 
 normal.contrasts = c('joke', 'lit', 'joke-lit')
@@ -49,15 +49,20 @@ myResults = read.csv('LangfROIsrespLangLoc.csv')%>%
   mutate(Group = 'LHLang-toLang')
 allSigChange = rbind(allSigChange, myResults)
 
+#REMOVED old/wrong MD validator (MDfROIsrespRevLangLoc): we want Hard>Easy measured in regions localized
+# by N>S (since most subj have only 1 MD run), *not the reverse*!
 ##TO ADD: MD to Lang localizer measure (Non should > Sent)
-myResults = read.csv('MDfROIsrespRevLangLoc.csv')%>%
+myResults = read.csv('RevLangfROIsrespMD_20171220.csv')%>%
    mutate(ROIName = MDROI.Names[ROI]) %>%
    mutate(contrastName = revlang.contrasts[Contrast])%>%
-   mutate(Group = 'MDall-toLang')
+   mutate(Group = 'RevLang-toMD') %>%
+  select(c("ROI", "ROI.size","average.localizer.mask.size",
+           "inter.subject.overlap","sigChange","SubjectNumber",
+           "Contrast", "ROIName", "contrastName","Group"))
  allSigChange = rbind(allSigChange, myResults)
 #Little extra thing here, rename MD to split by L and R hemisphere!
-allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 1),]$Group = 'MDLeft-toLang'
-allSigChange[(allSigChange$Group == 'MDall-toLang') & (allSigChange$ROI %%2 == 0),]$Group = 'MDRight-toLang'
+allSigChange[(allSigChange$Group == 'RevLang-toMD') & (allSigChange$ROI %%2 == 1),]$Group = 'RevLangLeft-toMD'
+allSigChange[(allSigChange$Group == 'RevLang-toMD') & (allSigChange$ROI %%2 == 0),]$Group = 'RevLangRight-toMD'
 
 
 myResults = read.csv('NewToMfROIsrespToMLoc.csv')%>%
@@ -136,6 +141,11 @@ setwd("~/Dropbox/_Projects/Jokes - fMRI/Jokes-Analysis Repository/Analyses_paper
 zz = file('localizer_t_tests_all.csv', 'w')
 write.csv(allTests, zz, row.names=FALSE)
 close(zz)
+
+#And save out allSigChange to be ported over to the main/E2 analyses
+yy = file('AllSigChange_Exp1.csv', 'w')
+write.csv(allSigChange, yy, row.names=FALSE)
+close(yy)
 
 ########
 # Report those T tests like we want for the paper
